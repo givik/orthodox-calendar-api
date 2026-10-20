@@ -161,14 +161,31 @@
     <div class="card" id="lords-feasts-card">
       <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; border-bottom: 1px solid var(--border); padding-bottom: 8px;">
         <h2 style="margin: 0;">👑 საუფლო დღესასწაულები (Feasts of the Lord)</h2>
-        <span class="badge" style="margin: 0; background: #b45309;">10 უდიდესი დღესასწაული</span>
+        <div style="display: flex; align-items: center; gap: 8px;">
+          <label for="feasts-year-select" style="color: var(--text-muted); font-size: 0.9rem;">წელი:</label>
+          <select id="feasts-year-select" style="padding: 4px 10px; font-size: 0.95rem;">
+            <option value="2024">2024</option>
+            <option value="2025">2025</option>
+            <option value="2026" selected>2026</option>
+            <option value="2027">2027</option>
+            <option value="2028">2028</option>
+            <option value="2029">2029</option>
+            <option value="2030">2030</option>
+            <option value="2031">2031</option>
+            <option value="2032">2032</option>
+            <option value="2033">2033</option>
+            <option value="2034">2034</option>
+            <option value="2035">2035</option>
+          </select>
+          <span class="badge" style="margin: 0; background: #b45309;">10 დღესასწაული</span>
+        </div>
       </div>
       <p style="color: var(--text-muted); font-size: 0.95rem; margin-bottom: 16px;">
-        უფლისა ჩვენისა იესო ქრისტეს სახელზე დაწესებული უდიდესი საუფლო დღესასწაულები მიმდინარე წლისთვის:
+        უფლისა ჩვენისა იესო ქრისტეს სახელზე დაწესებული 10 უდიდესი საუფლო დღესასწაული (როგორც უძრავი, ისე მოძრავი):
       </p>
       <ul class="saints-list" id="lords-feasts-list"></ul>
       <div class="url-box" style="margin-top: 16px;">
-        <span id="lords-api-url">api/ka/feasts_lords.json</span>
+        <span id="lords-api-url">api/ka/feasts_lords_2026.json</span>
         <button class="copy-btn" onclick="copyLordsUrl()">Copy JSON URL</button>
       </div>
     </div>
@@ -254,10 +271,12 @@ async function getSaint(monthDay = '10-14', lang = 'ka') {
 
     const lordsListEl = document.getElementById('lords-feasts-list');
     const lordsApiUrlEl = document.getElementById('lords-api-url');
+    const feastsYearSelect = document.getElementById('feasts-year-select');
 
     async function loadLordsFeasts() {
       const lang = langSelect.value;
-      const lordsPath = `api/${lang}/feasts_lords.json`;
+      const yr = feastsYearSelect ? feastsYearSelect.value : '2026';
+      const lordsPath = `api/${lang}/feasts_lords_${yr}.json`;
       const fullLordsUrl = new URL(lordsPath, window.location.href).href;
       if (lordsApiUrlEl) lordsApiUrlEl.textContent = fullLordsUrl;
 
@@ -286,6 +305,7 @@ async function getSaint(monthDay = '10-14', lang = 'ka') {
 
     dateInput.addEventListener('change', loadData);
     langSelect.addEventListener('change', () => { loadData(); loadLordsFeasts(); });
+    if (feastsYearSelect) feastsYearSelect.addEventListener('change', loadLordsFeasts);
     todayBtn.addEventListener('click', setToday);
 
     // Initial load

@@ -1,0 +1,114 @@
+{
+  "year": 2029,
+  "calendar_style": "old",
+  "language": "ka",
+  "category": "saints",
+  "category_title": "დიდ წმინდანთა დღესასწაულები",
+  "feasts_count": 13,
+  "feasts": [
+    {
+      "category": "saints",
+      "category_name": "დიდი წმინდანის ხსენება",
+      "type": "fixed",
+      "code": "st_nino",
+      "title": "წმ. ნინოს ხსენება (ნინოობა)",
+      "gregorian_date": "2029-01-27"
+    },
+    {
+      "category": "saints",
+      "category_name": "დიდი წმინდანის ხსენება",
+      "type": "fixed",
+      "code": "david_builder",
+      "title": "წმ. დავით აღმაშენებელი (დავითობა)",
+      "gregorian_date": "2029-02-08"
+    },
+    {
+      "category": "saints",
+      "category_name": "დიდი წმინდანის ხსენება",
+      "type": "fixed",
+      "code": "st_george",
+      "title": "წმ. დიდმოწამე გიორგი (გიორგობა)",
+      "gregorian_date": "2029-05-06"
+    },
+    {
+      "category": "saints",
+      "category_name": "დიდი წმინდანის ხსენება",
+      "type": "fixed",
+      "code": "st_tamar",
+      "title": "წმ. თამარ მეფე (თამარობა)",
+      "gregorian_date": "2029-05-14"
+    },
+    {
+      "category": "saints",
+      "category_name": "დიდი წმინდანის ხსენება",
+      "type": "fixed",
+      "code": "nativity_baptist",
+      "title": "შობა წმ. იოანე ნათლისმცემლისა",
+      "gregorian_date": "2029-07-07"
+    },
+    {
+      "category": "saints",
+      "category_name": "დიდი წმინდანის ხსენება",
+      "type": "fixed",
+      "code": "peter_and_paul",
+      "title": "წმ. მოციქულები პეტრე და პავლე (პეტრე-პავლობა)",
+      "gregorian_date": "2029-07-12"
+    },
+    {
+      "category": "saints",
+      "category_name": "დიდი წმინდანის ხსენება",
+      "type": "fixed",
+      "code": "prophet_elijah",
+      "title": "წმ. ელია წინასწარმეტყველი (ელიაობა) და წმ. ილია მართალი",
+      "gregorian_date": "2029-08-02"
+    },
+    {
+      "category": "saints",
+      "category_name": "დიდი წმინდანის ხსენება",
+      "type": "fixed",
+      "code": "beheading_baptist",
+      "title": "იოანე ნათლისმცემლის თავისკვეთა",
+      "gregorian_date": "2029-09-11"
+    },
+    {
+      "category": "saints",
+      "category_name": "დიდი წმინდანის ხსენება",
+      "type": "fixed",
+      "code": "hundred_thousand",
+      "title": "ას წამებულთა ხსენება (ასი ათასი ქართველი მოწამე)",
+      "gregorian_date": "2029-11-13"
+    },
+    {
+      "category": "saints",
+      "category_name": "დიდი წმინდანის ხსენება",
+      "type": "fixed",
+      "code": "st_george_wheeling",
+      "title": "წმ. გიორგის ბორბალზე წამება (გიორგობა)",
+      "gregorian_date": "2029-11-23"
+    },
+    {
+      "category": "saints",
+      "category_name": "დიდი წმინდანის ხსენება",
+      "type": "fixed",
+      "code": "st_andrew_vakhtang",
+      "title": "წმ. ანდრია პირველწოდებული და წმ. ვახტანგ გორგასალი",
+      "gregorian_date": "2029-12-13"
+    },
+    {
+      "category": "saints",
+      "category_name": "დიდი წმინდანის ხსენება",
+      "type": "fixed",
+      "code": "st_barbara",
+      "title": "წმ. დიდმოწამე ბარბარე (ბარბარობა)",
+      "gregorian_date": "2029-12-17"
+    },
+    {
+      "category": "saints",
+      "category_name": "დიდი წმინდანის ხსენება",
+      "type": "fixed",
+      "code": "st_nicholas",
+      "title": "წმ. ნიკოლოზ საკვირველთმოქმედი (ნიკოლოზობა)",
+      "gregorian_date": "2029-12-19"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "year": 2024,
+  "calendar_style": "old",
+  "language": "ru",
+  "category": "theotokos",
+  "category_title": "Богородичные праздники",
+  "feasts_count": 5,
+  "feasts": [
+    {
+      "category": "theotokos",
+      "category_name": "Богородичный праздник",
+      "type": "fixed",
+      "code": "annunciation",
+      "title": "Благовещение Пресвятой Богородицы",
+      "gregorian_date": "2024-04-07"
+    },
+    {
+      "category": "theotokos",
+      "category_name": "Богородичный праздник",
+      "type": "fixed",
+      "code": "dormition",
+      "title": "Успение Пресвятой Богородицы",
+      "gregorian_date": "2024-08-28"
+    },
+    {
+      "category": "theotokos",
+      "category_name": "Богородичный праздник",
+      "type": "fixed",
+      "code": "nativity_theotokos",
+      "title": "Рождество Пресвятой Богородицы",
+      "gregorian_date": "2024-09-21"
+    },
+    {
+      "category": "theotokos",
+      "category_name": "Богородичный праздник",
+      "type": "fixed",
+      "code": "svetitskhovloba",
+      "title": "Светицховлоба и Покров Богородицы",
+      "gregorian_date": "2024-10-14"
+    },
+    {
+      "category": "theotokos",
+      "category_name": "Богородичный праздник",
+      "type": "fixed",
+      "code": "entry_theotokos",
+      "title": "Введение во храм Пресвятой Богородицы",
+      "gregorian_date": "2024-12-04"
+    }
+  ]
+}

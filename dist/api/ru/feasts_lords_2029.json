@@ -1,0 +1,90 @@
+{
+  "year": 2029,
+  "calendar_style": "old",
+  "language": "ru",
+  "category": "lords",
+  "category_title": "Господские праздники",
+  "feasts_count": 10,
+  "feasts": [
+    {
+      "category": "lords",
+      "category_name": "Господский праздник",
+      "type": "fixed",
+      "code": "nativity_christ",
+      "title": "Рождество Христово",
+      "gregorian_date": "2029-01-07"
+    },
+    {
+      "category": "lords",
+      "category_name": "Господский праздник",
+      "type": "fixed",
+      "code": "circumcision",
+      "title": "Обрезание Господне",
+      "gregorian_date": "2029-01-14"
+    },
+    {
+      "category": "lords",
+      "category_name": "Господский праздник",
+      "type": "fixed",
+      "code": "theophany",
+      "title": "Крещение Господне (Богоявление)",
+      "gregorian_date": "2029-01-19"
+    },
+    {
+      "category": "lords",
+      "category_name": "Господский праздник",
+      "type": "fixed",
+      "code": "meeting_lord",
+      "title": "Сретение Господне",
+      "gregorian_date": "2029-02-15"
+    },
+    {
+      "category": "lords",
+      "category_name": "Господский праздник",
+      "type": "movable",
+      "code": "palm_sunday",
+      "title": "Вербное воскресенье — Вход Господень в Иерусалим",
+      "gregorian_date": "2029-04-01"
+    },
+    {
+      "category": "lords",
+      "category_name": "Господский праздник",
+      "type": "movable",
+      "code": "pascha",
+      "title": "Светлое Христово Воскресение (Пасха)",
+      "gregorian_date": "2029-04-08"
+    },
+    {
+      "category": "lords",
+      "category_name": "Господский праздник",
+      "type": "movable",
+      "code": "ascension",
+      "title": "Вознесение Господне",
+      "gregorian_date": "2029-05-17"
+    },
+    {
+      "category": "lords",
+      "category_name": "Господский праздник",
+      "type": "movable",
+      "code": "pentecost",
+      "title": "День Святой Троицы (Пятидесятница)",
+      "gregorian_date": "2029-05-27"
+    },
+    {
+      "category": "lords",
+      "category_name": "Господский праздник",
+      "type": "fixed",
+      "code": "transfiguration",
+      "title": "Преображение Господне",
+      "gregorian_date": "2029-08-19"
+    },
+    {
+      "category": "lords",
+      "category_name": "Господский праздник",
+      "type": "fixed",
+      "code": "elevation_cross",
+      "title": "Воздвижение Креста Господня",
+      "gregorian_date": "2029-09-27"
+    }
+  ]
+}

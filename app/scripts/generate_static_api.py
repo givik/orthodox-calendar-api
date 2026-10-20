@@ -97,32 +97,59 @@ def generate():
     with open(DIST_DIR / "api" / "all.json", "w", encoding="utf-8") as f:
         json.dump(gregorian_combined_all, f, ensure_ascii=False, indent=2)
 
-    # 4. Generate Feast Category Files (საუფლო, საღვთისმშობლო, წმინდანთა)
+    # 4. Generate Feast Category Files (საუფლო, საღვთისმშობლო, წმინდანთა) for years 2024-2035
     from app.core.calendar_service import CalendarService
     svc = CalendarService()
     feasts_dir = DIST_DIR / "api" / "feasts"
     feasts_dir.mkdir(parents=True, exist_ok=True)
+    pascha_dir = DIST_DIR / "api" / "pascha"
+    pascha_dir.mkdir(parents=True, exist_ok=True)
 
-    # Default year: current civil year
     current_year = date.today().year
+    years_range = list(range(2024, 2036))  # 2024 to 2035
 
-    for cat in ("lords", "theotokos", "saints"):
-        cat_data = {}
+    multi_year_lords = {"ka": {}, "en": {}, "ru": {}}
+    multi_year_pascha = {"ka": {}, "en": {}, "ru": {}}
+
+    for yr in years_range:
+        # Pascha info per year
         for lang in ("ka", "en", "ru"):
-            res = svc.get_year_feasts(current_year, lang=lang, category=cat)
-            cat_data[lang] = res
-            with open(DIST_DIR / "api" / lang / f"feasts_{cat}.json", "w", encoding="utf-8") as f:
-                json.dump(res, f, ensure_ascii=False, indent=2)
-        with open(feasts_dir / f"{cat}.json", "w", encoding="utf-8") as f:
-            json.dump(cat_data, f, ensure_ascii=False, indent=2)
+            p_data = svc.get_pascha_info(yr, lang=lang)
+            multi_year_pascha[lang][str(yr)] = p_data
+            with open(pascha_dir / f"{yr}_{lang}.json", "w", encoding="utf-8") as f:
+                json.dump(p_data, f, ensure_ascii=False, indent=2)
 
-    all_feasts_data = {}
+        # Feasts per category per year
+        for cat in ("lords", "theotokos", "saints"):
+            for lang in ("ka", "en", "ru"):
+                res = svc.get_year_feasts(yr, lang=lang, category=cat)
+                if cat == "lords":
+                    multi_year_lords[lang][str(yr)] = res
+
+                # Write year-specific file: e.g. feasts_lords_2027.json
+                with open(DIST_DIR / "api" / lang / f"feasts_{cat}_{yr}.json", "w", encoding="utf-8") as f:
+                    json.dump(res, f, ensure_ascii=False, indent=2)
+
+                # If current year, also write default unversioned file
+                if yr == current_year:
+                    with open(DIST_DIR / "api" / lang / f"feasts_{cat}.json", "w", encoding="utf-8") as f:
+                        json.dump(res, f, ensure_ascii=False, indent=2)
+
+    # Save multi-year index files
     for lang in ("ka", "en", "ru"):
-        all_feasts_data[lang] = svc.get_year_feasts(current_year, lang=lang)
-    with open(feasts_dir / "all.json", "w", encoding="utf-8") as f:
-        json.dump(all_feasts_data, f, ensure_ascii=False, indent=2)
+        with open(feasts_dir / f"lords_all_years_{lang}.json", "w", encoding="utf-8") as f:
+            json.dump(multi_year_lords[lang], f, ensure_ascii=False, indent=2)
+        with open(pascha_dir / f"all_years_{lang}.json", "w", encoding="utf-8") as f:
+            json.dump(multi_year_pascha[lang], f, ensure_ascii=False, indent=2)
 
-    print("Static JSON files generated successfully!")
+    # Backward compatibility: write default feasts/lords.json
+    cat_data_default = {}
+    for lang in ("ka", "en", "ru"):
+        cat_data_default[lang] = svc.get_year_feasts(current_year, lang=lang, category="lords")
+    with open(feasts_dir / "lords.json", "w", encoding="utf-8") as f:
+        json.dump(cat_data_default, f, ensure_ascii=False, indent=2)
+
+    print("Static JSON files (2024-2035) generated successfully!")
 
 if __name__ == "__main__":
     generate()

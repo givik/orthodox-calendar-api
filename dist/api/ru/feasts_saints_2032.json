@@ -1,0 +1,114 @@
+{
+  "year": 2032,
+  "calendar_style": "old",
+  "language": "ru",
+  "category": "saints",
+  "category_title": "Праздники великих святых",
+  "feasts_count": 13,
+  "feasts": [
+    {
+      "category": "saints",
+      "category_name": "Память великого святого",
+      "type": "fixed",
+      "code": "st_nino",
+      "title": "Равноапостольной Нины Грузии",
+      "gregorian_date": "2032-01-27"
+    },
+    {
+      "category": "saints",
+      "category_name": "Память великого святого",
+      "type": "fixed",
+      "code": "david_builder",
+      "title": "Благоверного царя Давида Строителя",
+      "gregorian_date": "2032-02-08"
+    },
+    {
+      "category": "saints",
+      "category_name": "Память великого святого",
+      "type": "fixed",
+      "code": "st_george",
+      "title": "Святого великомученика Георгия",
+      "gregorian_date": "2032-05-06"
+    },
+    {
+      "category": "saints",
+      "category_name": "Память великого святого",
+      "type": "fixed",
+      "code": "st_tamar",
+      "title": "Благоверной царицы Тамары",
+      "gregorian_date": "2032-05-14"
+    },
+    {
+      "category": "saints",
+      "category_name": "Память великого святого",
+      "type": "fixed",
+      "code": "nativity_baptist",
+      "title": "Рождество Иоанна Предтечи",
+      "gregorian_date": "2032-07-07"
+    },
+    {
+      "category": "saints",
+      "category_name": "Память великого святого",
+      "type": "fixed",
+      "code": "peter_and_paul",
+      "title": "Святых апостолов Петра и Павла",
+      "gregorian_date": "2032-07-12"
+    },
+    {
+      "category": "saints",
+      "category_name": "Память великого святого",
+      "type": "fixed",
+      "code": "prophet_elijah",
+      "title": "Святого пророка Илии",
+      "gregorian_date": "2032-08-02"
+    },
+    {
+      "category": "saints",
+      "category_name": "Память великого святого",
+      "type": "fixed",
+      "code": "beheading_baptist",
+      "title": "Усекновение главы Иоанна Предтечи",
+      "gregorian_date": "2032-09-11"
+    },
+    {
+      "category": "saints",
+      "category_name": "Память великого святого",
+      "type": "fixed",
+      "code": "hundred_thousand",
+      "title": "100 000 святых мучеников Тбилисских",
+      "gregorian_date": "2032-11-13"
+    },
+    {
+      "category": "saints",
+      "category_name": "Память великого святого",
+      "type": "fixed",
+      "code": "st_george_wheeling",
+      "title": "Колесование святого великомученика Георгия",
+      "gregorian_date": "2032-11-23"
+    },
+    {
+      "category": "saints",
+      "category_name": "Память великого святого",
+      "type": "fixed",
+      "code": "st_andrew_vakhtang",
+      "title": "Апостола Андрея и царя Вахтанга Горгасали",
+      "gregorian_date": "2032-12-13"
+    },
+    {
+      "category": "saints",
+      "category_name": "Память великого святого",
+      "type": "fixed",
+      "code": "st_barbara",
+      "title": "Святой великомученицы Варвары",
+      "gregorian_date": "2032-12-17"
+    },
+    {
+      "category": "saints",
+      "category_name": "Память великого святого",
+      "type": "fixed",
+      "code": "st_nicholas",
+      "title": "Святителя Николая Чудотворца",
+      "gregorian_date": "2032-12-19"
+    }
+  ]
+}

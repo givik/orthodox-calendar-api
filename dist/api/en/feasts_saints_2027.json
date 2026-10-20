@@ -1,0 +1,114 @@
+{
+  "year": 2027,
+  "calendar_style": "old",
+  "language": "en",
+  "category": "saints",
+  "category_title": "Great Saints Feasts",
+  "feasts_count": 13,
+  "feasts": [
+    {
+      "category": "saints",
+      "category_name": "Great Saint Commemoration",
+      "type": "fixed",
+      "code": "st_nino",
+      "title": "St. Nino, Enlightener of Georgia",
+      "gregorian_date": "2027-01-27"
+    },
+    {
+      "category": "saints",
+      "category_name": "Great Saint Commemoration",
+      "type": "fixed",
+      "code": "david_builder",
+      "title": "St. David the Builder of Georgia",
+      "gregorian_date": "2027-02-08"
+    },
+    {
+      "category": "saints",
+      "category_name": "Great Saint Commemoration",
+      "type": "fixed",
+      "code": "st_george",
+      "title": "Holy Great Martyr George",
+      "gregorian_date": "2027-05-06"
+    },
+    {
+      "category": "saints",
+      "category_name": "Great Saint Commemoration",
+      "type": "fixed",
+      "code": "st_tamar",
+      "title": "Holy Queen Tamar of Georgia",
+      "gregorian_date": "2027-05-14"
+    },
+    {
+      "category": "saints",
+      "category_name": "Great Saint Commemoration",
+      "type": "fixed",
+      "code": "nativity_baptist",
+      "title": "Nativity of St. John the Baptist",
+      "gregorian_date": "2027-07-07"
+    },
+    {
+      "category": "saints",
+      "category_name": "Great Saint Commemoration",
+      "type": "fixed",
+      "code": "peter_and_paul",
+      "title": "Holy Apostles Peter and Paul",
+      "gregorian_date": "2027-07-12"
+    },
+    {
+      "category": "saints",
+      "category_name": "Great Saint Commemoration",
+      "type": "fixed",
+      "code": "prophet_elijah",
+      "title": "Holy Prophet Elijah & St. Ilia the Righteous",
+      "gregorian_date": "2027-08-02"
+    },
+    {
+      "category": "saints",
+      "category_name": "Great Saint Commemoration",
+      "type": "fixed",
+      "code": "beheading_baptist",
+      "title": "Beheading of St. John the Baptist",
+      "gregorian_date": "2027-09-11"
+    },
+    {
+      "category": "saints",
+      "category_name": "Great Saint Commemoration",
+      "type": "fixed",
+      "code": "hundred_thousand",
+      "title": "100,000 Holy Martyrs of Tbilisi",
+      "gregorian_date": "2027-11-13"
+    },
+    {
+      "category": "saints",
+      "category_name": "Great Saint Commemoration",
+      "type": "fixed",
+      "code": "st_george_wheeling",
+      "title": "Wheeling of St. George",
+      "gregorian_date": "2027-11-23"
+    },
+    {
+      "category": "saints",
+      "category_name": "Great Saint Commemoration",
+      "type": "fixed",
+      "code": "st_andrew_vakhtang",
+      "title": "St. Andrew the First-Called & St. Vakhtang Gorgasali",
+      "gregorian_date": "2027-12-13"
+    },
+    {
+      "category": "saints",
+      "category_name": "Great Saint Commemoration",
+      "type": "fixed",
+      "code": "st_barbara",
+      "title": "Holy Great Martyr Barbara",
+      "gregorian_date": "2027-12-17"
+    },
+    {
+      "category": "saints",
+      "category_name": "Great Saint Commemoration",
+      "type": "fixed",
+      "code": "st_nicholas",
+      "title": "St. Nicholas the Wonderworker",
+      "gregorian_date": "2027-12-19"
+    }
+  ]
+}

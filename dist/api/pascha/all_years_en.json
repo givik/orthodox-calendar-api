@@ -1,0 +1,3182 @@
+{
+  "2024": {
+    "year": 2024,
+    "orthodox_pascha": {
+      "gregorian_date": "2024-05-05",
+      "julian_date": "2024-04-22"
+    },
+    "movable_cycle_events": [
+      {
+        "date": "2024-02-25",
+        "offset": -70,
+        "code": "triodion_begins",
+        "type": "sunday",
+        "title": "Sunday of the Publican and the Pharisee",
+        "description": "Beginning of the Lenten Triodion. Fast-free week."
+      },
+      {
+        "date": "2024-03-03",
+        "offset": -63,
+        "code": "prodigal_son",
+        "type": "sunday",
+        "title": "Sunday of the Prodigal Son",
+        "description": "Parable of the Prodigal Son: repentance and forgiveness."
+      },
+      {
+        "date": "2024-03-10",
+        "offset": -56,
+        "code": "meatfare_sunday",
+        "type": "sunday",
+        "title": "Meatfare Sunday (Sunday of the Last Judgment)",
+        "description": "Last day meat is permitted before Great Lent."
+      },
+      {
+        "date": "2024-03-11",
+        "offset": -55,
+        "code": "cheesefare_week_begins",
+        "type": "fast",
+        "title": "Cheesefare Week Begins",
+        "description": "No meat; dairy, eggs, and fish permitted every day."
+      },
+      {
+        "date": "2024-03-17",
+        "offset": -49,
+        "code": "forgiveness_sunday",
+        "type": "sunday",
+        "title": "Cheesefare Sunday (Forgiveness Sunday / Expulsion of Adam)",
+        "description": "Forgiveness Sunday and mutual asking of pardon before Great Lent."
+      },
+      {
+        "date": "2024-03-18",
+        "offset": -48,
+        "code": "clean_monday",
+        "type": "fast_start",
+        "title": "Clean Monday — Beginning of Great Lent",
+        "description": "First day of the holy Forty Days of Great Lent."
+      },
+      {
+        "date": "2024-03-24",
+        "offset": -42,
+        "code": "sunday_orthodoxy",
+        "type": "sunday",
+        "title": "Sunday of Orthodoxy (First Sunday of Great Lent)",
+        "description": "Restoration of the Holy Icons and triumph over iconoclasm."
+      },
+      {
+        "date": "2024-03-31",
+        "offset": -35,
+        "code": "sunday_palamas",
+        "type": "sunday",
+        "title": "Sunday of St. Gregory Palamas (Second Sunday of Great Lent)",
+        "description": "Commemoration of St. Gregory Palamas and the Divine Uncreated Light."
+      },
+      {
+        "date": "2024-04-07",
+        "offset": -28,
+        "code": "sunday_cross",
+        "type": "sunday",
+        "title": "Sunday of the Holy Cross (Third Sunday of Great Lent)",
+        "description": "Veneration of the Precious and Life-Giving Cross of the Lord."
+      },
+      {
+        "date": "2024-04-14",
+        "offset": -21,
+        "code": "sunday_climacus",
+        "type": "sunday",
+        "title": "Sunday of St. John Climacus (Fourth Sunday of Great Lent)",
+        "description": "Commemoration of St. John Climacus, author of The Ladder of Divine Ascent."
+      },
+      {
+        "date": "2024-04-21",
+        "offset": -14,
+        "code": "sunday_mary_egypt",
+        "type": "sunday",
+        "title": "Sunday of St. Mary of Egypt (Fifth Sunday of Great Lent)",
+        "description": "Commemoration of St. Mary of Egypt, exemplar of repentance."
+      },
+      {
+        "date": "2024-04-27",
+        "offset": -8,
+        "code": "lazarus_saturday",
+        "type": "feast",
+        "title": "Lazarus Saturday (Resurrection of Righteous Lazarus)",
+        "description": "Assurance of the universal resurrection before Christ's Passion."
+      },
+      {
+        "date": "2024-04-28",
+        "offset": -7,
+        "code": "palm_sunday",
+        "type": "twelve_feast",
+        "title": "Palm Sunday — The Entry of the Lord into Jerusalem",
+        "description": "One of the Twelve Great Feasts. Fish allowed."
+      },
+      {
+        "date": "2024-04-29",
+        "offset": -6,
+        "code": "holy_monday",
+        "type": "holy_week",
+        "title": "Great and Holy Monday",
+        "description": "Commemoration of Joseph the Patriarch and the barren fig tree."
+      },
+      {
+        "date": "2024-04-30",
+        "offset": -5,
+        "code": "holy_tuesday",
+        "type": "holy_week",
+        "title": "Great and Holy Tuesday",
+        "description": "Parable of the Ten Virgins and spiritual vigilance."
+      },
+      {
+        "date": "2024-05-01",
+        "offset": -4,
+        "code": "holy_wednesday",
+        "type": "holy_week",
+        "title": "Great and Holy Wednesday",
+        "description": "The anointing of Christ with myrrh and the betrayal by Judas."
+      },
+      {
+        "date": "2024-05-02",
+        "offset": -3,
+        "code": "holy_thursday",
+        "type": "holy_week",
+        "title": "Great and Holy Thursday — The Mystical Supper",
+        "description": "Institution of the Holy Eucharist and Mystical Supper."
+      },
+      {
+        "date": "2024-05-03",
+        "offset": -2,
+        "code": "holy_friday",
+        "type": "holy_week",
+        "title": "Great and Holy Friday — The Crucifixion of Christ",
+        "description": "The Holy Passion, Crucifixion and Burial of Jesus Christ. Strict fast."
+      },
+      {
+        "date": "2024-05-04",
+        "offset": -1,
+        "code": "holy_saturday",
+        "type": "holy_week",
+        "title": "Great and Holy Saturday — Christ in the Tomb",
+        "description": "Christ's bodily rest in the tomb and descent into Hades."
+      },
+      {
+        "date": "2024-05-05",
+        "offset": 0,
+        "code": "pascha",
+        "type": "feast_of_feasts",
+        "title": "The Bright and Glorious Resurrection of Christ (Pascha)",
+        "description": "The Feast of Feasts and Solemnity of Solemnities. Christ is Risen!"
+      },
+      {
+        "date": "2024-05-06",
+        "offset": 1,
+        "code": "bright_monday",
+        "type": "bright_week",
+        "title": "Bright Monday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2024-05-07",
+        "offset": 2,
+        "code": "bright_tuesday",
+        "type": "bright_week",
+        "title": "Bright Tuesday (Apparition of the Iveron Icon of Theotokos)",
+        "description": "Appearance of the Portaitissa (Iveron) Icon of the Mother of God."
+      },
+      {
+        "date": "2024-05-08",
+        "offset": 3,
+        "code": "bright_wednesday",
+        "type": "bright_week",
+        "title": "Bright Wednesday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2024-05-09",
+        "offset": 4,
+        "code": "bright_thursday",
+        "type": "bright_week",
+        "title": "Bright Thursday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2024-05-10",
+        "offset": 5,
+        "code": "bright_friday",
+        "type": "bright_week",
+        "title": "Bright Friday (Life-Giving Spring of the Theotokos)",
+        "description": "The Life-Giving Spring of the Mother of God."
+      },
+      {
+        "date": "2024-05-11",
+        "offset": 6,
+        "code": "bright_saturday",
+        "type": "bright_week",
+        "title": "Bright Saturday (Distribution of Artos)",
+        "description": "Distribution of the Artos (Paschal bread) to the faithful."
+      },
+      {
+        "date": "2024-05-12",
+        "offset": 7,
+        "code": "thomas_sunday",
+        "type": "sunday",
+        "title": "Thomas Sunday (Antipascha)",
+        "description": "Confession of St. Thomas: 'My Lord and my God!'"
+      },
+      {
+        "date": "2024-06-13",
+        "offset": 39,
+        "code": "ascension",
+        "type": "twelve_feast",
+        "title": "The Ascension of our Lord Jesus Christ",
+        "description": "Fortieth day after Pascha. One of the Twelve Great Feasts."
+      },
+      {
+        "date": "2024-06-23",
+        "offset": 49,
+        "code": "pentecost",
+        "type": "twelve_feast",
+        "title": "Pentecost (Descent of the Holy Spirit / Holy Trinity)",
+        "description": "Fiftieth day after Pascha. Birthday of the Church. Twelve Great Feast."
+      },
+      {
+        "date": "2024-06-24",
+        "offset": 50,
+        "code": "holy_spirit_day",
+        "type": "feast",
+        "title": "Day of the Holy Spirit",
+        "description": "Monday after Pentecost, glorifying the Third Person of the Trinity."
+      },
+      {
+        "date": "2024-06-30",
+        "offset": 56,
+        "code": "all_saints_sunday",
+        "type": "sunday",
+        "title": "Sunday of All Saints",
+        "description": "First Sunday after Pentecost, commemorating all saints throughout history."
+      },
+      {
+        "date": "2024-07-01",
+        "offset": 57,
+        "code": "apostles_fast_begins",
+        "type": "fast_start",
+        "title": "Apostles' Fast Begins",
+        "description": "Monday after All Saints Sunday, continuing until SS Peter and Paul (July 12)."
+      }
+    ]
+  },
+  "2025": {
+    "year": 2025,
+    "orthodox_pascha": {
+      "gregorian_date": "2025-04-20",
+      "julian_date": "2025-04-07"
+    },
+    "movable_cycle_events": [
+      {
+        "date": "2025-02-09",
+        "offset": -70,
+        "code": "triodion_begins",
+        "type": "sunday",
+        "title": "Sunday of the Publican and the Pharisee",
+        "description": "Beginning of the Lenten Triodion. Fast-free week."
+      },
+      {
+        "date": "2025-02-16",
+        "offset": -63,
+        "code": "prodigal_son",
+        "type": "sunday",
+        "title": "Sunday of the Prodigal Son",
+        "description": "Parable of the Prodigal Son: repentance and forgiveness."
+      },
+      {
+        "date": "2025-02-23",
+        "offset": -56,
+        "code": "meatfare_sunday",
+        "type": "sunday",
+        "title": "Meatfare Sunday (Sunday of the Last Judgment)",
+        "description": "Last day meat is permitted before Great Lent."
+      },
+      {
+        "date": "2025-02-24",
+        "offset": -55,
+        "code": "cheesefare_week_begins",
+        "type": "fast",
+        "title": "Cheesefare Week Begins",
+        "description": "No meat; dairy, eggs, and fish permitted every day."
+      },
+      {
+        "date": "2025-03-02",
+        "offset": -49,
+        "code": "forgiveness_sunday",
+        "type": "sunday",
+        "title": "Cheesefare Sunday (Forgiveness Sunday / Expulsion of Adam)",
+        "description": "Forgiveness Sunday and mutual asking of pardon before Great Lent."
+      },
+      {
+        "date": "2025-03-03",
+        "offset": -48,
+        "code": "clean_monday",
+        "type": "fast_start",
+        "title": "Clean Monday — Beginning of Great Lent",
+        "description": "First day of the holy Forty Days of Great Lent."
+      },
+      {
+        "date": "2025-03-09",
+        "offset": -42,
+        "code": "sunday_orthodoxy",
+        "type": "sunday",
+        "title": "Sunday of Orthodoxy (First Sunday of Great Lent)",
+        "description": "Restoration of the Holy Icons and triumph over iconoclasm."
+      },
+      {
+        "date": "2025-03-16",
+        "offset": -35,
+        "code": "sunday_palamas",
+        "type": "sunday",
+        "title": "Sunday of St. Gregory Palamas (Second Sunday of Great Lent)",
+        "description": "Commemoration of St. Gregory Palamas and the Divine Uncreated Light."
+      },
+      {
+        "date": "2025-03-23",
+        "offset": -28,
+        "code": "sunday_cross",
+        "type": "sunday",
+        "title": "Sunday of the Holy Cross (Third Sunday of Great Lent)",
+        "description": "Veneration of the Precious and Life-Giving Cross of the Lord."
+      },
+      {
+        "date": "2025-03-30",
+        "offset": -21,
+        "code": "sunday_climacus",
+        "type": "sunday",
+        "title": "Sunday of St. John Climacus (Fourth Sunday of Great Lent)",
+        "description": "Commemoration of St. John Climacus, author of The Ladder of Divine Ascent."
+      },
+      {
+        "date": "2025-04-06",
+        "offset": -14,
+        "code": "sunday_mary_egypt",
+        "type": "sunday",
+        "title": "Sunday of St. Mary of Egypt (Fifth Sunday of Great Lent)",
+        "description": "Commemoration of St. Mary of Egypt, exemplar of repentance."
+      },
+      {
+        "date": "2025-04-12",
+        "offset": -8,
+        "code": "lazarus_saturday",
+        "type": "feast",
+        "title": "Lazarus Saturday (Resurrection of Righteous Lazarus)",
+        "description": "Assurance of the universal resurrection before Christ's Passion."
+      },
+      {
+        "date": "2025-04-13",
+        "offset": -7,
+        "code": "palm_sunday",
+        "type": "twelve_feast",
+        "title": "Palm Sunday — The Entry of the Lord into Jerusalem",
+        "description": "One of the Twelve Great Feasts. Fish allowed."
+      },
+      {
+        "date": "2025-04-14",
+        "offset": -6,
+        "code": "holy_monday",
+        "type": "holy_week",
+        "title": "Great and Holy Monday",
+        "description": "Commemoration of Joseph the Patriarch and the barren fig tree."
+      },
+      {
+        "date": "2025-04-15",
+        "offset": -5,
+        "code": "holy_tuesday",
+        "type": "holy_week",
+        "title": "Great and Holy Tuesday",
+        "description": "Parable of the Ten Virgins and spiritual vigilance."
+      },
+      {
+        "date": "2025-04-16",
+        "offset": -4,
+        "code": "holy_wednesday",
+        "type": "holy_week",
+        "title": "Great and Holy Wednesday",
+        "description": "The anointing of Christ with myrrh and the betrayal by Judas."
+      },
+      {
+        "date": "2025-04-17",
+        "offset": -3,
+        "code": "holy_thursday",
+        "type": "holy_week",
+        "title": "Great and Holy Thursday — The Mystical Supper",
+        "description": "Institution of the Holy Eucharist and Mystical Supper."
+      },
+      {
+        "date": "2025-04-18",
+        "offset": -2,
+        "code": "holy_friday",
+        "type": "holy_week",
+        "title": "Great and Holy Friday — The Crucifixion of Christ",
+        "description": "The Holy Passion, Crucifixion and Burial of Jesus Christ. Strict fast."
+      },
+      {
+        "date": "2025-04-19",
+        "offset": -1,
+        "code": "holy_saturday",
+        "type": "holy_week",
+        "title": "Great and Holy Saturday — Christ in the Tomb",
+        "description": "Christ's bodily rest in the tomb and descent into Hades."
+      },
+      {
+        "date": "2025-04-20",
+        "offset": 0,
+        "code": "pascha",
+        "type": "feast_of_feasts",
+        "title": "The Bright and Glorious Resurrection of Christ (Pascha)",
+        "description": "The Feast of Feasts and Solemnity of Solemnities. Christ is Risen!"
+      },
+      {
+        "date": "2025-04-21",
+        "offset": 1,
+        "code": "bright_monday",
+        "type": "bright_week",
+        "title": "Bright Monday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2025-04-22",
+        "offset": 2,
+        "code": "bright_tuesday",
+        "type": "bright_week",
+        "title": "Bright Tuesday (Apparition of the Iveron Icon of Theotokos)",
+        "description": "Appearance of the Portaitissa (Iveron) Icon of the Mother of God."
+      },
+      {
+        "date": "2025-04-23",
+        "offset": 3,
+        "code": "bright_wednesday",
+        "type": "bright_week",
+        "title": "Bright Wednesday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2025-04-24",
+        "offset": 4,
+        "code": "bright_thursday",
+        "type": "bright_week",
+        "title": "Bright Thursday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2025-04-25",
+        "offset": 5,
+        "code": "bright_friday",
+        "type": "bright_week",
+        "title": "Bright Friday (Life-Giving Spring of the Theotokos)",
+        "description": "The Life-Giving Spring of the Mother of God."
+      },
+      {
+        "date": "2025-04-26",
+        "offset": 6,
+        "code": "bright_saturday",
+        "type": "bright_week",
+        "title": "Bright Saturday (Distribution of Artos)",
+        "description": "Distribution of the Artos (Paschal bread) to the faithful."
+      },
+      {
+        "date": "2025-04-27",
+        "offset": 7,
+        "code": "thomas_sunday",
+        "type": "sunday",
+        "title": "Thomas Sunday (Antipascha)",
+        "description": "Confession of St. Thomas: 'My Lord and my God!'"
+      },
+      {
+        "date": "2025-05-29",
+        "offset": 39,
+        "code": "ascension",
+        "type": "twelve_feast",
+        "title": "The Ascension of our Lord Jesus Christ",
+        "description": "Fortieth day after Pascha. One of the Twelve Great Feasts."
+      },
+      {
+        "date": "2025-06-08",
+        "offset": 49,
+        "code": "pentecost",
+        "type": "twelve_feast",
+        "title": "Pentecost (Descent of the Holy Spirit / Holy Trinity)",
+        "description": "Fiftieth day after Pascha. Birthday of the Church. Twelve Great Feast."
+      },
+      {
+        "date": "2025-06-09",
+        "offset": 50,
+        "code": "holy_spirit_day",
+        "type": "feast",
+        "title": "Day of the Holy Spirit",
+        "description": "Monday after Pentecost, glorifying the Third Person of the Trinity."
+      },
+      {
+        "date": "2025-06-15",
+        "offset": 56,
+        "code": "all_saints_sunday",
+        "type": "sunday",
+        "title": "Sunday of All Saints",
+        "description": "First Sunday after Pentecost, commemorating all saints throughout history."
+      },
+      {
+        "date": "2025-06-16",
+        "offset": 57,
+        "code": "apostles_fast_begins",
+        "type": "fast_start",
+        "title": "Apostles' Fast Begins",
+        "description": "Monday after All Saints Sunday, continuing until SS Peter and Paul (July 12)."
+      }
+    ]
+  },
+  "2026": {
+    "year": 2026,
+    "orthodox_pascha": {
+      "gregorian_date": "2026-04-12",
+      "julian_date": "2026-03-30"
+    },
+    "movable_cycle_events": [
+      {
+        "date": "2026-02-01",
+        "offset": -70,
+        "code": "triodion_begins",
+        "type": "sunday",
+        "title": "Sunday of the Publican and the Pharisee",
+        "description": "Beginning of the Lenten Triodion. Fast-free week."
+      },
+      {
+        "date": "2026-02-08",
+        "offset": -63,
+        "code": "prodigal_son",
+        "type": "sunday",
+        "title": "Sunday of the Prodigal Son",
+        "description": "Parable of the Prodigal Son: repentance and forgiveness."
+      },
+      {
+        "date": "2026-02-15",
+        "offset": -56,
+        "code": "meatfare_sunday",
+        "type": "sunday",
+        "title": "Meatfare Sunday (Sunday of the Last Judgment)",
+        "description": "Last day meat is permitted before Great Lent."
+      },
+      {
+        "date": "2026-02-16",
+        "offset": -55,
+        "code": "cheesefare_week_begins",
+        "type": "fast",
+        "title": "Cheesefare Week Begins",
+        "description": "No meat; dairy, eggs, and fish permitted every day."
+      },
+      {
+        "date": "2026-02-22",
+        "offset": -49,
+        "code": "forgiveness_sunday",
+        "type": "sunday",
+        "title": "Cheesefare Sunday (Forgiveness Sunday / Expulsion of Adam)",
+        "description": "Forgiveness Sunday and mutual asking of pardon before Great Lent."
+      },
+      {
+        "date": "2026-02-23",
+        "offset": -48,
+        "code": "clean_monday",
+        "type": "fast_start",
+        "title": "Clean Monday — Beginning of Great Lent",
+        "description": "First day of the holy Forty Days of Great Lent."
+      },
+      {
+        "date": "2026-03-01",
+        "offset": -42,
+        "code": "sunday_orthodoxy",
+        "type": "sunday",
+        "title": "Sunday of Orthodoxy (First Sunday of Great Lent)",
+        "description": "Restoration of the Holy Icons and triumph over iconoclasm."
+      },
+      {
+        "date": "2026-03-08",
+        "offset": -35,
+        "code": "sunday_palamas",
+        "type": "sunday",
+        "title": "Sunday of St. Gregory Palamas (Second Sunday of Great Lent)",
+        "description": "Commemoration of St. Gregory Palamas and the Divine Uncreated Light."
+      },
+      {
+        "date": "2026-03-15",
+        "offset": -28,
+        "code": "sunday_cross",
+        "type": "sunday",
+        "title": "Sunday of the Holy Cross (Third Sunday of Great Lent)",
+        "description": "Veneration of the Precious and Life-Giving Cross of the Lord."
+      },
+      {
+        "date": "2026-03-22",
+        "offset": -21,
+        "code": "sunday_climacus",
+        "type": "sunday",
+        "title": "Sunday of St. John Climacus (Fourth Sunday of Great Lent)",
+        "description": "Commemoration of St. John Climacus, author of The Ladder of Divine Ascent."
+      },
+      {
+        "date": "2026-03-29",
+        "offset": -14,
+        "code": "sunday_mary_egypt",
+        "type": "sunday",
+        "title": "Sunday of St. Mary of Egypt (Fifth Sunday of Great Lent)",
+        "description": "Commemoration of St. Mary of Egypt, exemplar of repentance."
+      },
+      {
+        "date": "2026-04-04",
+        "offset": -8,
+        "code": "lazarus_saturday",
+        "type": "feast",
+        "title": "Lazarus Saturday (Resurrection of Righteous Lazarus)",
+        "description": "Assurance of the universal resurrection before Christ's Passion."
+      },
+      {
+        "date": "2026-04-05",
+        "offset": -7,
+        "code": "palm_sunday",
+        "type": "twelve_feast",
+        "title": "Palm Sunday — The Entry of the Lord into Jerusalem",
+        "description": "One of the Twelve Great Feasts. Fish allowed."
+      },
+      {
+        "date": "2026-04-06",
+        "offset": -6,
+        "code": "holy_monday",
+        "type": "holy_week",
+        "title": "Great and Holy Monday",
+        "description": "Commemoration of Joseph the Patriarch and the barren fig tree."
+      },
+      {
+        "date": "2026-04-07",
+        "offset": -5,
+        "code": "holy_tuesday",
+        "type": "holy_week",
+        "title": "Great and Holy Tuesday",
+        "description": "Parable of the Ten Virgins and spiritual vigilance."
+      },
+      {
+        "date": "2026-04-08",
+        "offset": -4,
+        "code": "holy_wednesday",
+        "type": "holy_week",
+        "title": "Great and Holy Wednesday",
+        "description": "The anointing of Christ with myrrh and the betrayal by Judas."
+      },
+      {
+        "date": "2026-04-09",
+        "offset": -3,
+        "code": "holy_thursday",
+        "type": "holy_week",
+        "title": "Great and Holy Thursday — The Mystical Supper",
+        "description": "Institution of the Holy Eucharist and Mystical Supper."
+      },
+      {
+        "date": "2026-04-10",
+        "offset": -2,
+        "code": "holy_friday",
+        "type": "holy_week",
+        "title": "Great and Holy Friday — The Crucifixion of Christ",
+        "description": "The Holy Passion, Crucifixion and Burial of Jesus Christ. Strict fast."
+      },
+      {
+        "date": "2026-04-11",
+        "offset": -1,
+        "code": "holy_saturday",
+        "type": "holy_week",
+        "title": "Great and Holy Saturday — Christ in the Tomb",
+        "description": "Christ's bodily rest in the tomb and descent into Hades."
+      },
+      {
+        "date": "2026-04-12",
+        "offset": 0,
+        "code": "pascha",
+        "type": "feast_of_feasts",
+        "title": "The Bright and Glorious Resurrection of Christ (Pascha)",
+        "description": "The Feast of Feasts and Solemnity of Solemnities. Christ is Risen!"
+      },
+      {
+        "date": "2026-04-13",
+        "offset": 1,
+        "code": "bright_monday",
+        "type": "bright_week",
+        "title": "Bright Monday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2026-04-14",
+        "offset": 2,
+        "code": "bright_tuesday",
+        "type": "bright_week",
+        "title": "Bright Tuesday (Apparition of the Iveron Icon of Theotokos)",
+        "description": "Appearance of the Portaitissa (Iveron) Icon of the Mother of God."
+      },
+      {
+        "date": "2026-04-15",
+        "offset": 3,
+        "code": "bright_wednesday",
+        "type": "bright_week",
+        "title": "Bright Wednesday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2026-04-16",
+        "offset": 4,
+        "code": "bright_thursday",
+        "type": "bright_week",
+        "title": "Bright Thursday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2026-04-17",
+        "offset": 5,
+        "code": "bright_friday",
+        "type": "bright_week",
+        "title": "Bright Friday (Life-Giving Spring of the Theotokos)",
+        "description": "The Life-Giving Spring of the Mother of God."
+      },
+      {
+        "date": "2026-04-18",
+        "offset": 6,
+        "code": "bright_saturday",
+        "type": "bright_week",
+        "title": "Bright Saturday (Distribution of Artos)",
+        "description": "Distribution of the Artos (Paschal bread) to the faithful."
+      },
+      {
+        "date": "2026-04-19",
+        "offset": 7,
+        "code": "thomas_sunday",
+        "type": "sunday",
+        "title": "Thomas Sunday (Antipascha)",
+        "description": "Confession of St. Thomas: 'My Lord and my God!'"
+      },
+      {
+        "date": "2026-05-21",
+        "offset": 39,
+        "code": "ascension",
+        "type": "twelve_feast",
+        "title": "The Ascension of our Lord Jesus Christ",
+        "description": "Fortieth day after Pascha. One of the Twelve Great Feasts."
+      },
+      {
+        "date": "2026-05-31",
+        "offset": 49,
+        "code": "pentecost",
+        "type": "twelve_feast",
+        "title": "Pentecost (Descent of the Holy Spirit / Holy Trinity)",
+        "description": "Fiftieth day after Pascha. Birthday of the Church. Twelve Great Feast."
+      },
+      {
+        "date": "2026-06-01",
+        "offset": 50,
+        "code": "holy_spirit_day",
+        "type": "feast",
+        "title": "Day of the Holy Spirit",
+        "description": "Monday after Pentecost, glorifying the Third Person of the Trinity."
+      },
+      {
+        "date": "2026-06-07",
+        "offset": 56,
+        "code": "all_saints_sunday",
+        "type": "sunday",
+        "title": "Sunday of All Saints",
+        "description": "First Sunday after Pentecost, commemorating all saints throughout history."
+      },
+      {
+        "date": "2026-06-08",
+        "offset": 57,
+        "code": "apostles_fast_begins",
+        "type": "fast_start",
+        "title": "Apostles' Fast Begins",
+        "description": "Monday after All Saints Sunday, continuing until SS Peter and Paul (July 12)."
+      }
+    ]
+  },
+  "2027": {
+    "year": 2027,
+    "orthodox_pascha": {
+      "gregorian_date": "2027-05-02",
+      "julian_date": "2027-04-19"
+    },
+    "movable_cycle_events": [
+      {
+        "date": "2027-02-21",
+        "offset": -70,
+        "code": "triodion_begins",
+        "type": "sunday",
+        "title": "Sunday of the Publican and the Pharisee",
+        "description": "Beginning of the Lenten Triodion. Fast-free week."
+      },
+      {
+        "date": "2027-02-28",
+        "offset": -63,
+        "code": "prodigal_son",
+        "type": "sunday",
+        "title": "Sunday of the Prodigal Son",
+        "description": "Parable of the Prodigal Son: repentance and forgiveness."
+      },
+      {
+        "date": "2027-03-07",
+        "offset": -56,
+        "code": "meatfare_sunday",
+        "type": "sunday",
+        "title": "Meatfare Sunday (Sunday of the Last Judgment)",
+        "description": "Last day meat is permitted before Great Lent."
+      },
+      {
+        "date": "2027-03-08",
+        "offset": -55,
+        "code": "cheesefare_week_begins",
+        "type": "fast",
+        "title": "Cheesefare Week Begins",
+        "description": "No meat; dairy, eggs, and fish permitted every day."
+      },
+      {
+        "date": "2027-03-14",
+        "offset": -49,
+        "code": "forgiveness_sunday",
+        "type": "sunday",
+        "title": "Cheesefare Sunday (Forgiveness Sunday / Expulsion of Adam)",
+        "description": "Forgiveness Sunday and mutual asking of pardon before Great Lent."
+      },
+      {
+        "date": "2027-03-15",
+        "offset": -48,
+        "code": "clean_monday",
+        "type": "fast_start",
+        "title": "Clean Monday — Beginning of Great Lent",
+        "description": "First day of the holy Forty Days of Great Lent."
+      },
+      {
+        "date": "2027-03-21",
+        "offset": -42,
+        "code": "sunday_orthodoxy",
+        "type": "sunday",
+        "title": "Sunday of Orthodoxy (First Sunday of Great Lent)",
+        "description": "Restoration of the Holy Icons and triumph over iconoclasm."
+      },
+      {
+        "date": "2027-03-28",
+        "offset": -35,
+        "code": "sunday_palamas",
+        "type": "sunday",
+        "title": "Sunday of St. Gregory Palamas (Second Sunday of Great Lent)",
+        "description": "Commemoration of St. Gregory Palamas and the Divine Uncreated Light."
+      },
+      {
+        "date": "2027-04-04",
+        "offset": -28,
+        "code": "sunday_cross",
+        "type": "sunday",
+        "title": "Sunday of the Holy Cross (Third Sunday of Great Lent)",
+        "description": "Veneration of the Precious and Life-Giving Cross of the Lord."
+      },
+      {
+        "date": "2027-04-11",
+        "offset": -21,
+        "code": "sunday_climacus",
+        "type": "sunday",
+        "title": "Sunday of St. John Climacus (Fourth Sunday of Great Lent)",
+        "description": "Commemoration of St. John Climacus, author of The Ladder of Divine Ascent."
+      },
+      {
+        "date": "2027-04-18",
+        "offset": -14,
+        "code": "sunday_mary_egypt",
+        "type": "sunday",
+        "title": "Sunday of St. Mary of Egypt (Fifth Sunday of Great Lent)",
+        "description": "Commemoration of St. Mary of Egypt, exemplar of repentance."
+      },
+      {
+        "date": "2027-04-24",
+        "offset": -8,
+        "code": "lazarus_saturday",
+        "type": "feast",
+        "title": "Lazarus Saturday (Resurrection of Righteous Lazarus)",
+        "description": "Assurance of the universal resurrection before Christ's Passion."
+      },
+      {
+        "date": "2027-04-25",
+        "offset": -7,
+        "code": "palm_sunday",
+        "type": "twelve_feast",
+        "title": "Palm Sunday — The Entry of the Lord into Jerusalem",
+        "description": "One of the Twelve Great Feasts. Fish allowed."
+      },
+      {
+        "date": "2027-04-26",
+        "offset": -6,
+        "code": "holy_monday",
+        "type": "holy_week",
+        "title": "Great and Holy Monday",
+        "description": "Commemoration of Joseph the Patriarch and the barren fig tree."
+      },
+      {
+        "date": "2027-04-27",
+        "offset": -5,
+        "code": "holy_tuesday",
+        "type": "holy_week",
+        "title": "Great and Holy Tuesday",
+        "description": "Parable of the Ten Virgins and spiritual vigilance."
+      },
+      {
+        "date": "2027-04-28",
+        "offset": -4,
+        "code": "holy_wednesday",
+        "type": "holy_week",
+        "title": "Great and Holy Wednesday",
+        "description": "The anointing of Christ with myrrh and the betrayal by Judas."
+      },
+      {
+        "date": "2027-04-29",
+        "offset": -3,
+        "code": "holy_thursday",
+        "type": "holy_week",
+        "title": "Great and Holy Thursday — The Mystical Supper",
+        "description": "Institution of the Holy Eucharist and Mystical Supper."
+      },
+      {
+        "date": "2027-04-30",
+        "offset": -2,
+        "code": "holy_friday",
+        "type": "holy_week",
+        "title": "Great and Holy Friday — The Crucifixion of Christ",
+        "description": "The Holy Passion, Crucifixion and Burial of Jesus Christ. Strict fast."
+      },
+      {
+        "date": "2027-05-01",
+        "offset": -1,
+        "code": "holy_saturday",
+        "type": "holy_week",
+        "title": "Great and Holy Saturday — Christ in the Tomb",
+        "description": "Christ's bodily rest in the tomb and descent into Hades."
+      },
+      {
+        "date": "2027-05-02",
+        "offset": 0,
+        "code": "pascha",
+        "type": "feast_of_feasts",
+        "title": "The Bright and Glorious Resurrection of Christ (Pascha)",
+        "description": "The Feast of Feasts and Solemnity of Solemnities. Christ is Risen!"
+      },
+      {
+        "date": "2027-05-03",
+        "offset": 1,
+        "code": "bright_monday",
+        "type": "bright_week",
+        "title": "Bright Monday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2027-05-04",
+        "offset": 2,
+        "code": "bright_tuesday",
+        "type": "bright_week",
+        "title": "Bright Tuesday (Apparition of the Iveron Icon of Theotokos)",
+        "description": "Appearance of the Portaitissa (Iveron) Icon of the Mother of God."
+      },
+      {
+        "date": "2027-05-05",
+        "offset": 3,
+        "code": "bright_wednesday",
+        "type": "bright_week",
+        "title": "Bright Wednesday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2027-05-06",
+        "offset": 4,
+        "code": "bright_thursday",
+        "type": "bright_week",
+        "title": "Bright Thursday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2027-05-07",
+        "offset": 5,
+        "code": "bright_friday",
+        "type": "bright_week",
+        "title": "Bright Friday (Life-Giving Spring of the Theotokos)",
+        "description": "The Life-Giving Spring of the Mother of God."
+      },
+      {
+        "date": "2027-05-08",
+        "offset": 6,
+        "code": "bright_saturday",
+        "type": "bright_week",
+        "title": "Bright Saturday (Distribution of Artos)",
+        "description": "Distribution of the Artos (Paschal bread) to the faithful."
+      },
+      {
+        "date": "2027-05-09",
+        "offset": 7,
+        "code": "thomas_sunday",
+        "type": "sunday",
+        "title": "Thomas Sunday (Antipascha)",
+        "description": "Confession of St. Thomas: 'My Lord and my God!'"
+      },
+      {
+        "date": "2027-06-10",
+        "offset": 39,
+        "code": "ascension",
+        "type": "twelve_feast",
+        "title": "The Ascension of our Lord Jesus Christ",
+        "description": "Fortieth day after Pascha. One of the Twelve Great Feasts."
+      },
+      {
+        "date": "2027-06-20",
+        "offset": 49,
+        "code": "pentecost",
+        "type": "twelve_feast",
+        "title": "Pentecost (Descent of the Holy Spirit / Holy Trinity)",
+        "description": "Fiftieth day after Pascha. Birthday of the Church. Twelve Great Feast."
+      },
+      {
+        "date": "2027-06-21",
+        "offset": 50,
+        "code": "holy_spirit_day",
+        "type": "feast",
+        "title": "Day of the Holy Spirit",
+        "description": "Monday after Pentecost, glorifying the Third Person of the Trinity."
+      },
+      {
+        "date": "2027-06-27",
+        "offset": 56,
+        "code": "all_saints_sunday",
+        "type": "sunday",
+        "title": "Sunday of All Saints",
+        "description": "First Sunday after Pentecost, commemorating all saints throughout history."
+      },
+      {
+        "date": "2027-06-28",
+        "offset": 57,
+        "code": "apostles_fast_begins",
+        "type": "fast_start",
+        "title": "Apostles' Fast Begins",
+        "description": "Monday after All Saints Sunday, continuing until SS Peter and Paul (July 12)."
+      }
+    ]
+  },
+  "2028": {
+    "year": 2028,
+    "orthodox_pascha": {
+      "gregorian_date": "2028-04-16",
+      "julian_date": "2028-04-03"
+    },
+    "movable_cycle_events": [
+      {
+        "date": "2028-02-06",
+        "offset": -70,
+        "code": "triodion_begins",
+        "type": "sunday",
+        "title": "Sunday of the Publican and the Pharisee",
+        "description": "Beginning of the Lenten Triodion. Fast-free week."
+      },
+      {
+        "date": "2028-02-13",
+        "offset": -63,
+        "code": "prodigal_son",
+        "type": "sunday",
+        "title": "Sunday of the Prodigal Son",
+        "description": "Parable of the Prodigal Son: repentance and forgiveness."
+      },
+      {
+        "date": "2028-02-20",
+        "offset": -56,
+        "code": "meatfare_sunday",
+        "type": "sunday",
+        "title": "Meatfare Sunday (Sunday of the Last Judgment)",
+        "description": "Last day meat is permitted before Great Lent."
+      },
+      {
+        "date": "2028-02-21",
+        "offset": -55,
+        "code": "cheesefare_week_begins",
+        "type": "fast",
+        "title": "Cheesefare Week Begins",
+        "description": "No meat; dairy, eggs, and fish permitted every day."
+      },
+      {
+        "date": "2028-02-27",
+        "offset": -49,
+        "code": "forgiveness_sunday",
+        "type": "sunday",
+        "title": "Cheesefare Sunday (Forgiveness Sunday / Expulsion of Adam)",
+        "description": "Forgiveness Sunday and mutual asking of pardon before Great Lent."
+      },
+      {
+        "date": "2028-02-28",
+        "offset": -48,
+        "code": "clean_monday",
+        "type": "fast_start",
+        "title": "Clean Monday — Beginning of Great Lent",
+        "description": "First day of the holy Forty Days of Great Lent."
+      },
+      {
+        "date": "2028-03-05",
+        "offset": -42,
+        "code": "sunday_orthodoxy",
+        "type": "sunday",
+        "title": "Sunday of Orthodoxy (First Sunday of Great Lent)",
+        "description": "Restoration of the Holy Icons and triumph over iconoclasm."
+      },
+      {
+        "date": "2028-03-12",
+        "offset": -35,
+        "code": "sunday_palamas",
+        "type": "sunday",
+        "title": "Sunday of St. Gregory Palamas (Second Sunday of Great Lent)",
+        "description": "Commemoration of St. Gregory Palamas and the Divine Uncreated Light."
+      },
+      {
+        "date": "2028-03-19",
+        "offset": -28,
+        "code": "sunday_cross",
+        "type": "sunday",
+        "title": "Sunday of the Holy Cross (Third Sunday of Great Lent)",
+        "description": "Veneration of the Precious and Life-Giving Cross of the Lord."
+      },
+      {
+        "date": "2028-03-26",
+        "offset": -21,
+        "code": "sunday_climacus",
+        "type": "sunday",
+        "title": "Sunday of St. John Climacus (Fourth Sunday of Great Lent)",
+        "description": "Commemoration of St. John Climacus, author of The Ladder of Divine Ascent."
+      },
+      {
+        "date": "2028-04-02",
+        "offset": -14,
+        "code": "sunday_mary_egypt",
+        "type": "sunday",
+        "title": "Sunday of St. Mary of Egypt (Fifth Sunday of Great Lent)",
+        "description": "Commemoration of St. Mary of Egypt, exemplar of repentance."
+      },
+      {
+        "date": "2028-04-08",
+        "offset": -8,
+        "code": "lazarus_saturday",
+        "type": "feast",
+        "title": "Lazarus Saturday (Resurrection of Righteous Lazarus)",
+        "description": "Assurance of the universal resurrection before Christ's Passion."
+      },
+      {
+        "date": "2028-04-09",
+        "offset": -7,
+        "code": "palm_sunday",
+        "type": "twelve_feast",
+        "title": "Palm Sunday — The Entry of the Lord into Jerusalem",
+        "description": "One of the Twelve Great Feasts. Fish allowed."
+      },
+      {
+        "date": "2028-04-10",
+        "offset": -6,
+        "code": "holy_monday",
+        "type": "holy_week",
+        "title": "Great and Holy Monday",
+        "description": "Commemoration of Joseph the Patriarch and the barren fig tree."
+      },
+      {
+        "date": "2028-04-11",
+        "offset": -5,
+        "code": "holy_tuesday",
+        "type": "holy_week",
+        "title": "Great and Holy Tuesday",
+        "description": "Parable of the Ten Virgins and spiritual vigilance."
+      },
+      {
+        "date": "2028-04-12",
+        "offset": -4,
+        "code": "holy_wednesday",
+        "type": "holy_week",
+        "title": "Great and Holy Wednesday",
+        "description": "The anointing of Christ with myrrh and the betrayal by Judas."
+      },
+      {
+        "date": "2028-04-13",
+        "offset": -3,
+        "code": "holy_thursday",
+        "type": "holy_week",
+        "title": "Great and Holy Thursday — The Mystical Supper",
+        "description": "Institution of the Holy Eucharist and Mystical Supper."
+      },
+      {
+        "date": "2028-04-14",
+        "offset": -2,
+        "code": "holy_friday",
+        "type": "holy_week",
+        "title": "Great and Holy Friday — The Crucifixion of Christ",
+        "description": "The Holy Passion, Crucifixion and Burial of Jesus Christ. Strict fast."
+      },
+      {
+        "date": "2028-04-15",
+        "offset": -1,
+        "code": "holy_saturday",
+        "type": "holy_week",
+        "title": "Great and Holy Saturday — Christ in the Tomb",
+        "description": "Christ's bodily rest in the tomb and descent into Hades."
+      },
+      {
+        "date": "2028-04-16",
+        "offset": 0,
+        "code": "pascha",
+        "type": "feast_of_feasts",
+        "title": "The Bright and Glorious Resurrection of Christ (Pascha)",
+        "description": "The Feast of Feasts and Solemnity of Solemnities. Christ is Risen!"
+      },
+      {
+        "date": "2028-04-17",
+        "offset": 1,
+        "code": "bright_monday",
+        "type": "bright_week",
+        "title": "Bright Monday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2028-04-18",
+        "offset": 2,
+        "code": "bright_tuesday",
+        "type": "bright_week",
+        "title": "Bright Tuesday (Apparition of the Iveron Icon of Theotokos)",
+        "description": "Appearance of the Portaitissa (Iveron) Icon of the Mother of God."
+      },
+      {
+        "date": "2028-04-19",
+        "offset": 3,
+        "code": "bright_wednesday",
+        "type": "bright_week",
+        "title": "Bright Wednesday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2028-04-20",
+        "offset": 4,
+        "code": "bright_thursday",
+        "type": "bright_week",
+        "title": "Bright Thursday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2028-04-21",
+        "offset": 5,
+        "code": "bright_friday",
+        "type": "bright_week",
+        "title": "Bright Friday (Life-Giving Spring of the Theotokos)",
+        "description": "The Life-Giving Spring of the Mother of God."
+      },
+      {
+        "date": "2028-04-22",
+        "offset": 6,
+        "code": "bright_saturday",
+        "type": "bright_week",
+        "title": "Bright Saturday (Distribution of Artos)",
+        "description": "Distribution of the Artos (Paschal bread) to the faithful."
+      },
+      {
+        "date": "2028-04-23",
+        "offset": 7,
+        "code": "thomas_sunday",
+        "type": "sunday",
+        "title": "Thomas Sunday (Antipascha)",
+        "description": "Confession of St. Thomas: 'My Lord and my God!'"
+      },
+      {
+        "date": "2028-05-25",
+        "offset": 39,
+        "code": "ascension",
+        "type": "twelve_feast",
+        "title": "The Ascension of our Lord Jesus Christ",
+        "description": "Fortieth day after Pascha. One of the Twelve Great Feasts."
+      },
+      {
+        "date": "2028-06-04",
+        "offset": 49,
+        "code": "pentecost",
+        "type": "twelve_feast",
+        "title": "Pentecost (Descent of the Holy Spirit / Holy Trinity)",
+        "description": "Fiftieth day after Pascha. Birthday of the Church. Twelve Great Feast."
+      },
+      {
+        "date": "2028-06-05",
+        "offset": 50,
+        "code": "holy_spirit_day",
+        "type": "feast",
+        "title": "Day of the Holy Spirit",
+        "description": "Monday after Pentecost, glorifying the Third Person of the Trinity."
+      },
+      {
+        "date": "2028-06-11",
+        "offset": 56,
+        "code": "all_saints_sunday",
+        "type": "sunday",
+        "title": "Sunday of All Saints",
+        "description": "First Sunday after Pentecost, commemorating all saints throughout history."
+      },
+      {
+        "date": "2028-06-12",
+        "offset": 57,
+        "code": "apostles_fast_begins",
+        "type": "fast_start",
+        "title": "Apostles' Fast Begins",
+        "description": "Monday after All Saints Sunday, continuing until SS Peter and Paul (July 12)."
+      }
+    ]
+  },
+  "2029": {
+    "year": 2029,
+    "orthodox_pascha": {
+      "gregorian_date": "2029-04-08",
+      "julian_date": "2029-03-26"
+    },
+    "movable_cycle_events": [
+      {
+        "date": "2029-01-28",
+        "offset": -70,
+        "code": "triodion_begins",
+        "type": "sunday",
+        "title": "Sunday of the Publican and the Pharisee",
+        "description": "Beginning of the Lenten Triodion. Fast-free week."
+      },
+      {
+        "date": "2029-02-04",
+        "offset": -63,
+        "code": "prodigal_son",
+        "type": "sunday",
+        "title": "Sunday of the Prodigal Son",
+        "description": "Parable of the Prodigal Son: repentance and forgiveness."
+      },
+      {
+        "date": "2029-02-11",
+        "offset": -56,
+        "code": "meatfare_sunday",
+        "type": "sunday",
+        "title": "Meatfare Sunday (Sunday of the Last Judgment)",
+        "description": "Last day meat is permitted before Great Lent."
+      },
+      {
+        "date": "2029-02-12",
+        "offset": -55,
+        "code": "cheesefare_week_begins",
+        "type": "fast",
+        "title": "Cheesefare Week Begins",
+        "description": "No meat; dairy, eggs, and fish permitted every day."
+      },
+      {
+        "date": "2029-02-18",
+        "offset": -49,
+        "code": "forgiveness_sunday",
+        "type": "sunday",
+        "title": "Cheesefare Sunday (Forgiveness Sunday / Expulsion of Adam)",
+        "description": "Forgiveness Sunday and mutual asking of pardon before Great Lent."
+      },
+      {
+        "date": "2029-02-19",
+        "offset": -48,
+        "code": "clean_monday",
+        "type": "fast_start",
+        "title": "Clean Monday — Beginning of Great Lent",
+        "description": "First day of the holy Forty Days of Great Lent."
+      },
+      {
+        "date": "2029-02-25",
+        "offset": -42,
+        "code": "sunday_orthodoxy",
+        "type": "sunday",
+        "title": "Sunday of Orthodoxy (First Sunday of Great Lent)",
+        "description": "Restoration of the Holy Icons and triumph over iconoclasm."
+      },
+      {
+        "date": "2029-03-04",
+        "offset": -35,
+        "code": "sunday_palamas",
+        "type": "sunday",
+        "title": "Sunday of St. Gregory Palamas (Second Sunday of Great Lent)",
+        "description": "Commemoration of St. Gregory Palamas and the Divine Uncreated Light."
+      },
+      {
+        "date": "2029-03-11",
+        "offset": -28,
+        "code": "sunday_cross",
+        "type": "sunday",
+        "title": "Sunday of the Holy Cross (Third Sunday of Great Lent)",
+        "description": "Veneration of the Precious and Life-Giving Cross of the Lord."
+      },
+      {
+        "date": "2029-03-18",
+        "offset": -21,
+        "code": "sunday_climacus",
+        "type": "sunday",
+        "title": "Sunday of St. John Climacus (Fourth Sunday of Great Lent)",
+        "description": "Commemoration of St. John Climacus, author of The Ladder of Divine Ascent."
+      },
+      {
+        "date": "2029-03-25",
+        "offset": -14,
+        "code": "sunday_mary_egypt",
+        "type": "sunday",
+        "title": "Sunday of St. Mary of Egypt (Fifth Sunday of Great Lent)",
+        "description": "Commemoration of St. Mary of Egypt, exemplar of repentance."
+      },
+      {
+        "date": "2029-03-31",
+        "offset": -8,
+        "code": "lazarus_saturday",
+        "type": "feast",
+        "title": "Lazarus Saturday (Resurrection of Righteous Lazarus)",
+        "description": "Assurance of the universal resurrection before Christ's Passion."
+      },
+      {
+        "date": "2029-04-01",
+        "offset": -7,
+        "code": "palm_sunday",
+        "type": "twelve_feast",
+        "title": "Palm Sunday — The Entry of the Lord into Jerusalem",
+        "description": "One of the Twelve Great Feasts. Fish allowed."
+      },
+      {
+        "date": "2029-04-02",
+        "offset": -6,
+        "code": "holy_monday",
+        "type": "holy_week",
+        "title": "Great and Holy Monday",
+        "description": "Commemoration of Joseph the Patriarch and the barren fig tree."
+      },
+      {
+        "date": "2029-04-03",
+        "offset": -5,
+        "code": "holy_tuesday",
+        "type": "holy_week",
+        "title": "Great and Holy Tuesday",
+        "description": "Parable of the Ten Virgins and spiritual vigilance."
+      },
+      {
+        "date": "2029-04-04",
+        "offset": -4,
+        "code": "holy_wednesday",
+        "type": "holy_week",
+        "title": "Great and Holy Wednesday",
+        "description": "The anointing of Christ with myrrh and the betrayal by Judas."
+      },
+      {
+        "date": "2029-04-05",
+        "offset": -3,
+        "code": "holy_thursday",
+        "type": "holy_week",
+        "title": "Great and Holy Thursday — The Mystical Supper",
+        "description": "Institution of the Holy Eucharist and Mystical Supper."
+      },
+      {
+        "date": "2029-04-06",
+        "offset": -2,
+        "code": "holy_friday",
+        "type": "holy_week",
+        "title": "Great and Holy Friday — The Crucifixion of Christ",
+        "description": "The Holy Passion, Crucifixion and Burial of Jesus Christ. Strict fast."
+      },
+      {
+        "date": "2029-04-07",
+        "offset": -1,
+        "code": "holy_saturday",
+        "type": "holy_week",
+        "title": "Great and Holy Saturday — Christ in the Tomb",
+        "description": "Christ's bodily rest in the tomb and descent into Hades."
+      },
+      {
+        "date": "2029-04-08",
+        "offset": 0,
+        "code": "pascha",
+        "type": "feast_of_feasts",
+        "title": "The Bright and Glorious Resurrection of Christ (Pascha)",
+        "description": "The Feast of Feasts and Solemnity of Solemnities. Christ is Risen!"
+      },
+      {
+        "date": "2029-04-09",
+        "offset": 1,
+        "code": "bright_monday",
+        "type": "bright_week",
+        "title": "Bright Monday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2029-04-10",
+        "offset": 2,
+        "code": "bright_tuesday",
+        "type": "bright_week",
+        "title": "Bright Tuesday (Apparition of the Iveron Icon of Theotokos)",
+        "description": "Appearance of the Portaitissa (Iveron) Icon of the Mother of God."
+      },
+      {
+        "date": "2029-04-11",
+        "offset": 3,
+        "code": "bright_wednesday",
+        "type": "bright_week",
+        "title": "Bright Wednesday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2029-04-12",
+        "offset": 4,
+        "code": "bright_thursday",
+        "type": "bright_week",
+        "title": "Bright Thursday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2029-04-13",
+        "offset": 5,
+        "code": "bright_friday",
+        "type": "bright_week",
+        "title": "Bright Friday (Life-Giving Spring of the Theotokos)",
+        "description": "The Life-Giving Spring of the Mother of God."
+      },
+      {
+        "date": "2029-04-14",
+        "offset": 6,
+        "code": "bright_saturday",
+        "type": "bright_week",
+        "title": "Bright Saturday (Distribution of Artos)",
+        "description": "Distribution of the Artos (Paschal bread) to the faithful."
+      },
+      {
+        "date": "2029-04-15",
+        "offset": 7,
+        "code": "thomas_sunday",
+        "type": "sunday",
+        "title": "Thomas Sunday (Antipascha)",
+        "description": "Confession of St. Thomas: 'My Lord and my God!'"
+      },
+      {
+        "date": "2029-05-17",
+        "offset": 39,
+        "code": "ascension",
+        "type": "twelve_feast",
+        "title": "The Ascension of our Lord Jesus Christ",
+        "description": "Fortieth day after Pascha. One of the Twelve Great Feasts."
+      },
+      {
+        "date": "2029-05-27",
+        "offset": 49,
+        "code": "pentecost",
+        "type": "twelve_feast",
+        "title": "Pentecost (Descent of the Holy Spirit / Holy Trinity)",
+        "description": "Fiftieth day after Pascha. Birthday of the Church. Twelve Great Feast."
+      },
+      {
+        "date": "2029-05-28",
+        "offset": 50,
+        "code": "holy_spirit_day",
+        "type": "feast",
+        "title": "Day of the Holy Spirit",
+        "description": "Monday after Pentecost, glorifying the Third Person of the Trinity."
+      },
+      {
+        "date": "2029-06-03",
+        "offset": 56,
+        "code": "all_saints_sunday",
+        "type": "sunday",
+        "title": "Sunday of All Saints",
+        "description": "First Sunday after Pentecost, commemorating all saints throughout history."
+      },
+      {
+        "date": "2029-06-04",
+        "offset": 57,
+        "code": "apostles_fast_begins",
+        "type": "fast_start",
+        "title": "Apostles' Fast Begins",
+        "description": "Monday after All Saints Sunday, continuing until SS Peter and Paul (July 12)."
+      }
+    ]
+  },
+  "2030": {
+    "year": 2030,
+    "orthodox_pascha": {
+      "gregorian_date": "2030-04-28",
+      "julian_date": "2030-04-15"
+    },
+    "movable_cycle_events": [
+      {
+        "date": "2030-02-17",
+        "offset": -70,
+        "code": "triodion_begins",
+        "type": "sunday",
+        "title": "Sunday of the Publican and the Pharisee",
+        "description": "Beginning of the Lenten Triodion. Fast-free week."
+      },
+      {
+        "date": "2030-02-24",
+        "offset": -63,
+        "code": "prodigal_son",
+        "type": "sunday",
+        "title": "Sunday of the Prodigal Son",
+        "description": "Parable of the Prodigal Son: repentance and forgiveness."
+      },
+      {
+        "date": "2030-03-03",
+        "offset": -56,
+        "code": "meatfare_sunday",
+        "type": "sunday",
+        "title": "Meatfare Sunday (Sunday of the Last Judgment)",
+        "description": "Last day meat is permitted before Great Lent."
+      },
+      {
+        "date": "2030-03-04",
+        "offset": -55,
+        "code": "cheesefare_week_begins",
+        "type": "fast",
+        "title": "Cheesefare Week Begins",
+        "description": "No meat; dairy, eggs, and fish permitted every day."
+      },
+      {
+        "date": "2030-03-10",
+        "offset": -49,
+        "code": "forgiveness_sunday",
+        "type": "sunday",
+        "title": "Cheesefare Sunday (Forgiveness Sunday / Expulsion of Adam)",
+        "description": "Forgiveness Sunday and mutual asking of pardon before Great Lent."
+      },
+      {
+        "date": "2030-03-11",
+        "offset": -48,
+        "code": "clean_monday",
+        "type": "fast_start",
+        "title": "Clean Monday — Beginning of Great Lent",
+        "description": "First day of the holy Forty Days of Great Lent."
+      },
+      {
+        "date": "2030-03-17",
+        "offset": -42,
+        "code": "sunday_orthodoxy",
+        "type": "sunday",
+        "title": "Sunday of Orthodoxy (First Sunday of Great Lent)",
+        "description": "Restoration of the Holy Icons and triumph over iconoclasm."
+      },
+      {
+        "date": "2030-03-24",
+        "offset": -35,
+        "code": "sunday_palamas",
+        "type": "sunday",
+        "title": "Sunday of St. Gregory Palamas (Second Sunday of Great Lent)",
+        "description": "Commemoration of St. Gregory Palamas and the Divine Uncreated Light."
+      },
+      {
+        "date": "2030-03-31",
+        "offset": -28,
+        "code": "sunday_cross",
+        "type": "sunday",
+        "title": "Sunday of the Holy Cross (Third Sunday of Great Lent)",
+        "description": "Veneration of the Precious and Life-Giving Cross of the Lord."
+      },
+      {
+        "date": "2030-04-07",
+        "offset": -21,
+        "code": "sunday_climacus",
+        "type": "sunday",
+        "title": "Sunday of St. John Climacus (Fourth Sunday of Great Lent)",
+        "description": "Commemoration of St. John Climacus, author of The Ladder of Divine Ascent."
+      },
+      {
+        "date": "2030-04-14",
+        "offset": -14,
+        "code": "sunday_mary_egypt",
+        "type": "sunday",
+        "title": "Sunday of St. Mary of Egypt (Fifth Sunday of Great Lent)",
+        "description": "Commemoration of St. Mary of Egypt, exemplar of repentance."
+      },
+      {
+        "date": "2030-04-20",
+        "offset": -8,
+        "code": "lazarus_saturday",
+        "type": "feast",
+        "title": "Lazarus Saturday (Resurrection of Righteous Lazarus)",
+        "description": "Assurance of the universal resurrection before Christ's Passion."
+      },
+      {
+        "date": "2030-04-21",
+        "offset": -7,
+        "code": "palm_sunday",
+        "type": "twelve_feast",
+        "title": "Palm Sunday — The Entry of the Lord into Jerusalem",
+        "description": "One of the Twelve Great Feasts. Fish allowed."
+      },
+      {
+        "date": "2030-04-22",
+        "offset": -6,
+        "code": "holy_monday",
+        "type": "holy_week",
+        "title": "Great and Holy Monday",
+        "description": "Commemoration of Joseph the Patriarch and the barren fig tree."
+      },
+      {
+        "date": "2030-04-23",
+        "offset": -5,
+        "code": "holy_tuesday",
+        "type": "holy_week",
+        "title": "Great and Holy Tuesday",
+        "description": "Parable of the Ten Virgins and spiritual vigilance."
+      },
+      {
+        "date": "2030-04-24",
+        "offset": -4,
+        "code": "holy_wednesday",
+        "type": "holy_week",
+        "title": "Great and Holy Wednesday",
+        "description": "The anointing of Christ with myrrh and the betrayal by Judas."
+      },
+      {
+        "date": "2030-04-25",
+        "offset": -3,
+        "code": "holy_thursday",
+        "type": "holy_week",
+        "title": "Great and Holy Thursday — The Mystical Supper",
+        "description": "Institution of the Holy Eucharist and Mystical Supper."
+      },
+      {
+        "date": "2030-04-26",
+        "offset": -2,
+        "code": "holy_friday",
+        "type": "holy_week",
+        "title": "Great and Holy Friday — The Crucifixion of Christ",
+        "description": "The Holy Passion, Crucifixion and Burial of Jesus Christ. Strict fast."
+      },
+      {
+        "date": "2030-04-27",
+        "offset": -1,
+        "code": "holy_saturday",
+        "type": "holy_week",
+        "title": "Great and Holy Saturday — Christ in the Tomb",
+        "description": "Christ's bodily rest in the tomb and descent into Hades."
+      },
+      {
+        "date": "2030-04-28",
+        "offset": 0,
+        "code": "pascha",
+        "type": "feast_of_feasts",
+        "title": "The Bright and Glorious Resurrection of Christ (Pascha)",
+        "description": "The Feast of Feasts and Solemnity of Solemnities. Christ is Risen!"
+      },
+      {
+        "date": "2030-04-29",
+        "offset": 1,
+        "code": "bright_monday",
+        "type": "bright_week",
+        "title": "Bright Monday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2030-04-30",
+        "offset": 2,
+        "code": "bright_tuesday",
+        "type": "bright_week",
+        "title": "Bright Tuesday (Apparition of the Iveron Icon of Theotokos)",
+        "description": "Appearance of the Portaitissa (Iveron) Icon of the Mother of God."
+      },
+      {
+        "date": "2030-05-01",
+        "offset": 3,
+        "code": "bright_wednesday",
+        "type": "bright_week",
+        "title": "Bright Wednesday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2030-05-02",
+        "offset": 4,
+        "code": "bright_thursday",
+        "type": "bright_week",
+        "title": "Bright Thursday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2030-05-03",
+        "offset": 5,
+        "code": "bright_friday",
+        "type": "bright_week",
+        "title": "Bright Friday (Life-Giving Spring of the Theotokos)",
+        "description": "The Life-Giving Spring of the Mother of God."
+      },
+      {
+        "date": "2030-05-04",
+        "offset": 6,
+        "code": "bright_saturday",
+        "type": "bright_week",
+        "title": "Bright Saturday (Distribution of Artos)",
+        "description": "Distribution of the Artos (Paschal bread) to the faithful."
+      },
+      {
+        "date": "2030-05-05",
+        "offset": 7,
+        "code": "thomas_sunday",
+        "type": "sunday",
+        "title": "Thomas Sunday (Antipascha)",
+        "description": "Confession of St. Thomas: 'My Lord and my God!'"
+      },
+      {
+        "date": "2030-06-06",
+        "offset": 39,
+        "code": "ascension",
+        "type": "twelve_feast",
+        "title": "The Ascension of our Lord Jesus Christ",
+        "description": "Fortieth day after Pascha. One of the Twelve Great Feasts."
+      },
+      {
+        "date": "2030-06-16",
+        "offset": 49,
+        "code": "pentecost",
+        "type": "twelve_feast",
+        "title": "Pentecost (Descent of the Holy Spirit / Holy Trinity)",
+        "description": "Fiftieth day after Pascha. Birthday of the Church. Twelve Great Feast."
+      },
+      {
+        "date": "2030-06-17",
+        "offset": 50,
+        "code": "holy_spirit_day",
+        "type": "feast",
+        "title": "Day of the Holy Spirit",
+        "description": "Monday after Pentecost, glorifying the Third Person of the Trinity."
+      },
+      {
+        "date": "2030-06-23",
+        "offset": 56,
+        "code": "all_saints_sunday",
+        "type": "sunday",
+        "title": "Sunday of All Saints",
+        "description": "First Sunday after Pentecost, commemorating all saints throughout history."
+      },
+      {
+        "date": "2030-06-24",
+        "offset": 57,
+        "code": "apostles_fast_begins",
+        "type": "fast_start",
+        "title": "Apostles' Fast Begins",
+        "description": "Monday after All Saints Sunday, continuing until SS Peter and Paul (July 12)."
+      }
+    ]
+  },
+  "2031": {
+    "year": 2031,
+    "orthodox_pascha": {
+      "gregorian_date": "2031-04-13",
+      "julian_date": "2031-03-31"
+    },
+    "movable_cycle_events": [
+      {
+        "date": "2031-02-02",
+        "offset": -70,
+        "code": "triodion_begins",
+        "type": "sunday",
+        "title": "Sunday of the Publican and the Pharisee",
+        "description": "Beginning of the Lenten Triodion. Fast-free week."
+      },
+      {
+        "date": "2031-02-09",
+        "offset": -63,
+        "code": "prodigal_son",
+        "type": "sunday",
+        "title": "Sunday of the Prodigal Son",
+        "description": "Parable of the Prodigal Son: repentance and forgiveness."
+      },
+      {
+        "date": "2031-02-16",
+        "offset": -56,
+        "code": "meatfare_sunday",
+        "type": "sunday",
+        "title": "Meatfare Sunday (Sunday of the Last Judgment)",
+        "description": "Last day meat is permitted before Great Lent."
+      },
+      {
+        "date": "2031-02-17",
+        "offset": -55,
+        "code": "cheesefare_week_begins",
+        "type": "fast",
+        "title": "Cheesefare Week Begins",
+        "description": "No meat; dairy, eggs, and fish permitted every day."
+      },
+      {
+        "date": "2031-02-23",
+        "offset": -49,
+        "code": "forgiveness_sunday",
+        "type": "sunday",
+        "title": "Cheesefare Sunday (Forgiveness Sunday / Expulsion of Adam)",
+        "description": "Forgiveness Sunday and mutual asking of pardon before Great Lent."
+      },
+      {
+        "date": "2031-02-24",
+        "offset": -48,
+        "code": "clean_monday",
+        "type": "fast_start",
+        "title": "Clean Monday — Beginning of Great Lent",
+        "description": "First day of the holy Forty Days of Great Lent."
+      },
+      {
+        "date": "2031-03-02",
+        "offset": -42,
+        "code": "sunday_orthodoxy",
+        "type": "sunday",
+        "title": "Sunday of Orthodoxy (First Sunday of Great Lent)",
+        "description": "Restoration of the Holy Icons and triumph over iconoclasm."
+      },
+      {
+        "date": "2031-03-09",
+        "offset": -35,
+        "code": "sunday_palamas",
+        "type": "sunday",
+        "title": "Sunday of St. Gregory Palamas (Second Sunday of Great Lent)",
+        "description": "Commemoration of St. Gregory Palamas and the Divine Uncreated Light."
+      },
+      {
+        "date": "2031-03-16",
+        "offset": -28,
+        "code": "sunday_cross",
+        "type": "sunday",
+        "title": "Sunday of the Holy Cross (Third Sunday of Great Lent)",
+        "description": "Veneration of the Precious and Life-Giving Cross of the Lord."
+      },
+      {
+        "date": "2031-03-23",
+        "offset": -21,
+        "code": "sunday_climacus",
+        "type": "sunday",
+        "title": "Sunday of St. John Climacus (Fourth Sunday of Great Lent)",
+        "description": "Commemoration of St. John Climacus, author of The Ladder of Divine Ascent."
+      },
+      {
+        "date": "2031-03-30",
+        "offset": -14,
+        "code": "sunday_mary_egypt",
+        "type": "sunday",
+        "title": "Sunday of St. Mary of Egypt (Fifth Sunday of Great Lent)",
+        "description": "Commemoration of St. Mary of Egypt, exemplar of repentance."
+      },
+      {
+        "date": "2031-04-05",
+        "offset": -8,
+        "code": "lazarus_saturday",
+        "type": "feast",
+        "title": "Lazarus Saturday (Resurrection of Righteous Lazarus)",
+        "description": "Assurance of the universal resurrection before Christ's Passion."
+      },
+      {
+        "date": "2031-04-06",
+        "offset": -7,
+        "code": "palm_sunday",
+        "type": "twelve_feast",
+        "title": "Palm Sunday — The Entry of the Lord into Jerusalem",
+        "description": "One of the Twelve Great Feasts. Fish allowed."
+      },
+      {
+        "date": "2031-04-07",
+        "offset": -6,
+        "code": "holy_monday",
+        "type": "holy_week",
+        "title": "Great and Holy Monday",
+        "description": "Commemoration of Joseph the Patriarch and the barren fig tree."
+      },
+      {
+        "date": "2031-04-08",
+        "offset": -5,
+        "code": "holy_tuesday",
+        "type": "holy_week",
+        "title": "Great and Holy Tuesday",
+        "description": "Parable of the Ten Virgins and spiritual vigilance."
+      },
+      {
+        "date": "2031-04-09",
+        "offset": -4,
+        "code": "holy_wednesday",
+        "type": "holy_week",
+        "title": "Great and Holy Wednesday",
+        "description": "The anointing of Christ with myrrh and the betrayal by Judas."
+      },
+      {
+        "date": "2031-04-10",
+        "offset": -3,
+        "code": "holy_thursday",
+        "type": "holy_week",
+        "title": "Great and Holy Thursday — The Mystical Supper",
+        "description": "Institution of the Holy Eucharist and Mystical Supper."
+      },
+      {
+        "date": "2031-04-11",
+        "offset": -2,
+        "code": "holy_friday",
+        "type": "holy_week",
+        "title": "Great and Holy Friday — The Crucifixion of Christ",
+        "description": "The Holy Passion, Crucifixion and Burial of Jesus Christ. Strict fast."
+      },
+      {
+        "date": "2031-04-12",
+        "offset": -1,
+        "code": "holy_saturday",
+        "type": "holy_week",
+        "title": "Great and Holy Saturday — Christ in the Tomb",
+        "description": "Christ's bodily rest in the tomb and descent into Hades."
+      },
+      {
+        "date": "2031-04-13",
+        "offset": 0,
+        "code": "pascha",
+        "type": "feast_of_feasts",
+        "title": "The Bright and Glorious Resurrection of Christ (Pascha)",
+        "description": "The Feast of Feasts and Solemnity of Solemnities. Christ is Risen!"
+      },
+      {
+        "date": "2031-04-14",
+        "offset": 1,
+        "code": "bright_monday",
+        "type": "bright_week",
+        "title": "Bright Monday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2031-04-15",
+        "offset": 2,
+        "code": "bright_tuesday",
+        "type": "bright_week",
+        "title": "Bright Tuesday (Apparition of the Iveron Icon of Theotokos)",
+        "description": "Appearance of the Portaitissa (Iveron) Icon of the Mother of God."
+      },
+      {
+        "date": "2031-04-16",
+        "offset": 3,
+        "code": "bright_wednesday",
+        "type": "bright_week",
+        "title": "Bright Wednesday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2031-04-17",
+        "offset": 4,
+        "code": "bright_thursday",
+        "type": "bright_week",
+        "title": "Bright Thursday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2031-04-18",
+        "offset": 5,
+        "code": "bright_friday",
+        "type": "bright_week",
+        "title": "Bright Friday (Life-Giving Spring of the Theotokos)",
+        "description": "The Life-Giving Spring of the Mother of God."
+      },
+      {
+        "date": "2031-04-19",
+        "offset": 6,
+        "code": "bright_saturday",
+        "type": "bright_week",
+        "title": "Bright Saturday (Distribution of Artos)",
+        "description": "Distribution of the Artos (Paschal bread) to the faithful."
+      },
+      {
+        "date": "2031-04-20",
+        "offset": 7,
+        "code": "thomas_sunday",
+        "type": "sunday",
+        "title": "Thomas Sunday (Antipascha)",
+        "description": "Confession of St. Thomas: 'My Lord and my God!'"
+      },
+      {
+        "date": "2031-05-22",
+        "offset": 39,
+        "code": "ascension",
+        "type": "twelve_feast",
+        "title": "The Ascension of our Lord Jesus Christ",
+        "description": "Fortieth day after Pascha. One of the Twelve Great Feasts."
+      },
+      {
+        "date": "2031-06-01",
+        "offset": 49,
+        "code": "pentecost",
+        "type": "twelve_feast",
+        "title": "Pentecost (Descent of the Holy Spirit / Holy Trinity)",
+        "description": "Fiftieth day after Pascha. Birthday of the Church. Twelve Great Feast."
+      },
+      {
+        "date": "2031-06-02",
+        "offset": 50,
+        "code": "holy_spirit_day",
+        "type": "feast",
+        "title": "Day of the Holy Spirit",
+        "description": "Monday after Pentecost, glorifying the Third Person of the Trinity."
+      },
+      {
+        "date": "2031-06-08",
+        "offset": 56,
+        "code": "all_saints_sunday",
+        "type": "sunday",
+        "title": "Sunday of All Saints",
+        "description": "First Sunday after Pentecost, commemorating all saints throughout history."
+      },
+      {
+        "date": "2031-06-09",
+        "offset": 57,
+        "code": "apostles_fast_begins",
+        "type": "fast_start",
+        "title": "Apostles' Fast Begins",
+        "description": "Monday after All Saints Sunday, continuing until SS Peter and Paul (July 12)."
+      }
+    ]
+  },
+  "2032": {
+    "year": 2032,
+    "orthodox_pascha": {
+      "gregorian_date": "2032-05-02",
+      "julian_date": "2032-04-19"
+    },
+    "movable_cycle_events": [
+      {
+        "date": "2032-02-22",
+        "offset": -70,
+        "code": "triodion_begins",
+        "type": "sunday",
+        "title": "Sunday of the Publican and the Pharisee",
+        "description": "Beginning of the Lenten Triodion. Fast-free week."
+      },
+      {
+        "date": "2032-02-29",
+        "offset": -63,
+        "code": "prodigal_son",
+        "type": "sunday",
+        "title": "Sunday of the Prodigal Son",
+        "description": "Parable of the Prodigal Son: repentance and forgiveness."
+      },
+      {
+        "date": "2032-03-07",
+        "offset": -56,
+        "code": "meatfare_sunday",
+        "type": "sunday",
+        "title": "Meatfare Sunday (Sunday of the Last Judgment)",
+        "description": "Last day meat is permitted before Great Lent."
+      },
+      {
+        "date": "2032-03-08",
+        "offset": -55,
+        "code": "cheesefare_week_begins",
+        "type": "fast",
+        "title": "Cheesefare Week Begins",
+        "description": "No meat; dairy, eggs, and fish permitted every day."
+      },
+      {
+        "date": "2032-03-14",
+        "offset": -49,
+        "code": "forgiveness_sunday",
+        "type": "sunday",
+        "title": "Cheesefare Sunday (Forgiveness Sunday / Expulsion of Adam)",
+        "description": "Forgiveness Sunday and mutual asking of pardon before Great Lent."
+      },
+      {
+        "date": "2032-03-15",
+        "offset": -48,
+        "code": "clean_monday",
+        "type": "fast_start",
+        "title": "Clean Monday — Beginning of Great Lent",
+        "description": "First day of the holy Forty Days of Great Lent."
+      },
+      {
+        "date": "2032-03-21",
+        "offset": -42,
+        "code": "sunday_orthodoxy",
+        "type": "sunday",
+        "title": "Sunday of Orthodoxy (First Sunday of Great Lent)",
+        "description": "Restoration of the Holy Icons and triumph over iconoclasm."
+      },
+      {
+        "date": "2032-03-28",
+        "offset": -35,
+        "code": "sunday_palamas",
+        "type": "sunday",
+        "title": "Sunday of St. Gregory Palamas (Second Sunday of Great Lent)",
+        "description": "Commemoration of St. Gregory Palamas and the Divine Uncreated Light."
+      },
+      {
+        "date": "2032-04-04",
+        "offset": -28,
+        "code": "sunday_cross",
+        "type": "sunday",
+        "title": "Sunday of the Holy Cross (Third Sunday of Great Lent)",
+        "description": "Veneration of the Precious and Life-Giving Cross of the Lord."
+      },
+      {
+        "date": "2032-04-11",
+        "offset": -21,
+        "code": "sunday_climacus",
+        "type": "sunday",
+        "title": "Sunday of St. John Climacus (Fourth Sunday of Great Lent)",
+        "description": "Commemoration of St. John Climacus, author of The Ladder of Divine Ascent."
+      },
+      {
+        "date": "2032-04-18",
+        "offset": -14,
+        "code": "sunday_mary_egypt",
+        "type": "sunday",
+        "title": "Sunday of St. Mary of Egypt (Fifth Sunday of Great Lent)",
+        "description": "Commemoration of St. Mary of Egypt, exemplar of repentance."
+      },
+      {
+        "date": "2032-04-24",
+        "offset": -8,
+        "code": "lazarus_saturday",
+        "type": "feast",
+        "title": "Lazarus Saturday (Resurrection of Righteous Lazarus)",
+        "description": "Assurance of the universal resurrection before Christ's Passion."
+      },
+      {
+        "date": "2032-04-25",
+        "offset": -7,
+        "code": "palm_sunday",
+        "type": "twelve_feast",
+        "title": "Palm Sunday — The Entry of the Lord into Jerusalem",
+        "description": "One of the Twelve Great Feasts. Fish allowed."
+      },
+      {
+        "date": "2032-04-26",
+        "offset": -6,
+        "code": "holy_monday",
+        "type": "holy_week",
+        "title": "Great and Holy Monday",
+        "description": "Commemoration of Joseph the Patriarch and the barren fig tree."
+      },
+      {
+        "date": "2032-04-27",
+        "offset": -5,
+        "code": "holy_tuesday",
+        "type": "holy_week",
+        "title": "Great and Holy Tuesday",
+        "description": "Parable of the Ten Virgins and spiritual vigilance."
+      },
+      {
+        "date": "2032-04-28",
+        "offset": -4,
+        "code": "holy_wednesday",
+        "type": "holy_week",
+        "title": "Great and Holy Wednesday",
+        "description": "The anointing of Christ with myrrh and the betrayal by Judas."
+      },
+      {
+        "date": "2032-04-29",
+        "offset": -3,
+        "code": "holy_thursday",
+        "type": "holy_week",
+        "title": "Great and Holy Thursday — The Mystical Supper",
+        "description": "Institution of the Holy Eucharist and Mystical Supper."
+      },
+      {
+        "date": "2032-04-30",
+        "offset": -2,
+        "code": "holy_friday",
+        "type": "holy_week",
+        "title": "Great and Holy Friday — The Crucifixion of Christ",
+        "description": "The Holy Passion, Crucifixion and Burial of Jesus Christ. Strict fast."
+      },
+      {
+        "date": "2032-05-01",
+        "offset": -1,
+        "code": "holy_saturday",
+        "type": "holy_week",
+        "title": "Great and Holy Saturday — Christ in the Tomb",
+        "description": "Christ's bodily rest in the tomb and descent into Hades."
+      },
+      {
+        "date": "2032-05-02",
+        "offset": 0,
+        "code": "pascha",
+        "type": "feast_of_feasts",
+        "title": "The Bright and Glorious Resurrection of Christ (Pascha)",
+        "description": "The Feast of Feasts and Solemnity of Solemnities. Christ is Risen!"
+      },
+      {
+        "date": "2032-05-03",
+        "offset": 1,
+        "code": "bright_monday",
+        "type": "bright_week",
+        "title": "Bright Monday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2032-05-04",
+        "offset": 2,
+        "code": "bright_tuesday",
+        "type": "bright_week",
+        "title": "Bright Tuesday (Apparition of the Iveron Icon of Theotokos)",
+        "description": "Appearance of the Portaitissa (Iveron) Icon of the Mother of God."
+      },
+      {
+        "date": "2032-05-05",
+        "offset": 3,
+        "code": "bright_wednesday",
+        "type": "bright_week",
+        "title": "Bright Wednesday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2032-05-06",
+        "offset": 4,
+        "code": "bright_thursday",
+        "type": "bright_week",
+        "title": "Bright Thursday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2032-05-07",
+        "offset": 5,
+        "code": "bright_friday",
+        "type": "bright_week",
+        "title": "Bright Friday (Life-Giving Spring of the Theotokos)",
+        "description": "The Life-Giving Spring of the Mother of God."
+      },
+      {
+        "date": "2032-05-08",
+        "offset": 6,
+        "code": "bright_saturday",
+        "type": "bright_week",
+        "title": "Bright Saturday (Distribution of Artos)",
+        "description": "Distribution of the Artos (Paschal bread) to the faithful."
+      },
+      {
+        "date": "2032-05-09",
+        "offset": 7,
+        "code": "thomas_sunday",
+        "type": "sunday",
+        "title": "Thomas Sunday (Antipascha)",
+        "description": "Confession of St. Thomas: 'My Lord and my God!'"
+      },
+      {
+        "date": "2032-06-10",
+        "offset": 39,
+        "code": "ascension",
+        "type": "twelve_feast",
+        "title": "The Ascension of our Lord Jesus Christ",
+        "description": "Fortieth day after Pascha. One of the Twelve Great Feasts."
+      },
+      {
+        "date": "2032-06-20",
+        "offset": 49,
+        "code": "pentecost",
+        "type": "twelve_feast",
+        "title": "Pentecost (Descent of the Holy Spirit / Holy Trinity)",
+        "description": "Fiftieth day after Pascha. Birthday of the Church. Twelve Great Feast."
+      },
+      {
+        "date": "2032-06-21",
+        "offset": 50,
+        "code": "holy_spirit_day",
+        "type": "feast",
+        "title": "Day of the Holy Spirit",
+        "description": "Monday after Pentecost, glorifying the Third Person of the Trinity."
+      },
+      {
+        "date": "2032-06-27",
+        "offset": 56,
+        "code": "all_saints_sunday",
+        "type": "sunday",
+        "title": "Sunday of All Saints",
+        "description": "First Sunday after Pentecost, commemorating all saints throughout history."
+      },
+      {
+        "date": "2032-06-28",
+        "offset": 57,
+        "code": "apostles_fast_begins",
+        "type": "fast_start",
+        "title": "Apostles' Fast Begins",
+        "description": "Monday after All Saints Sunday, continuing until SS Peter and Paul (July 12)."
+      }
+    ]
+  },
+  "2033": {
+    "year": 2033,
+    "orthodox_pascha": {
+      "gregorian_date": "2033-04-24",
+      "julian_date": "2033-04-11"
+    },
+    "movable_cycle_events": [
+      {
+        "date": "2033-02-13",
+        "offset": -70,
+        "code": "triodion_begins",
+        "type": "sunday",
+        "title": "Sunday of the Publican and the Pharisee",
+        "description": "Beginning of the Lenten Triodion. Fast-free week."
+      },
+      {
+        "date": "2033-02-20",
+        "offset": -63,
+        "code": "prodigal_son",
+        "type": "sunday",
+        "title": "Sunday of the Prodigal Son",
+        "description": "Parable of the Prodigal Son: repentance and forgiveness."
+      },
+      {
+        "date": "2033-02-27",
+        "offset": -56,
+        "code": "meatfare_sunday",
+        "type": "sunday",
+        "title": "Meatfare Sunday (Sunday of the Last Judgment)",
+        "description": "Last day meat is permitted before Great Lent."
+      },
+      {
+        "date": "2033-02-28",
+        "offset": -55,
+        "code": "cheesefare_week_begins",
+        "type": "fast",
+        "title": "Cheesefare Week Begins",
+        "description": "No meat; dairy, eggs, and fish permitted every day."
+      },
+      {
+        "date": "2033-03-06",
+        "offset": -49,
+        "code": "forgiveness_sunday",
+        "type": "sunday",
+        "title": "Cheesefare Sunday (Forgiveness Sunday / Expulsion of Adam)",
+        "description": "Forgiveness Sunday and mutual asking of pardon before Great Lent."
+      },
+      {
+        "date": "2033-03-07",
+        "offset": -48,
+        "code": "clean_monday",
+        "type": "fast_start",
+        "title": "Clean Monday — Beginning of Great Lent",
+        "description": "First day of the holy Forty Days of Great Lent."
+      },
+      {
+        "date": "2033-03-13",
+        "offset": -42,
+        "code": "sunday_orthodoxy",
+        "type": "sunday",
+        "title": "Sunday of Orthodoxy (First Sunday of Great Lent)",
+        "description": "Restoration of the Holy Icons and triumph over iconoclasm."
+      },
+      {
+        "date": "2033-03-20",
+        "offset": -35,
+        "code": "sunday_palamas",
+        "type": "sunday",
+        "title": "Sunday of St. Gregory Palamas (Second Sunday of Great Lent)",
+        "description": "Commemoration of St. Gregory Palamas and the Divine Uncreated Light."
+      },
+      {
+        "date": "2033-03-27",
+        "offset": -28,
+        "code": "sunday_cross",
+        "type": "sunday",
+        "title": "Sunday of the Holy Cross (Third Sunday of Great Lent)",
+        "description": "Veneration of the Precious and Life-Giving Cross of the Lord."
+      },
+      {
+        "date": "2033-04-03",
+        "offset": -21,
+        "code": "sunday_climacus",
+        "type": "sunday",
+        "title": "Sunday of St. John Climacus (Fourth Sunday of Great Lent)",
+        "description": "Commemoration of St. John Climacus, author of The Ladder of Divine Ascent."
+      },
+      {
+        "date": "2033-04-10",
+        "offset": -14,
+        "code": "sunday_mary_egypt",
+        "type": "sunday",
+        "title": "Sunday of St. Mary of Egypt (Fifth Sunday of Great Lent)",
+        "description": "Commemoration of St. Mary of Egypt, exemplar of repentance."
+      },
+      {
+        "date": "2033-04-16",
+        "offset": -8,
+        "code": "lazarus_saturday",
+        "type": "feast",
+        "title": "Lazarus Saturday (Resurrection of Righteous Lazarus)",
+        "description": "Assurance of the universal resurrection before Christ's Passion."
+      },
+      {
+        "date": "2033-04-17",
+        "offset": -7,
+        "code": "palm_sunday",
+        "type": "twelve_feast",
+        "title": "Palm Sunday — The Entry of the Lord into Jerusalem",
+        "description": "One of the Twelve Great Feasts. Fish allowed."
+      },
+      {
+        "date": "2033-04-18",
+        "offset": -6,
+        "code": "holy_monday",
+        "type": "holy_week",
+        "title": "Great and Holy Monday",
+        "description": "Commemoration of Joseph the Patriarch and the barren fig tree."
+      },
+      {
+        "date": "2033-04-19",
+        "offset": -5,
+        "code": "holy_tuesday",
+        "type": "holy_week",
+        "title": "Great and Holy Tuesday",
+        "description": "Parable of the Ten Virgins and spiritual vigilance."
+      },
+      {
+        "date": "2033-04-20",
+        "offset": -4,
+        "code": "holy_wednesday",
+        "type": "holy_week",
+        "title": "Great and Holy Wednesday",
+        "description": "The anointing of Christ with myrrh and the betrayal by Judas."
+      },
+      {
+        "date": "2033-04-21",
+        "offset": -3,
+        "code": "holy_thursday",
+        "type": "holy_week",
+        "title": "Great and Holy Thursday — The Mystical Supper",
+        "description": "Institution of the Holy Eucharist and Mystical Supper."
+      },
+      {
+        "date": "2033-04-22",
+        "offset": -2,
+        "code": "holy_friday",
+        "type": "holy_week",
+        "title": "Great and Holy Friday — The Crucifixion of Christ",
+        "description": "The Holy Passion, Crucifixion and Burial of Jesus Christ. Strict fast."
+      },
+      {
+        "date": "2033-04-23",
+        "offset": -1,
+        "code": "holy_saturday",
+        "type": "holy_week",
+        "title": "Great and Holy Saturday — Christ in the Tomb",
+        "description": "Christ's bodily rest in the tomb and descent into Hades."
+      },
+      {
+        "date": "2033-04-24",
+        "offset": 0,
+        "code": "pascha",
+        "type": "feast_of_feasts",
+        "title": "The Bright and Glorious Resurrection of Christ (Pascha)",
+        "description": "The Feast of Feasts and Solemnity of Solemnities. Christ is Risen!"
+      },
+      {
+        "date": "2033-04-25",
+        "offset": 1,
+        "code": "bright_monday",
+        "type": "bright_week",
+        "title": "Bright Monday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2033-04-26",
+        "offset": 2,
+        "code": "bright_tuesday",
+        "type": "bright_week",
+        "title": "Bright Tuesday (Apparition of the Iveron Icon of Theotokos)",
+        "description": "Appearance of the Portaitissa (Iveron) Icon of the Mother of God."
+      },
+      {
+        "date": "2033-04-27",
+        "offset": 3,
+        "code": "bright_wednesday",
+        "type": "bright_week",
+        "title": "Bright Wednesday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2033-04-28",
+        "offset": 4,
+        "code": "bright_thursday",
+        "type": "bright_week",
+        "title": "Bright Thursday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2033-04-29",
+        "offset": 5,
+        "code": "bright_friday",
+        "type": "bright_week",
+        "title": "Bright Friday (Life-Giving Spring of the Theotokos)",
+        "description": "The Life-Giving Spring of the Mother of God."
+      },
+      {
+        "date": "2033-04-30",
+        "offset": 6,
+        "code": "bright_saturday",
+        "type": "bright_week",
+        "title": "Bright Saturday (Distribution of Artos)",
+        "description": "Distribution of the Artos (Paschal bread) to the faithful."
+      },
+      {
+        "date": "2033-05-01",
+        "offset": 7,
+        "code": "thomas_sunday",
+        "type": "sunday",
+        "title": "Thomas Sunday (Antipascha)",
+        "description": "Confession of St. Thomas: 'My Lord and my God!'"
+      },
+      {
+        "date": "2033-06-02",
+        "offset": 39,
+        "code": "ascension",
+        "type": "twelve_feast",
+        "title": "The Ascension of our Lord Jesus Christ",
+        "description": "Fortieth day after Pascha. One of the Twelve Great Feasts."
+      },
+      {
+        "date": "2033-06-12",
+        "offset": 49,
+        "code": "pentecost",
+        "type": "twelve_feast",
+        "title": "Pentecost (Descent of the Holy Spirit / Holy Trinity)",
+        "description": "Fiftieth day after Pascha. Birthday of the Church. Twelve Great Feast."
+      },
+      {
+        "date": "2033-06-13",
+        "offset": 50,
+        "code": "holy_spirit_day",
+        "type": "feast",
+        "title": "Day of the Holy Spirit",
+        "description": "Monday after Pentecost, glorifying the Third Person of the Trinity."
+      },
+      {
+        "date": "2033-06-19",
+        "offset": 56,
+        "code": "all_saints_sunday",
+        "type": "sunday",
+        "title": "Sunday of All Saints",
+        "description": "First Sunday after Pentecost, commemorating all saints throughout history."
+      },
+      {
+        "date": "2033-06-20",
+        "offset": 57,
+        "code": "apostles_fast_begins",
+        "type": "fast_start",
+        "title": "Apostles' Fast Begins",
+        "description": "Monday after All Saints Sunday, continuing until SS Peter and Paul (July 12)."
+      }
+    ]
+  },
+  "2034": {
+    "year": 2034,
+    "orthodox_pascha": {
+      "gregorian_date": "2034-04-09",
+      "julian_date": "2034-03-27"
+    },
+    "movable_cycle_events": [
+      {
+        "date": "2034-01-29",
+        "offset": -70,
+        "code": "triodion_begins",
+        "type": "sunday",
+        "title": "Sunday of the Publican and the Pharisee",
+        "description": "Beginning of the Lenten Triodion. Fast-free week."
+      },
+      {
+        "date": "2034-02-05",
+        "offset": -63,
+        "code": "prodigal_son",
+        "type": "sunday",
+        "title": "Sunday of the Prodigal Son",
+        "description": "Parable of the Prodigal Son: repentance and forgiveness."
+      },
+      {
+        "date": "2034-02-12",
+        "offset": -56,
+        "code": "meatfare_sunday",
+        "type": "sunday",
+        "title": "Meatfare Sunday (Sunday of the Last Judgment)",
+        "description": "Last day meat is permitted before Great Lent."
+      },
+      {
+        "date": "2034-02-13",
+        "offset": -55,
+        "code": "cheesefare_week_begins",
+        "type": "fast",
+        "title": "Cheesefare Week Begins",
+        "description": "No meat; dairy, eggs, and fish permitted every day."
+      },
+      {
+        "date": "2034-02-19",
+        "offset": -49,
+        "code": "forgiveness_sunday",
+        "type": "sunday",
+        "title": "Cheesefare Sunday (Forgiveness Sunday / Expulsion of Adam)",
+        "description": "Forgiveness Sunday and mutual asking of pardon before Great Lent."
+      },
+      {
+        "date": "2034-02-20",
+        "offset": -48,
+        "code": "clean_monday",
+        "type": "fast_start",
+        "title": "Clean Monday — Beginning of Great Lent",
+        "description": "First day of the holy Forty Days of Great Lent."
+      },
+      {
+        "date": "2034-02-26",
+        "offset": -42,
+        "code": "sunday_orthodoxy",
+        "type": "sunday",
+        "title": "Sunday of Orthodoxy (First Sunday of Great Lent)",
+        "description": "Restoration of the Holy Icons and triumph over iconoclasm."
+      },
+      {
+        "date": "2034-03-05",
+        "offset": -35,
+        "code": "sunday_palamas",
+        "type": "sunday",
+        "title": "Sunday of St. Gregory Palamas (Second Sunday of Great Lent)",
+        "description": "Commemoration of St. Gregory Palamas and the Divine Uncreated Light."
+      },
+      {
+        "date": "2034-03-12",
+        "offset": -28,
+        "code": "sunday_cross",
+        "type": "sunday",
+        "title": "Sunday of the Holy Cross (Third Sunday of Great Lent)",
+        "description": "Veneration of the Precious and Life-Giving Cross of the Lord."
+      },
+      {
+        "date": "2034-03-19",
+        "offset": -21,
+        "code": "sunday_climacus",
+        "type": "sunday",
+        "title": "Sunday of St. John Climacus (Fourth Sunday of Great Lent)",
+        "description": "Commemoration of St. John Climacus, author of The Ladder of Divine Ascent."
+      },
+      {
+        "date": "2034-03-26",
+        "offset": -14,
+        "code": "sunday_mary_egypt",
+        "type": "sunday",
+        "title": "Sunday of St. Mary of Egypt (Fifth Sunday of Great Lent)",
+        "description": "Commemoration of St. Mary of Egypt, exemplar of repentance."
+      },
+      {
+        "date": "2034-04-01",
+        "offset": -8,
+        "code": "lazarus_saturday",
+        "type": "feast",
+        "title": "Lazarus Saturday (Resurrection of Righteous Lazarus)",
+        "description": "Assurance of the universal resurrection before Christ's Passion."
+      },
+      {
+        "date": "2034-04-02",
+        "offset": -7,
+        "code": "palm_sunday",
+        "type": "twelve_feast",
+        "title": "Palm Sunday — The Entry of the Lord into Jerusalem",
+        "description": "One of the Twelve Great Feasts. Fish allowed."
+      },
+      {
+        "date": "2034-04-03",
+        "offset": -6,
+        "code": "holy_monday",
+        "type": "holy_week",
+        "title": "Great and Holy Monday",
+        "description": "Commemoration of Joseph the Patriarch and the barren fig tree."
+      },
+      {
+        "date": "2034-04-04",
+        "offset": -5,
+        "code": "holy_tuesday",
+        "type": "holy_week",
+        "title": "Great and Holy Tuesday",
+        "description": "Parable of the Ten Virgins and spiritual vigilance."
+      },
+      {
+        "date": "2034-04-05",
+        "offset": -4,
+        "code": "holy_wednesday",
+        "type": "holy_week",
+        "title": "Great and Holy Wednesday",
+        "description": "The anointing of Christ with myrrh and the betrayal by Judas."
+      },
+      {
+        "date": "2034-04-06",
+        "offset": -3,
+        "code": "holy_thursday",
+        "type": "holy_week",
+        "title": "Great and Holy Thursday — The Mystical Supper",
+        "description": "Institution of the Holy Eucharist and Mystical Supper."
+      },
+      {
+        "date": "2034-04-07",
+        "offset": -2,
+        "code": "holy_friday",
+        "type": "holy_week",
+        "title": "Great and Holy Friday — The Crucifixion of Christ",
+        "description": "The Holy Passion, Crucifixion and Burial of Jesus Christ. Strict fast."
+      },
+      {
+        "date": "2034-04-08",
+        "offset": -1,
+        "code": "holy_saturday",
+        "type": "holy_week",
+        "title": "Great and Holy Saturday — Christ in the Tomb",
+        "description": "Christ's bodily rest in the tomb and descent into Hades."
+      },
+      {
+        "date": "2034-04-09",
+        "offset": 0,
+        "code": "pascha",
+        "type": "feast_of_feasts",
+        "title": "The Bright and Glorious Resurrection of Christ (Pascha)",
+        "description": "The Feast of Feasts and Solemnity of Solemnities. Christ is Risen!"
+      },
+      {
+        "date": "2034-04-10",
+        "offset": 1,
+        "code": "bright_monday",
+        "type": "bright_week",
+        "title": "Bright Monday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2034-04-11",
+        "offset": 2,
+        "code": "bright_tuesday",
+        "type": "bright_week",
+        "title": "Bright Tuesday (Apparition of the Iveron Icon of Theotokos)",
+        "description": "Appearance of the Portaitissa (Iveron) Icon of the Mother of God."
+      },
+      {
+        "date": "2034-04-12",
+        "offset": 3,
+        "code": "bright_wednesday",
+        "type": "bright_week",
+        "title": "Bright Wednesday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2034-04-13",
+        "offset": 4,
+        "code": "bright_thursday",
+        "type": "bright_week",
+        "title": "Bright Thursday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2034-04-14",
+        "offset": 5,
+        "code": "bright_friday",
+        "type": "bright_week",
+        "title": "Bright Friday (Life-Giving Spring of the Theotokos)",
+        "description": "The Life-Giving Spring of the Mother of God."
+      },
+      {
+        "date": "2034-04-15",
+        "offset": 6,
+        "code": "bright_saturday",
+        "type": "bright_week",
+        "title": "Bright Saturday (Distribution of Artos)",
+        "description": "Distribution of the Artos (Paschal bread) to the faithful."
+      },
+      {
+        "date": "2034-04-16",
+        "offset": 7,
+        "code": "thomas_sunday",
+        "type": "sunday",
+        "title": "Thomas Sunday (Antipascha)",
+        "description": "Confession of St. Thomas: 'My Lord and my God!'"
+      },
+      {
+        "date": "2034-05-18",
+        "offset": 39,
+        "code": "ascension",
+        "type": "twelve_feast",
+        "title": "The Ascension of our Lord Jesus Christ",
+        "description": "Fortieth day after Pascha. One of the Twelve Great Feasts."
+      },
+      {
+        "date": "2034-05-28",
+        "offset": 49,
+        "code": "pentecost",
+        "type": "twelve_feast",
+        "title": "Pentecost (Descent of the Holy Spirit / Holy Trinity)",
+        "description": "Fiftieth day after Pascha. Birthday of the Church. Twelve Great Feast."
+      },
+      {
+        "date": "2034-05-29",
+        "offset": 50,
+        "code": "holy_spirit_day",
+        "type": "feast",
+        "title": "Day of the Holy Spirit",
+        "description": "Monday after Pentecost, glorifying the Third Person of the Trinity."
+      },
+      {
+        "date": "2034-06-04",
+        "offset": 56,
+        "code": "all_saints_sunday",
+        "type": "sunday",
+        "title": "Sunday of All Saints",
+        "description": "First Sunday after Pentecost, commemorating all saints throughout history."
+      },
+      {
+        "date": "2034-06-05",
+        "offset": 57,
+        "code": "apostles_fast_begins",
+        "type": "fast_start",
+        "title": "Apostles' Fast Begins",
+        "description": "Monday after All Saints Sunday, continuing until SS Peter and Paul (July 12)."
+      }
+    ]
+  },
+  "2035": {
+    "year": 2035,
+    "orthodox_pascha": {
+      "gregorian_date": "2035-04-29",
+      "julian_date": "2035-04-16"
+    },
+    "movable_cycle_events": [
+      {
+        "date": "2035-02-18",
+        "offset": -70,
+        "code": "triodion_begins",
+        "type": "sunday",
+        "title": "Sunday of the Publican and the Pharisee",
+        "description": "Beginning of the Lenten Triodion. Fast-free week."
+      },
+      {
+        "date": "2035-02-25",
+        "offset": -63,
+        "code": "prodigal_son",
+        "type": "sunday",
+        "title": "Sunday of the Prodigal Son",
+        "description": "Parable of the Prodigal Son: repentance and forgiveness."
+      },
+      {
+        "date": "2035-03-04",
+        "offset": -56,
+        "code": "meatfare_sunday",
+        "type": "sunday",
+        "title": "Meatfare Sunday (Sunday of the Last Judgment)",
+        "description": "Last day meat is permitted before Great Lent."
+      },
+      {
+        "date": "2035-03-05",
+        "offset": -55,
+        "code": "cheesefare_week_begins",
+        "type": "fast",
+        "title": "Cheesefare Week Begins",
+        "description": "No meat; dairy, eggs, and fish permitted every day."
+      },
+      {
+        "date": "2035-03-11",
+        "offset": -49,
+        "code": "forgiveness_sunday",
+        "type": "sunday",
+        "title": "Cheesefare Sunday (Forgiveness Sunday / Expulsion of Adam)",
+        "description": "Forgiveness Sunday and mutual asking of pardon before Great Lent."
+      },
+      {
+        "date": "2035-03-12",
+        "offset": -48,
+        "code": "clean_monday",
+        "type": "fast_start",
+        "title": "Clean Monday — Beginning of Great Lent",
+        "description": "First day of the holy Forty Days of Great Lent."
+      },
+      {
+        "date": "2035-03-18",
+        "offset": -42,
+        "code": "sunday_orthodoxy",
+        "type": "sunday",
+        "title": "Sunday of Orthodoxy (First Sunday of Great Lent)",
+        "description": "Restoration of the Holy Icons and triumph over iconoclasm."
+      },
+      {
+        "date": "2035-03-25",
+        "offset": -35,
+        "code": "sunday_palamas",
+        "type": "sunday",
+        "title": "Sunday of St. Gregory Palamas (Second Sunday of Great Lent)",
+        "description": "Commemoration of St. Gregory Palamas and the Divine Uncreated Light."
+      },
+      {
+        "date": "2035-04-01",
+        "offset": -28,
+        "code": "sunday_cross",
+        "type": "sunday",
+        "title": "Sunday of the Holy Cross (Third Sunday of Great Lent)",
+        "description": "Veneration of the Precious and Life-Giving Cross of the Lord."
+      },
+      {
+        "date": "2035-04-08",
+        "offset": -21,
+        "code": "sunday_climacus",
+        "type": "sunday",
+        "title": "Sunday of St. John Climacus (Fourth Sunday of Great Lent)",
+        "description": "Commemoration of St. John Climacus, author of The Ladder of Divine Ascent."
+      },
+      {
+        "date": "2035-04-15",
+        "offset": -14,
+        "code": "sunday_mary_egypt",
+        "type": "sunday",
+        "title": "Sunday of St. Mary of Egypt (Fifth Sunday of Great Lent)",
+        "description": "Commemoration of St. Mary of Egypt, exemplar of repentance."
+      },
+      {
+        "date": "2035-04-21",
+        "offset": -8,
+        "code": "lazarus_saturday",
+        "type": "feast",
+        "title": "Lazarus Saturday (Resurrection of Righteous Lazarus)",
+        "description": "Assurance of the universal resurrection before Christ's Passion."
+      },
+      {
+        "date": "2035-04-22",
+        "offset": -7,
+        "code": "palm_sunday",
+        "type": "twelve_feast",
+        "title": "Palm Sunday — The Entry of the Lord into Jerusalem",
+        "description": "One of the Twelve Great Feasts. Fish allowed."
+      },
+      {
+        "date": "2035-04-23",
+        "offset": -6,
+        "code": "holy_monday",
+        "type": "holy_week",
+        "title": "Great and Holy Monday",
+        "description": "Commemoration of Joseph the Patriarch and the barren fig tree."
+      },
+      {
+        "date": "2035-04-24",
+        "offset": -5,
+        "code": "holy_tuesday",
+        "type": "holy_week",
+        "title": "Great and Holy Tuesday",
+        "description": "Parable of the Ten Virgins and spiritual vigilance."
+      },
+      {
+        "date": "2035-04-25",
+        "offset": -4,
+        "code": "holy_wednesday",
+        "type": "holy_week",
+        "title": "Great and Holy Wednesday",
+        "description": "The anointing of Christ with myrrh and the betrayal by Judas."
+      },
+      {
+        "date": "2035-04-26",
+        "offset": -3,
+        "code": "holy_thursday",
+        "type": "holy_week",
+        "title": "Great and Holy Thursday — The Mystical Supper",
+        "description": "Institution of the Holy Eucharist and Mystical Supper."
+      },
+      {
+        "date": "2035-04-27",
+        "offset": -2,
+        "code": "holy_friday",
+        "type": "holy_week",
+        "title": "Great and Holy Friday — The Crucifixion of Christ",
+        "description": "The Holy Passion, Crucifixion and Burial of Jesus Christ. Strict fast."
+      },
+      {
+        "date": "2035-04-28",
+        "offset": -1,
+        "code": "holy_saturday",
+        "type": "holy_week",
+        "title": "Great and Holy Saturday — Christ in the Tomb",
+        "description": "Christ's bodily rest in the tomb and descent into Hades."
+      },
+      {
+        "date": "2035-04-29",
+        "offset": 0,
+        "code": "pascha",
+        "type": "feast_of_feasts",
+        "title": "The Bright and Glorious Resurrection of Christ (Pascha)",
+        "description": "The Feast of Feasts and Solemnity of Solemnities. Christ is Risen!"
+      },
+      {
+        "date": "2035-04-30",
+        "offset": 1,
+        "code": "bright_monday",
+        "type": "bright_week",
+        "title": "Bright Monday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2035-05-01",
+        "offset": 2,
+        "code": "bright_tuesday",
+        "type": "bright_week",
+        "title": "Bright Tuesday (Apparition of the Iveron Icon of Theotokos)",
+        "description": "Appearance of the Portaitissa (Iveron) Icon of the Mother of God."
+      },
+      {
+        "date": "2035-05-02",
+        "offset": 3,
+        "code": "bright_wednesday",
+        "type": "bright_week",
+        "title": "Bright Wednesday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2035-05-03",
+        "offset": 4,
+        "code": "bright_thursday",
+        "type": "bright_week",
+        "title": "Bright Thursday",
+        "description": "Bright Week. Fast-free."
+      },
+      {
+        "date": "2035-05-04",
+        "offset": 5,
+        "code": "bright_friday",
+        "type": "bright_week",
+        "title": "Bright Friday (Life-Giving Spring of the Theotokos)",
+        "description": "The Life-Giving Spring of the Mother of God."
+      },
+      {
+        "date": "2035-05-05",
+        "offset": 6,
+        "code": "bright_saturday",
+        "type": "bright_week",
+        "title": "Bright Saturday (Distribution of Artos)",
+        "description": "Distribution of the Artos (Paschal bread) to the faithful."
+      },
+      {
+        "date": "2035-05-06",
+        "offset": 7,
+        "code": "thomas_sunday",
+        "type": "sunday",
+        "title": "Thomas Sunday (Antipascha)",
+        "description": "Confession of St. Thomas: 'My Lord and my God!'"
+      },
+      {
+        "date": "2035-06-07",
+        "offset": 39,
+        "code": "ascension",
+        "type": "twelve_feast",
+        "title": "The Ascension of our Lord Jesus Christ",
+        "description": "Fortieth day after Pascha. One of the Twelve Great Feasts."
+      },
+      {
+        "date": "2035-06-17",
+        "offset": 49,
+        "code": "pentecost",
+        "type": "twelve_feast",
+        "title": "Pentecost (Descent of the Holy Spirit / Holy Trinity)",
+        "description": "Fiftieth day after Pascha. Birthday of the Church. Twelve Great Feast."
+      },
+      {
+        "date": "2035-06-18",
+        "offset": 50,
+        "code": "holy_spirit_day",
+        "type": "feast",
+        "title": "Day of the Holy Spirit",
+        "description": "Monday after Pentecost, glorifying the Third Person of the Trinity."
+      },
+      {
+        "date": "2035-06-24",
+        "offset": 56,
+        "code": "all_saints_sunday",
+        "type": "sunday",
+        "title": "Sunday of All Saints",
+        "description": "First Sunday after Pentecost, commemorating all saints throughout history."
+      },
+      {
+        "date": "2035-06-25",
+        "offset": 57,
+        "code": "apostles_fast_begins",
+        "type": "fast_start",
+        "title": "Apostles' Fast Begins",
+        "description": "Monday after All Saints Sunday, continuing until SS Peter and Paul (July 12)."
+      }
+    ]
+  }
+}

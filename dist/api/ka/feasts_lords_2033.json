@@ -1,0 +1,90 @@
+{
+  "year": 2033,
+  "calendar_style": "old",
+  "language": "ka",
+  "category": "lords",
+  "category_title": "საუფლო დღესასწაულები",
+  "feasts_count": 10,
+  "feasts": [
+    {
+      "category": "lords",
+      "category_name": "საუფლო დღესასწაული",
+      "type": "fixed",
+      "code": "nativity_christ",
+      "title": "შობა უფლისა ჩვენისა იესო ქრისტესი (ქრისტეშობა)",
+      "gregorian_date": "2033-01-07"
+    },
+    {
+      "category": "lords",
+      "category_name": "საუფლო დღესასწაული",
+      "type": "fixed",
+      "code": "circumcision",
+      "title": "ხორციელი წინადაცვეთა უფლისა ჩვენისა",
+      "gregorian_date": "2033-01-14"
+    },
+    {
+      "category": "lords",
+      "category_name": "საუფლო დღესასწაული",
+      "type": "fixed",
+      "code": "theophany",
+      "title": "ნათლისღება უფლისა (ღმრთისგამოცხადება)",
+      "gregorian_date": "2033-01-19"
+    },
+    {
+      "category": "lords",
+      "category_name": "საუფლო დღესასწაული",
+      "type": "fixed",
+      "code": "meeting_lord",
+      "title": "მირქმა უფლისა ჩვენისა იესო ქრისტესი",
+      "gregorian_date": "2033-02-15"
+    },
+    {
+      "category": "lords",
+      "category_name": "საუფლო დღესასწაული",
+      "type": "movable",
+      "code": "palm_sunday",
+      "title": "ბზობა — უფლის დიდებით შესვლა იერუსალიმში",
+      "gregorian_date": "2033-04-17"
+    },
+    {
+      "category": "lords",
+      "category_name": "საუფლო დღესასწაული",
+      "type": "movable",
+      "code": "pascha",
+      "title": "ქრისტეს ბრწყინვალე აღდგომა (პასექი)",
+      "gregorian_date": "2033-04-24"
+    },
+    {
+      "category": "lords",
+      "category_name": "საუფლო დღესასწაული",
+      "type": "movable",
+      "code": "ascension",
+      "title": "ამაღლება უფლისა ჩვენისა იესო ქრისტესი",
+      "gregorian_date": "2033-06-02"
+    },
+    {
+      "category": "lords",
+      "category_name": "საუფლო დღესასწაული",
+      "type": "movable",
+      "code": "pentecost",
+      "title": "სულთმოფენობა (წმინდა სამების დღე)",
+      "gregorian_date": "2033-06-12"
+    },
+    {
+      "category": "lords",
+      "category_name": "საუფლო დღესასწაული",
+      "type": "fixed",
+      "code": "transfiguration",
+      "title": "ფერისცვალება უფლისა ჩვენისა იესო ქრისტესი",
+      "gregorian_date": "2033-08-19"
+    },
+    {
+      "category": "lords",
+      "category_name": "საუფლო დღესასწაული",
+      "type": "fixed",
+      "code": "elevation_cross",
+      "title": "ჯვართამაღლება",
+      "gregorian_date": "2033-09-27"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "year": 2024,
+  "calendar_style": "old",
+  "language": "ka",
+  "category": "theotokos",
+  "category_title": "საღვთისმშობლო დღესასწაულები",
+  "feasts_count": 5,
+  "feasts": [
+    {
+      "category": "theotokos",
+      "category_name": "საღვთისმშობლო დღესასწაული",
+      "type": "fixed",
+      "code": "annunciation",
+      "title": "ხარება ყოვლადწმიდისა ღვთისმშობლისა",
+      "gregorian_date": "2024-04-07"
+    },
+    {
+      "category": "theotokos",
+      "category_name": "საღვთისმშობლო დღესასწაული",
+      "type": "fixed",
+      "code": "dormition",
+      "title": "მიძინება ყოვლადწმიდისა ღვთისმშობლისა (მარიამობა)",
+      "gregorian_date": "2024-08-28"
+    },
+    {
+      "category": "theotokos",
+      "category_name": "საღვთისმშობლო დღესასწაული",
+      "type": "fixed",
+      "code": "nativity_theotokos",
+      "title": "შობა ყოვლადწმიდისა ღვთისმშობლისა (ღვთისმშობლობა)",
+      "gregorian_date": "2024-09-21"
+    },
+    {
+      "category": "theotokos",
+      "category_name": "საღვთისმშობლო დღესასწაული",
+      "type": "fixed",
+      "code": "svetitskhovloba",
+      "title": "სვეტიცხოვლობა (მცხეთობა) და საფარველი ღვთისმშობლისა",
+      "gregorian_date": "2024-10-14"
+    },
+    {
+      "category": "theotokos",
+      "category_name": "საღვთისმშობლო დღესასწაული",
+      "type": "fixed",
+      "code": "entry_theotokos",
+      "title": "ტაძრად მიყვანება ყოვლადწმიდისა ღვთისმშობლისა",
+      "gregorian_date": "2024-12-04"
+    }
+  ]
+}

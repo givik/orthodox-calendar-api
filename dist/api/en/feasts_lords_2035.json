@@ -1,0 +1,90 @@
+{
+  "year": 2035,
+  "calendar_style": "old",
+  "language": "en",
+  "category": "lords",
+  "category_title": "Feasts of the Lord (Dominical)",
+  "feasts_count": 10,
+  "feasts": [
+    {
+      "category": "lords",
+      "category_name": "Feast of the Lord",
+      "type": "fixed",
+      "code": "nativity_christ",
+      "title": "The Nativity of our Lord Jesus Christ (Christmas)",
+      "gregorian_date": "2035-01-07"
+    },
+    {
+      "category": "lords",
+      "category_name": "Feast of the Lord",
+      "type": "fixed",
+      "code": "circumcision",
+      "title": "Circumcision of Christ",
+      "gregorian_date": "2035-01-14"
+    },
+    {
+      "category": "lords",
+      "category_name": "Feast of the Lord",
+      "type": "fixed",
+      "code": "theophany",
+      "title": "The Holy Theophany of Christ",
+      "gregorian_date": "2035-01-19"
+    },
+    {
+      "category": "lords",
+      "category_name": "Feast of the Lord",
+      "type": "fixed",
+      "code": "meeting_lord",
+      "title": "Meeting of the Lord in the Temple",
+      "gregorian_date": "2035-02-15"
+    },
+    {
+      "category": "lords",
+      "category_name": "Feast of the Lord",
+      "type": "movable",
+      "code": "palm_sunday",
+      "title": "Palm Sunday — The Entry of the Lord into Jerusalem",
+      "gregorian_date": "2035-04-22"
+    },
+    {
+      "category": "lords",
+      "category_name": "Feast of the Lord",
+      "type": "movable",
+      "code": "pascha",
+      "title": "The Bright and Glorious Resurrection of Christ (Pascha)",
+      "gregorian_date": "2035-04-29"
+    },
+    {
+      "category": "lords",
+      "category_name": "Feast of the Lord",
+      "type": "movable",
+      "code": "ascension",
+      "title": "The Ascension of our Lord Jesus Christ",
+      "gregorian_date": "2035-06-07"
+    },
+    {
+      "category": "lords",
+      "category_name": "Feast of the Lord",
+      "type": "movable",
+      "code": "pentecost",
+      "title": "Pentecost (Descent of the Holy Spirit / Holy Trinity)",
+      "gregorian_date": "2035-06-17"
+    },
+    {
+      "category": "lords",
+      "category_name": "Feast of the Lord",
+      "type": "fixed",
+      "code": "transfiguration",
+      "title": "Transfiguration of our Lord",
+      "gregorian_date": "2035-08-19"
+    },
+    {
+      "category": "lords",
+      "category_name": "Feast of the Lord",
+      "type": "fixed",
+      "code": "elevation_cross",
+      "title": "Elevation of the Holy Cross",
+      "gregorian_date": "2035-09-27"
+    }
+  ]
+}
