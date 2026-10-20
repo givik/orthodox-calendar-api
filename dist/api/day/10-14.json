@@ -1,0 +1,34 @@
+{
+  "gregorian_day": "10-14",
+  "julian_day": "10-01",
+  "feasts": [
+    {
+      "code": "protection_svetitskhoveli",
+      "level": "georgian_great"
+    }
+  ],
+  "ka": {
+    "title": "სვეტიცხოვლობა — კვართისა საუფლოისა და სვეტისა ცხოველსმყოფელისა. საფარველი ყოვლადწმიდისა ღვთისმშობლისა (მცხეთობა)",
+    "saints": [
+      "სვეტიცხოვლობა — უფლის უკერველი კვართისა და სვეტისა ცხოველსმყოფელისა და მირონმდინარისა დღესასწაული (საქართველოს ეროვნული დღესასწაული)",
+      "საფარველი ყოვლადწმიდისა ღვთისმშობლისა (ვლაქერნის სასწაული)",
+      "ღირსი რომანოზ უტკბილესმგალობელი"
+    ]
+  },
+  "en": {
+    "title": "Svetitskhovloba — Feast of the Tunic of the Lord and the Life-Giving Pillar (Mtskhetoba). Protection of the Theotokos (Pokrov)",
+    "saints": [
+      "Svetitskhovloba — Feast of the Seamless Tunic of Christ and the Life-Giving Pillar in Mtskheta",
+      "The Protection of the Most Holy Theotokos (Pokrov)",
+      "Venerable Romanus the Melodist"
+    ]
+  },
+  "ru": {
+    "title": "Светицховлоба — Хитон Господень и Животворящий Столп (Мцхетоба). Покров Пресвятой Богородицы",
+    "saints": [
+      "Светицховлоба — праздник Хитона Господня и Животворящего Столпа во Мцхете",
+      "Покров Пресвятой Богородицы",
+      "Преподобного Романа Сладкопевца"
+    ]
+  }
+}

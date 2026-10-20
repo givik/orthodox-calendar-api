@@ -1,0 +1,29 @@
+{
+  "gregorian_day": "02-01",
+  "julian_day": "01-19",
+  "feasts": [],
+  "ka": {
+    "title": "ღირსი მაკარი დიდი ეგვიპტელი. ღირსი არსენი იყალთოელი",
+    "saints": [
+      "ღირსი მაკარი დიდი ეგვიპტელი",
+      "წმ. არსენი იყალთოელი (სწავლული ქართველი მოღვაწე)",
+      "ღირსი მაკარი ალექსანდრიელი"
+    ]
+  },
+  "en": {
+    "title": "Venerable Macarius the Great of Egypt. St. Arsenius of Iqalto",
+    "saints": [
+      "Venerable Macarius the Great of Egypt",
+      "St. Arsenius of Iqalto (Georgian Scholar)",
+      "Venerable Macarius of Alexandria"
+    ]
+  },
+  "ru": {
+    "title": "Преподобного Макария Великого, Египетского. Святителя Арсения Икалтойского",
+    "saints": [
+      "Преподобного Макария Великого, Египетского",
+      "Святителя Арсения Икалтойского",
+      "Преподобного Макария Александрийского"
+    ]
+  }
+}

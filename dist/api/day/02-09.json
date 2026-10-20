@@ -1,0 +1,31 @@
+{
+  "gregorian_day": "02-09",
+  "julian_day": "01-27",
+  "feasts": [
+    {
+      "code": "chrysostom_relics",
+      "level": "great"
+    }
+  ],
+  "ka": {
+    "title": "გადავენება პატიოსანთა ნაწილთა წმ. იოანე ოქროპირისა",
+    "saints": [
+      "გადასვენება ნაწილთა წმ. იოანე ოქროპირისა კონსტანტინოპოლში (438 წ.)",
+      "ღირსი მარკიანე"
+    ]
+  },
+  "en": {
+    "title": "Translation of the Relics of St. John Chrysostom",
+    "saints": [
+      "Translation of the Relics of St. John Chrysostom to Constantinople (438)",
+      "Venerable Marcian"
+    ]
+  },
+  "ru": {
+    "title": "Перенесение мощей святителя Иоанна Златоуста",
+    "saints": [
+      "Перенесение мощей святителя Иоанна Златоуста (438)",
+      "Преподобного Маркиана"
+    ]
+  }
+}

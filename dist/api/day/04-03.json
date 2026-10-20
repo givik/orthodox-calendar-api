@@ -1,0 +1,26 @@
+{
+  "gregorian_day": "04-03",
+  "julian_day": "03-21",
+  "feasts": [],
+  "ka": {
+    "title": "წმ. იაკობ აღმსარებელი, კატანელი ეპისკოპოსი",
+    "saints": [
+      "წმ. იაკობ აღმსარებელი ეპისკოპოსი",
+      "წმ. კირილე, კატანელი ეპისკოპოსი"
+    ]
+  },
+  "en": {
+    "title": "St. James the Confessor, Bishop of Catania",
+    "saints": [
+      "St. James the Confessor, Bishop of Catania",
+      "St. Cyril, Bishop of Catania"
+    ]
+  },
+  "ru": {
+    "title": "Святителя Иакова, епископа и исповедника",
+    "saints": [
+      "Святителя Иакова исповедника, епископа Катанского",
+      "Святителя Кирилла Катанского"
+    ]
+  }
+}

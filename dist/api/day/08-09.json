@@ -1,0 +1,28 @@
+{
+  "gregorian_day": "08-09",
+  "julian_day": "07-27",
+  "feasts": [
+    {
+      "code": "st_panteleimon",
+      "level": "great"
+    }
+  ],
+  "ka": {
+    "title": "წმინდა დიდმოწამე და მკურნალი პანტელეიმონი",
+    "saints": [
+      "წმ. დიდმოწამე და მკურნალი პანტელეიმონი (305 წ.) — უვერცხლო ექიმი და შემწე სნეულთა"
+    ]
+  },
+  "en": {
+    "title": "Holy Great Martyr and Healer Panteleimon",
+    "saints": [
+      "Holy Great Martyr and Healer Panteleimon (305), Unmercenary Physician"
+    ]
+  },
+  "ru": {
+    "title": "Святого великомученика и целителя Пантелеимона",
+    "saints": [
+      "Святого великомученика и целителя Пантелеимона (305)"
+    ]
+  }
+}

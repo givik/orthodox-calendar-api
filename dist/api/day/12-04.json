@@ -1,0 +1,28 @@
+{
+  "gregorian_day": "12-04",
+  "julian_day": "11-21",
+  "feasts": [
+    {
+      "code": "entry_theotokos",
+      "level": "twelve"
+    }
+  ],
+  "ka": {
+    "title": "ტაძრად მიყვანება ყოვლადწმიდისა დედოფლისა ჩვენისა ღვთისმშობლისა და მარადის ქალწულისა მარიამისა",
+    "saints": [
+      "ტაძრად მიყვანება ყოვლადწმიდისა ღვთისმშობლისა (მე-12 საუფლო/საღვთისმშობლო დღესასწაული — თევზით ხსნილი)"
+    ]
+  },
+  "en": {
+    "title": "The Entry of the Most Holy Theotokos into the Temple",
+    "saints": [
+      "The Entry of the Most Holy Theotokos into the Temple (Twelve Great Feast, Fish allowed)"
+    ]
+  },
+  "ru": {
+    "title": "Введение во храм Пресвятой Владычицы нашей Богородицы и Приснодевы Марии",
+    "saints": [
+      "Введение во храм Пресвятой Богородицы (Двунадесятый праздник, разрешается рыба)"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "gregorian_day": "01-21",
+  "julian_day": "01-08",
+  "feasts": [
+    {
+      "code": "st_abo_tbilisi",
+      "level": "georgian_great"
+    }
+  ],
+  "ka": {
+    "title": "წმ. მოწამე აბო თბილელი — თბილისის მფარველი. ღირსი გიორგი ქოზიბელი",
+    "saints": [
+      "წმ. მოწამე აბო თბილელი (786 წ.) — თბილისის მფარველი",
+      "ღირსი გიორგი ქოზიბელი",
+      "ღირსი დომნიკა"
+    ]
+  },
+  "en": {
+    "title": "Holy Martyr Abo of Tbilisi, Patron of Tbilisi. St. George the Chozebite",
+    "saints": [
+      "Holy Martyr Abo of Tbilisi (786), Heavenly Patron of Tbilisi",
+      "Venerable George the Chozebite",
+      "Venerable Domnica"
+    ]
+  },
+  "ru": {
+    "title": "Мученика Або Тбилисского. Преподобного Георгия Хозевита",
+    "saints": [
+      "Мученика Або Тбилисского (786)",
+      "Преподобного Георгия Хозевита",
+      "Преподобной Домники"
+    ]
+  }
+}

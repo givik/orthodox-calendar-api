@@ -1,0 +1,31 @@
+{
+  "gregorian_day": "11-23",
+  "julian_day": "11-10",
+  "feasts": [
+    {
+      "code": "st_george_wheeling",
+      "level": "georgian_great"
+    }
+  ],
+  "ka": {
+    "title": "წმინდა დიდმოწამე გიორგის ბორბალზე წამება (გიორგობა)",
+    "saints": [
+      "წმ. გიორგის ბორბალზე წამება (საქართველოს ეროვნული დღესასწაული — გიორგობა)",
+      "მოციქულნი ერასტო, ოლიმპი, როდიონი და სხვანი 70-თაგანი"
+    ]
+  },
+  "en": {
+    "title": "The Wheeling of Holy Great Martyr George (St. George's Day in Georgia)",
+    "saints": [
+      "The Torture on the Wheel of St. George (National holiday in Georgia)",
+      "Apostles Erastus, Olympas, Rhodion of the Seventy"
+    ]
+  },
+  "ru": {
+    "title": "Колесование святого великомученика Георгия Победоносца (Георгиев день в Грузии)",
+    "saints": [
+      "Колесование святого Георгия Победоносца (Национальный праздник в Грузии)",
+      "Апостолов Ераста, Олимпа, Родиона от 70-ти"
+    ]
+  }
+}

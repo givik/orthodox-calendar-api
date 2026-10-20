@@ -1,0 +1,14 @@
+{
+  "julian_day": "11-15",
+  "title": "Beginning of the Nativity (Philip's) Fast. Martyrs Gurias, Samonas, and Abibus",
+  "feasts": [
+    {
+      "code": "nativity_fast_starts",
+      "level": "fast_start"
+    }
+  ],
+  "saints": [
+    "Beginning of the 40-day Nativity Fast",
+    "Holy Martyrs Gurias, Samonas, and Abibus, Patrons of Marriage"
+  ]
+}

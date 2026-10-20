@@ -1,0 +1,34 @@
+{
+  "gregorian_day": "01-14",
+  "julian_day": "01-01",
+  "feasts": [
+    {
+      "code": "circumcision",
+      "level": "great"
+    }
+  ],
+  "ka": {
+    "title": "უფლისა ჩვენისა იესო ქრისტეს ხორციელი წინადაცვეთა. წმ. ბასილი დიდი",
+    "saints": [
+      "ხორციელი წინადაცვეთა უფლისა ჩვენისა იესო ქრისტესი",
+      "წმ. ბასილი დიდი, კესარია-კაპადოკიის მთავარეპისკოპოსი",
+      "მოწამე ბასილი ანკვირიელი"
+    ]
+  },
+  "en": {
+    "title": "Circumcision of our Lord Jesus Christ. St. Basil the Great",
+    "saints": [
+      "Circumcision of our Lord Jesus Christ",
+      "St. Basil the Great, Archbishop of Caesarea",
+      "Martyr Basil of Ancyra"
+    ]
+  },
+  "ru": {
+    "title": "Обрезание Господне. Святителя Василия Великого",
+    "saints": [
+      "Обрезание Господне",
+      "Святителя Василия Великого, архиепископа Кесарии Каппадокийской",
+      "Мученика Василия Анкирского"
+    ]
+  }
+}

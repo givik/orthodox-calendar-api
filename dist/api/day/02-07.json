@@ -1,0 +1,34 @@
+{
+  "gregorian_day": "02-07",
+  "julian_day": "01-25",
+  "feasts": [
+    {
+      "code": "gregory_theologian",
+      "level": "great"
+    }
+  ],
+  "ka": {
+    "title": "წმ. გრიგოლ ღვთისმეტყველი, კონსტანტინოპოლელი მთავარეპისკოპოსი",
+    "saints": [
+      "წმ. გრიგოლ ღვთისმეტყველი (389 წ.)",
+      "წმ. მოწამე ფელიციტა და შვილნი მისნი",
+      "ღირსი ანატოლი ოპტინელი"
+    ]
+  },
+  "en": {
+    "title": "St. Gregory the Theologian, Archbishop of Constantinople",
+    "saints": [
+      "St. Gregory the Theologian (389)",
+      "Martyr Felicitas of Rome and her seven sons",
+      "Venerable Anatoly of Optina"
+    ]
+  },
+  "ru": {
+    "title": "Святителя Григория Богослова, архиепископа Константинопольского",
+    "saints": [
+      "Святителя Григория Богослова (389)",
+      "Мученицы Филицаты и семи сыновей ее",
+      "Преподобного Анатолия Оптинского"
+    ]
+  }
+}

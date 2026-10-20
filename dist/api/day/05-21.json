@@ -1,0 +1,31 @@
+{
+  "gregorian_day": "05-21",
+  "julian_day": "05-08",
+  "feasts": [
+    {
+      "code": "john_theologian",
+      "level": "great"
+    }
+  ],
+  "ka": {
+    "title": "წმინდა მოციქული და მახარებელი იოანე ღვთისმეტყველი. ღირსი არსენი დიდი",
+    "saints": [
+      "წმ. მოციქული და მახარებელი იოანე ღვთისმეტყველი (საყვარელი მოწაფე ქრისტესი)",
+      "ღირსი არსენი დიდი"
+    ]
+  },
+  "en": {
+    "title": "Holy Apostle and Evangelist John the Theologian. Venerable Arsenius the Great",
+    "saints": [
+      "Holy Apostle and Evangelist John the Theologian (Beloved Disciple)",
+      "Venerable Arsenius the Great"
+    ]
+  },
+  "ru": {
+    "title": "Святого апостола и евангелиста Иоанна Богослова. Преподобного Арсения Великого",
+    "saints": [
+      "Святого апостола и евангелиста Иоанна Богослова",
+      "Преподобного Арсения Великого"
+    ]
+  }
+}

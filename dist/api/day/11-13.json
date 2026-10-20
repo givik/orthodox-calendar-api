@@ -1,0 +1,31 @@
+{
+  "gregorian_day": "11-13",
+  "julian_day": "10-31",
+  "feasts": [
+    {
+      "code": "hundred_thousand_martyrs",
+      "level": "georgian_great"
+    }
+  ],
+  "ka": {
+    "title": "ას წამებულთა ხსენება — ასი ათასი ქართველი მოწამე, ჯალალ-ედ-დინისგან თბილისში მეტეხის ხიდზე წამებულნი",
+    "saints": [
+      "ასი ათასი ქართველი მოწამე (1227 წ.) — რომელთაც უარი თქვეს ხატების შეურაცხყოფაზე და თავი დასდეს ქრისტესთვის მეტეხის ხიდზე",
+      "მოციქულნი სტაქი, ამპლი, ურბანი და სხვანი 70-თაგანი"
+    ]
+  },
+  "en": {
+    "title": "Commemoration of the 100,000 Holy Martyrs of Tbilisi, slain on the Metekhi Bridge by Jalal al-Din",
+    "saints": [
+      "100,000 Holy Martyrs of Tbilisi (1227), who refused to desecrate holy icons and were martyred on the Metekhi bridge",
+      "Apostles Stachys, Amplias, Urban, and companions of the Seventy"
+    ]
+  },
+  "ru": {
+    "title": "Память 100 000 святых мучеников Тбилисских, пострадавших от Джелал-эд-Дина на Метехском мосту",
+    "saints": [
+      "Память ста тысяч святых мучеников Тбилисских (1227)",
+      "Апостолов от 70-ти: Стахия, Амплия, Урвана и иных"
+    ]
+  }
+}

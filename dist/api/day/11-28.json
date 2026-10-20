@@ -1,0 +1,31 @@
+{
+  "gregorian_day": "11-28",
+  "julian_day": "11-15",
+  "feasts": [
+    {
+      "code": "nativity_fast_starts",
+      "level": "fast_start"
+    }
+  ],
+  "ka": {
+    "title": "საშობაო (ფილიპეს) მარხვის დასაწყისი. მოწამენი გური, სამონი და აბიბო",
+    "saints": [
+      "საშობაო მარხვის დასაწყისი (40-დღიანი მარხვა ქრისტეშობამდე)",
+      "წმ. მოწამენი გური, სამონი და აბიბო — ქორწინების მფარველნი"
+    ]
+  },
+  "en": {
+    "title": "Beginning of the Nativity (Philip's) Fast. Martyrs Gurias, Samonas, and Abibus",
+    "saints": [
+      "Beginning of the 40-day Nativity Fast",
+      "Holy Martyrs Gurias, Samonas, and Abibus, Patrons of Marriage"
+    ]
+  },
+  "ru": {
+    "title": "Начало Рождественского (Филиппова) поста. Мучеников Гурия, Самона и Авива",
+    "saints": [
+      "Начало 40-дневного Рождественского поста",
+      "Мучеников и исповедников Гурия, Самона и Авива"
+    ]
+  }
+}

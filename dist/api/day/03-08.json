@@ -1,0 +1,31 @@
+{
+  "gregorian_day": "03-08",
+  "julian_day": "02-24",
+  "feasts": [
+    {
+      "code": "first_second_finding_baptist_head",
+      "level": "great"
+    }
+  ],
+  "ka": {
+    "title": "პირველი და მეორე პოვნა პატიოსნისა თავისა წმ. იოანე ნათლისმცემლისა",
+    "saints": [
+      "პირველი (IV ს.) და მეორე (452 წ.) პოვნა პატიოსნისა თავისა წმიდისა დიდებულისა წინასწარმეტყველისა და ნათლისმცემელისა იოანესი",
+      "ღირსი ერაზმი კიევო-პეჩორელი"
+    ]
+  },
+  "en": {
+    "title": "First and Second Finding of the Honorable Head of St. John the Baptist",
+    "saints": [
+      "First and Second Finding of the Precious Head of St. John the Baptist (IV c. & 452)",
+      "Venerable Erasmus of Kiev Caves"
+    ]
+  },
+  "ru": {
+    "title": "Первое и второе обретение честной главы святого Иоанна Предтечи",
+    "saints": [
+      "Первое и второе обретение честной главы Иоанна Предтечи",
+      "Преподобного Еразма Киево-Печерского"
+    ]
+  }
+}

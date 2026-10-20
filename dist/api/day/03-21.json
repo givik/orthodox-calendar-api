@@ -1,0 +1,26 @@
+{
+  "gregorian_day": "03-21",
+  "julian_day": "03-08",
+  "feasts": [],
+  "ka": {
+    "title": "ღირსი თეოფილაქტე ნიკომიდიელი. წმ. ლაზარე მურომელი",
+    "saints": [
+      "ღირსი თეოფილაქტე ნიკომიდიელი ეპისკოპოსი აღმსარებელი",
+      "მოციქული ერმი 70-თაგანი"
+    ]
+  },
+  "en": {
+    "title": "Venerable Theophylact of Nicomedia. St. Lazarus of Murom",
+    "saints": [
+      "Venerable Theophylact the Confessor, Bishop of Nicomedia",
+      "Apostle Hermas of the Seventy"
+    ]
+  },
+  "ru": {
+    "title": "Преподобного Феофилакта исповедника, епископа Никомидийского",
+    "saints": [
+      "Преподобного Феофилакта исповедника, епископа Никомидийского",
+      "Апостола Ерма от 70-ти"
+    ]
+  }
+}

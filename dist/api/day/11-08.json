@@ -1,0 +1,31 @@
+{
+  "gregorian_day": "11-08",
+  "julian_day": "10-26",
+  "feasts": [
+    {
+      "code": "st_demetrius",
+      "level": "great"
+    }
+  ],
+  "ka": {
+    "title": "წმინდა დიდმოწამე დიმიტრი თესალონიკელი (მირონმდინარე — დიმიტრობა)",
+    "saints": [
+      "წმ. დიდმოწამე დიმიტრი თესალონიკელი (306 წ., დიმიტრობა)",
+      "მოწამე ლუპე"
+    ]
+  },
+  "en": {
+    "title": "Holy Great Martyr Demetrius of Thessalonica, the Myrrh-Streamer",
+    "saints": [
+      "Holy Great Martyr Demetrius of Thessalonica (306)",
+      "Martyr Luppus"
+    ]
+  },
+  "ru": {
+    "title": "Святого великомученика Димитрия Солунского, мироточивого (Дмитриев день)",
+    "saints": [
+      "Святого великомученика Димитрия Солунского (306)",
+      "Мученика Луппа"
+    ]
+  }
+}

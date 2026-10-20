@@ -1,0 +1,26 @@
+{
+  "gregorian_day": "03-04",
+  "julian_day": "02-20",
+  "feasts": [],
+  "ka": {
+    "title": "წმ. ლეონ კატანელი. ღირსი აგათონი",
+    "saints": [
+      "წმ. ლეონ კატანელი ეპისკოპოსი",
+      "მღვდელმოწამე სადოკი სპარსი"
+    ]
+  },
+  "en": {
+    "title": "St. Leo, Bishop of Catania. Venerable Agathon",
+    "saints": [
+      "St. Leo, Bishop of Catania in Sicily",
+      "Hieromartyr Sadoc, Bishop of Persia"
+    ]
+  },
+  "ru": {
+    "title": "Святителя Льва, епископа Катанского. Преподобного Агафона",
+    "saints": [
+      "Святителя Льва, епископа Катанского",
+      "Священномученика Садока, епископа Персидского"
+    ]
+  }
+}

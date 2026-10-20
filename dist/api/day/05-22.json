@@ -1,0 +1,31 @@
+{
+  "gregorian_day": "05-22",
+  "julian_day": "05-09",
+  "feasts": [
+    {
+      "code": "st_nicholas_spring",
+      "level": "great"
+    }
+  ],
+  "ka": {
+    "title": "გადმოსვენება ნაწილთა წმ. ნიკოლოზ საკვირველთმოქმედისა ბარში (ნიკოლოზობა). ღირსი შიო მღვიმელი",
+    "saints": [
+      "გადმოსვენება პატიოსანთა ნაწილთა წმ. ნიკოლოზ საკვირველთმოქმედისა მირონიდან ბარში (1087 წ., ნიკოლოზობა)",
+      "ღირსი შიო მღვიმელი (VI ს.)"
+    ]
+  },
+  "en": {
+    "title": "Translation of the Relics of St. Nicholas to Bari. Venerable Shio of Mghvime",
+    "saints": [
+      "Translation of the Relics of St. Nicholas from Myra to Bari (1087)",
+      "Venerable Shio of Mghvime in Georgia (VI c.)"
+    ]
+  },
+  "ru": {
+    "title": "Перенесение мощей святителя Николая в Бари (Никола вешний). Преподобного Шио Мгвимского",
+    "saints": [
+      "Перенесение мощей святителя Николая Чудотворца из Мир Ликийских в Бар (1087)",
+      "Преподобного Шио Мгвимского (VI в.)"
+    ]
+  }
+}

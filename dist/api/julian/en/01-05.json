@@ -1,0 +1,15 @@
+{
+  "julian_day": "01-05",
+  "title": "Eve of Theophany (Strict Fast). Martyrs Theopemptus and Theonas",
+  "feasts": [
+    {
+      "code": "theophany_eve",
+      "level": "fast_eve"
+    }
+  ],
+  "saints": [
+    "Eve of Theophany (Paramon - Strict Fast)",
+    "Martyrs Theopemptus, Bishop of Nicomedia, and Theonas",
+    "Venerable Syncletica of Alexandria"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "gregorian_day": "09-26",
+  "julian_day": "09-13",
+  "feasts": [
+    {
+      "code": "st_ketevan",
+      "level": "georgian_great"
+    }
+  ],
+  "ka": {
+    "title": "წმინდა დიდმოწამე ქეთევან დედოფალი (ქეთევანობა). განახლება იერუსალიმის ტაძრისა",
+    "saints": [
+      "წმ. დიდმოწამე ქეთევან დედოფალი (1624 წ., შირაზში წამებული სარწმუნოებისათვის)",
+      "განახლება იერუსალიმის აღდგომის ტაძრისა (ვოსკრესენიე სლოვუშჩეე)"
+    ]
+  },
+  "en": {
+    "title": "Holy Great Martyr Queen Ketevan of Georgia (Ketevanoba). Dedication of the Church of the Resurrection in Jerusalem",
+    "saints": [
+      "Holy Great Martyr Queen Ketevan of Georgia (1624, martyred in Shiraz)",
+      "Dedication of the Church of the Holy Sepulchre"
+    ]
+  },
+  "ru": {
+    "title": "Святой великомученицы царицы Кетевани Грузинской. Память обновления храма Воскресения в Иерусалиме",
+    "saints": [
+      "Святой великомученицы царицы Кетевани (1624)",
+      "Память обновления храма Воскресения Христова в Иерусалиме"
+    ]
+  }
+}

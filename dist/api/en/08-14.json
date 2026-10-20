@@ -1,0 +1,16 @@
+{
+  "gregorian_day": "08-14",
+  "julian_day": "08-01",
+  "title": "Procession of the Precious and Life-Giving Cross. Start of Dormition Fast. Seven Maccabean Martyrs",
+  "feasts": [
+    {
+      "code": "procession_cross",
+      "level": "fast_start"
+    }
+  ],
+  "saints": [
+    "Procession of the Life-Giving Cross of the Lord",
+    "Beginning of the Dormition Fast",
+    "Seven Maccabean Martyrs, their mother Solomonia, and teacher Eleazar"
+  ]
+}

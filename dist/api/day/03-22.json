@@ -1,0 +1,28 @@
+{
+  "gregorian_day": "03-22",
+  "julian_day": "03-09",
+  "feasts": [
+    {
+      "code": "forty_martyrs_sebaste",
+      "level": "great"
+    }
+  ],
+  "ka": {
+    "title": "ორმოცი წმინდა მოწამე სებასტიელი (სებასტიის ტბაში გაყინულნი)",
+    "saints": [
+      "ორმოცი წმინდა მოწამე სებასტიელი (320 წ.) — ქრისტეს მხნე აღმსარებელნი"
+    ]
+  },
+  "en": {
+    "title": "Forty Holy Martyrs of Sebaste (Frozen in Lake Sebaste)",
+    "saints": [
+      "Forty Holy Martyrs of Sebaste (320)"
+    ]
+  },
+  "ru": {
+    "title": "40 святых мучеников, в Севастийском озере мучившихся",
+    "saints": [
+      "40 святых мучеников Севастийских (320)"
+    ]
+  }
+}

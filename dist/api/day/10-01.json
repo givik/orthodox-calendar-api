@@ -1,0 +1,31 @@
+{
+  "gregorian_day": "10-01",
+  "julian_day": "09-18",
+  "feasts": [
+    {
+      "code": "bidzina_shalva_elizbar",
+      "level": "georgian_great"
+    }
+  ],
+  "ka": {
+    "title": "წმინდა მოწამენი ბიძინა ჩოლოყაშვილი, შალვა და ელიზბარ ქსნის ერისთავნი",
+    "saints": [
+      "წმ. მოწამენი ბიძინა, შალვა და ელიზბარი (1661 წ., ბახტრიონის აჯანყების გმირები და სარწმუნოებისათვის თავდადებულნი)",
+      "ღირსი ევმენი გორტინელი"
+    ]
+  },
+  "en": {
+    "title": "Holy Martyrs Bidzina Cholokashvili, Shalva, and Elizbar, Princes of Ksani",
+    "saints": [
+      "Holy Martyrs Bidzina, Shalva, and Elizbar (1661, Georgian National Heroes)",
+      "Venerable Eumenius, Bishop of Gortyna"
+    ]
+  },
+  "ru": {
+    "title": "Святых мучеников Бидзины, Шалвы и Елизбара, князей Ксанских",
+    "saints": [
+      "Святых мучеников Бидзины, Шалвы и Елизбара (1661)",
+      "Преподобного Евмения Гортинского"
+    ]
+  }
+}

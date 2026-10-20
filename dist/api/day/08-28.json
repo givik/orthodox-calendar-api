@@ -1,0 +1,28 @@
+{
+  "gregorian_day": "08-28",
+  "julian_day": "08-15",
+  "feasts": [
+    {
+      "code": "dormition_theotokos",
+      "level": "twelve"
+    }
+  ],
+  "ka": {
+    "title": "მიძინება ყოვლადწმიდისა დედოფლისა ჩვენისა ღვთისმშობლისა და მარადის ქალწულისა მარიამისა (მარიამობა)",
+    "saints": [
+      "მიძინება ყოვლადწმიდისა ღვთისმშობლისა (მარიამობა — საქართველოს უდიდესი დღესასწაული, მარიამობის მარხვის დასასრული)"
+    ]
+  },
+  "en": {
+    "title": "The Dormition (Falling Asleep) of our Most Holy Lady Theotokos and Ever-Virgin Mary (Mariamoba)",
+    "saints": [
+      "The Dormition of the Most Holy Theotokos (Twelve Great Feast, End of Dormition Fast)"
+    ]
+  },
+  "ru": {
+    "title": "Успение Пресвятой Владычицы нашей Богородицы и Приснодевы Марии",
+    "saints": [
+      "Успение Пресвятой Богородицы (Двунадесятый праздник, окончание Успенского поста)"
+    ]
+  }
+}

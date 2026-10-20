@@ -1,0 +1,28 @@
+{
+  "gregorian_day": "06-03",
+  "julian_day": "05-21",
+  "feasts": [
+    {
+      "code": "constantine_helena",
+      "level": "great"
+    }
+  ],
+  "ka": {
+    "title": "წმინდა მოციქულთასწორნი მეფე კონსტანტინე და დედა მისი ელენე",
+    "saints": [
+      "წმ. მოციქულთასწორნი იმპერატორი კონსტანტინე (337 წ.) და დედა მისი დედოფალი ელენე (327 წ.)"
+    ]
+  },
+  "en": {
+    "title": "Holy Equals-to-the-Apostles Emperor Constantine and his mother Helena",
+    "saints": [
+      "Holy Equals-to-the-Apostles Emperor Constantine and Empress Helena"
+    ]
+  },
+  "ru": {
+    "title": "Равноапостольных царя Константина и матери его царицы Елены",
+    "saints": [
+      "Равноапостольных царя Константина и царицы Елены"
+    ]
+  }
+}

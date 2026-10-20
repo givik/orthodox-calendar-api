@@ -1,0 +1,29 @@
+{
+  "gregorian_day": "01-28",
+  "julian_day": "01-15",
+  "feasts": [],
+  "ka": {
+    "title": "ღირსი პავლე თებეელი და იოანე გლახაკი (კარავიტი)",
+    "saints": [
+      "ღირსი პავლე თებეელი (პირველი მეუდაბნოე)",
+      "ღირსი იოანე კარავიტი (გლახაკი)",
+      "ღირსი სალომე უჯარმელი და პეროჟავრა სივნიელი"
+    ]
+  },
+  "en": {
+    "title": "Venerable Paul of Thebes and John the Hut-Dweller",
+    "saints": [
+      "Venerable Paul of Thebes, First Hermit",
+      "Venerable John the Hut-Dweller (Calabytes)",
+      "Venerable Salome of Ujarma and Perozhavra of Sivnia"
+    ]
+  },
+  "ru": {
+    "title": "Преподобных Павла Фивейского и Иоанна Кущника",
+    "saints": [
+      "Преподобного Павла Фивейского (первого пустынника)",
+      "Преподобного Иоанна Кущника",
+      "Преподобных Саломии Уджармской и Перожавры Сивнийской"
+    ]
+  }
+}

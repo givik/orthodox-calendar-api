@@ -1,0 +1,15 @@
+{
+  "gregorian_day": "01-06",
+  "julian_day": "12-24",
+  "title": "Eve of the Nativity of Christ (Paramon — Strict Fast)",
+  "feasts": [
+    {
+      "code": "nativity_eve",
+      "level": "fast_eve"
+    }
+  ],
+  "saints": [
+    "Eve of the Nativity of Christ (Strict Fast until appearance of the first star)",
+    "Venerable Martyr Eugenia"
+  ]
+}

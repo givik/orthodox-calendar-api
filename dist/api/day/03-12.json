@@ -1,0 +1,29 @@
+{
+  "gregorian_day": "03-12",
+  "julian_day": "02-28",
+  "feasts": [],
+  "ka": {
+    "title": "ღირსი ბასილი აღმსარებელი. ნეტარი ნიკოლოზ ფსკოველი",
+    "saints": [
+      "ღირსი ბასილი აღმსარებელი (პროკოპი დეკაპოლელის თანამოღვაწე)",
+      "ნეტარი ნიკოლოზ სალოსი ფსკოველი",
+      "მღვდელმოწამე პროტერი ალექსანდრიელი"
+    ]
+  },
+  "en": {
+    "title": "Venerable Basil the Confessor. Blessed Nicholas of Pskov",
+    "saints": [
+      "Venerable Basil the Confessor",
+      "Blessed Nicholas Salos of Pskov, Fool-for-Christ",
+      "Hieromartyr Proterius, Patriarch of Alexandria"
+    ]
+  },
+  "ru": {
+    "title": "Преподобного Василия исповедника. Блаженного Николая Псковского",
+    "saints": [
+      "Преподобного Василия исповедника",
+      "Блаженного Николая Саллоса, Христа ради юродивого, Псковского",
+      "Священномученика Протерия Александрийского"
+    ]
+  }
+}

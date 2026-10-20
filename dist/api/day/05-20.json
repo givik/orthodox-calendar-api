@@ -1,0 +1,28 @@
+{
+  "gregorian_day": "05-20",
+  "julian_day": "05-07",
+  "feasts": [
+    {
+      "code": "syrian_fathers",
+      "level": "georgian_great"
+    }
+  ],
+  "ka": {
+    "title": "ღირსი იოანე ზედაზნელი და 12 ასურელი მამა: დავით გარეჯელი, შიო მღვიმელი და სხვანი",
+    "saints": [
+      "ღირსი იოანე ზედაზნელი და 12 ასურელი მამა: დავით გარეჯელი, შიო მღვიმელი, იოსებ ალავერდელი, ანტონ მარტყოფელი, ისიდორე სამთავნელი და სხვანი (VI ს.)"
+    ]
+  },
+  "en": {
+    "title": "Venerable John of Zedazeni and the 12 Syrian Fathers: David of Gareja, Shio of Mghvime, and companions",
+    "saints": [
+      "Venerable John of Zedazeni and the 12 Syrian Fathers of Georgia (VI c.)"
+    ]
+  },
+  "ru": {
+    "title": "Преподобного Иоанна Зедазнийского и 12-ти сирийских отцев: Давида Гареджийского, Шио Мгвимского и иных",
+    "saints": [
+      "Преподобного Иоанна Зедазнийского и двенадцати сирийских отцев в Грузии (VI в.)"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "gregorian_day": "02-25",
+  "julian_day": "02-12",
+  "feasts": [],
+  "ka": {
+    "title": "წმ. მელეტი ანტიოქიელი. წმ. ალექსი, მოსკოვის მიტროპოლიტი",
+    "saints": [
+      "წმ. მელეტი ანტიოქიელი მთავარეპისკოპოსი",
+      "წმ. ალექსი მოსკოველი საკვირველთმოქმედი"
+    ]
+  },
+  "en": {
+    "title": "St. Meletius, Archbishop of Antioch. St. Alexis, Metropolitan of Moscow",
+    "saints": [
+      "St. Meletius, Archbishop of Antioch",
+      "St. Alexis, Metropolitan of Moscow and Wonderworker"
+    ]
+  },
+  "ru": {
+    "title": "Святителя Мелетия, архиепископа Антиохийского. Святителя Алексия, митрополита Московского",
+    "saints": [
+      "Святителя Мелетия, архиепископа Антиохийского",
+      "Святителя Алексия, митрополита Московского, чудотворца"
+    ]
+  }
+}

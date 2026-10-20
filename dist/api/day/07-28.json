@@ -1,0 +1,31 @@
+{
+  "gregorian_day": "07-28",
+  "julian_day": "07-15",
+  "feasts": [
+    {
+      "code": "st_vladimir",
+      "level": "great"
+    }
+  ],
+  "ka": {
+    "title": "წმინდა მოციქულთასწორი დიდი მთავარი ვლადიმერი — რუსეთის განმანათლებელი",
+    "saints": [
+      "წმ. მოციქულთასწორი მთავარი ვლადიმერი (1015 წ.)",
+      "მოწამენი კირიკე და ივლიტა"
+    ]
+  },
+  "en": {
+    "title": "Holy Equal-to-the-Apostles Great Prince Vladimir, Enlightener of Rus",
+    "saints": [
+      "Holy Equal-to-the-Apostles Prince Vladimir (1015)",
+      "Martyrs Cyricus and Julitta"
+    ]
+  },
+  "ru": {
+    "title": "Святого равноапостольного великого князя Владимира, крестителя Руси",
+    "saints": [
+      "Равноапостольного великого князя Владимира (1015)",
+      "Мучеников Кирика и Иулитты"
+    ]
+  }
+}

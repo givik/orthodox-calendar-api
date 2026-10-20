@@ -1,0 +1,31 @@
+{
+  "gregorian_day": "01-30",
+  "julian_day": "01-17",
+  "feasts": [
+    {
+      "code": "anthony_great",
+      "level": "great"
+    }
+  ],
+  "ka": {
+    "title": "ღირსი და ღმერთშემოსილი მამა ანტონი დიდი — მეუდაბნოეობის მამა",
+    "saints": [
+      "ღირსი ანტონი დიდი (356 წ.) — მონაზვნობის ფუძემდებელი",
+      "წმ. ანტონი დიმსკელი"
+    ]
+  },
+  "en": {
+    "title": "Venerable and God-bearing Father Anthony the Great",
+    "saints": [
+      "Venerable Father Anthony the Great (356), Father of Monasticism",
+      "Venerable Anthony of Dymsk"
+    ]
+  },
+  "ru": {
+    "title": "Преподобного и богоносного отца нашего Антония Великого",
+    "saints": [
+      "Преподобного Антония Великого (356)",
+      "Преподобного Антония Дымского"
+    ]
+  }
+}

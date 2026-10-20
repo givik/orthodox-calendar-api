@@ -1,0 +1,28 @@
+{
+  "gregorian_day": "04-07",
+  "julian_day": "03-25",
+  "feasts": [
+    {
+      "code": "annunciation",
+      "level": "twelve"
+    }
+  ],
+  "ka": {
+    "title": "ხარება ყოვლადწმიდისა დედოფლისა ჩვენისა ღვთისმშობლისა და მარადის ქალწულისა მარიამისა",
+    "saints": [
+      "ხარება ყოვლადწმიდისა ღვთისმშობლისა (მე-12 საუფლო დღესასწაული — მთავარანგელოზ გაბრიელის მიერ მაცხოვრის ჩასახვის ხარება)"
+    ]
+  },
+  "en": {
+    "title": "The Annunciation of our Most Holy Lady Theotokos and Ever-Virgin Mary",
+    "saints": [
+      "The Annunciation of the Most Holy Theotokos (Twelve Great Feast — Archangel Gabriel heralds the Savior)"
+    ]
+  },
+  "ru": {
+    "title": "Благовещение Пресвятой Владычицы нашей Богородицы и Приснодевы Марии",
+    "saints": [
+      "Благовещение Пресвятой Богородицы (Двунадесятый праздник)"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "gregorian_day": "02-08",
+  "julian_day": "01-26",
+  "feasts": [
+    {
+      "code": "david_the_builder",
+      "level": "georgian_great"
+    }
+  ],
+  "ka": {
+    "title": "წმინდა კეთილმსახური მეფე დავით აღმაშენებელი (დავითობა). ღირსი ქსენოფონტე და მეუღლე მისი მარია",
+    "saints": [
+      "წმ. კეთილმსახური მეფე დავით IV აღმაშენებელი (1125 წ.) — საქართველოს გამაერთიანებელი და უდიდესი მეფე",
+      "ღირსი ქსენოფონტე, მეუღლე მისი მარია და შვილნი მათნი არკადი და იოანე (V-VI ს.)"
+    ]
+  },
+  "en": {
+    "title": "Holy Right-believing King David IV the Builder of Georgia (Davitoba). Venerable Xenophon and his wife Mary",
+    "saints": [
+      "Holy Right-believing King David IV the Builder of Georgia (1125), Unifier of Georgia",
+      "Venerable Xenophon, his wife Mary, and their sons Arcadius and John"
+    ]
+  },
+  "ru": {
+    "title": "Благоверного царя Давида IV Возобновителя (Строителя) Грузии. Преподобного Ксенофонта и супруги его Марии",
+    "saints": [
+      "Благоверного царя Давида IV Строителя (1125), объединителя Грузии",
+      "Преподобного Ксенофонта, супруги его Марии и сыновей их Аркадия и Иоанна"
+    ]
+  }
+}

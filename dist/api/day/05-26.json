@@ -1,0 +1,31 @@
+{
+  "gregorian_day": "05-26",
+  "julian_day": "05-13",
+  "feasts": [
+    {
+      "code": "st_ekvtime_athos",
+      "level": "georgian_great"
+    }
+  ],
+  "ka": {
+    "title": "წმინდა ექვთიმე ათონელი (მთაწმინდელი) — უდიდესი მთარგმნელი",
+    "saints": [
+      "წმ. ექვთიმე ათონელი (1028 წ.) — ივერთა მონასტრის აღმშენებელი და ბიბლიის მთარგმნელი",
+      "მოწამე ალექსანდრე რომაელი"
+    ]
+  },
+  "en": {
+    "title": "St. Euthymius of Mount Athos (the Hagiorite), Great Translator",
+    "saints": [
+      "St. Euthymius the Hagiorite of Mount Athos (1028), Builder of Iveron Monastery",
+      "Martyr Alexander of Rome"
+    ]
+  },
+  "ru": {
+    "title": "Преподобного Евфимия Иверского (Святогорца), великого переводчика",
+    "saints": [
+      "Преподобного Евфимия Святогорца, Иверского (1028)",
+      "Мученика Александра Римского"
+    ]
+  }
+}

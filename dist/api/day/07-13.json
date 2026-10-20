@@ -1,0 +1,31 @@
+{
+  "gregorian_day": "07-13",
+  "julian_day": "06-30",
+  "feasts": [
+    {
+      "code": "twelve_apostles_svetitskhoveli",
+      "level": "great"
+    }
+  ],
+  "ka": {
+    "title": "კრება წმიდათა დიდებულთა და ყოვლადქებულთა თორმეტთა მოციქულთა. სვეტიცხოვლობა",
+    "saints": [
+      "კრება თორმეტთა მოციქულთა (პეტრე, ანდრია, იაკობ ზებედესი, იოანე, ფილიპე, ბართლომე, თომა, მათე, იაკობ ალფესი, იუდა იაკობისი, სიმონ კანანელი და მატათა)",
+      "სვეტიცხოვლობა (მცხეთის საკათედრო ტაძრის დღესასწაული)"
+    ]
+  },
+  "en": {
+    "title": "Synaxis of the Holy, Glorious, and All-Praised Twelve Apostles. Svetitskhovloba",
+    "saints": [
+      "Synaxis of the Twelve Apostles",
+      "Svetitskhovloba (Feast of Svetitskhoveli Cathedral)"
+    ]
+  },
+  "ru": {
+    "title": "Собор славных и всехвальных 12-ти апостолов. Светицховлоба",
+    "saints": [
+      "Собор 12-ти апостолов",
+      "Празднование в честь собора Светицховели"
+    ]
+  }
+}

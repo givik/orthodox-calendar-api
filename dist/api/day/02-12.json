@@ -1,0 +1,31 @@
+{
+  "gregorian_day": "02-12",
+  "julian_day": "01-30",
+  "feasts": [
+    {
+      "code": "three_hierarchs",
+      "level": "great"
+    }
+  ],
+  "ka": {
+    "title": "სამთა წმინდათა მღვდელმთავართა: ბასილი დიდისა, გრიგოლ ღვთისმეტყველისა და იოანე ოქროპირისა კრება",
+    "saints": [
+      "სამთა უდიდესთა მსოფლიო მღვდელმთავართა და მოძღვართა კრება: ბასილი დიდი, გრიგოლ ღვთისმეტყველი და იოანე ოქროპირი",
+      "მღვდელმოწამე იპოლიტე, რომის პაპი"
+    ]
+  },
+  "en": {
+    "title": "Synaxis of the Three Holy Hierarchs: Basil the Great, Gregory the Theologian, and John Chrysostom",
+    "saints": [
+      "Synaxis of the Three Holy Hierarchs: Basil the Great, Gregory the Theologian, and John Chrysostom",
+      "Hieromartyr Hippolytus, Pope of Rome"
+    ]
+  },
+  "ru": {
+    "title": "Собор вселенских учителей и святителей Василия Великого, Григория Богослова и Иоанна Златоуста",
+    "saints": [
+      "Собор вселенских учителей и святителей Василия Великого, Григория Богослова и Иоанна Златоуста",
+      "Священномученика Ипполита, папы Римского"
+    ]
+  }
+}

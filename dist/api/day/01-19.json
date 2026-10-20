@@ -1,0 +1,28 @@
+{
+  "gregorian_day": "01-19",
+  "julian_day": "01-06",
+  "feasts": [
+    {
+      "code": "theophany",
+      "level": "twelve"
+    }
+  ],
+  "ka": {
+    "title": "წმინდა ნათლისღება უფლისა ჩვენისა იესო ქრისტესი (ღმრთისგამოცხადება)",
+    "saints": [
+      "ნათლისღება უფლისა ღმრთისა და მაცხოვრისა ჩვენისა იესო ქრისტესი (დიდი აიაზმა - წყალკურთხევა)"
+    ]
+  },
+  "en": {
+    "title": "The Holy Theophany of our Lord and Savior Jesus Christ",
+    "saints": [
+      "The Holy Theophany and Baptism of our Lord Jesus Christ (Great Blessing of Water)"
+    ]
+  },
+  "ru": {
+    "title": "Святое Богоявление. Крещение Господа Бога и Спаса нашего Иисуса Христа",
+    "saints": [
+      "Крещение Господне (Богоявление). Великое освящение воды"
+    ]
+  }
+}

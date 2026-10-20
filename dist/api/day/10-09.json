@@ -1,0 +1,31 @@
+{
+  "gregorian_day": "10-09",
+  "julian_day": "09-26",
+  "feasts": [
+    {
+      "code": "john_theologian_repose",
+      "level": "great"
+    }
+  ],
+  "ka": {
+    "title": "მიცვალება წმიდისა მოციქულისა და მახარებელისა იოანე ღვთისმეტყველისა",
+    "saints": [
+      "მიცვალება წმ. იოანე ღვთისმეტყველისა (საყვარელი მოწაფე ქრისტესი)",
+      "ღირსი ეფრემ პერეკომელი"
+    ]
+  },
+  "en": {
+    "title": "The Falling Asleep of the Holy Apostle and Evangelist John the Theologian",
+    "saints": [
+      "Falling Asleep of the Holy Apostle and Evangelist John the Theologian",
+      "Venerable Ephraim of Perekom"
+    ]
+  },
+  "ru": {
+    "title": "Преставление святого апостола и евангелиста Иоанна Богослова",
+    "saints": [
+      "Преставление святого апостола и евангелиста Иоанна Богослова",
+      "Преподобного Ефрема Перекомского"
+    ]
+  }
+}

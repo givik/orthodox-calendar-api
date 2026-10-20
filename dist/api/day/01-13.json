@@ -1,0 +1,23 @@
+{
+  "gregorian_day": "01-13",
+  "julian_day": "12-31",
+  "feasts": [],
+  "ka": {
+    "title": "წმინდანთა ხსენება (31.12)",
+    "saints": [
+      "წმინდანთა და მოწამეთა ხსენება (31.12)"
+    ]
+  },
+  "en": {
+    "title": "Commemoration of Saints (12/31)",
+    "saints": [
+      "Commemoration of holy saints and martyrs (12/31)"
+    ]
+  },
+  "ru": {
+    "title": "Память святых дня (31.12)",
+    "saints": [
+      "Память святых угодников и мучеников Божиих (31.12)"
+    ]
+  }
+}

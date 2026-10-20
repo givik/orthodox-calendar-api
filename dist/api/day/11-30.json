@@ -1,0 +1,31 @@
+{
+  "gregorian_day": "11-30",
+  "julian_day": "11-17",
+  "feasts": [
+    {
+      "code": "st_gobron",
+      "level": "georgian_great"
+    }
+  ],
+  "ka": {
+    "title": "წმინდა მოწამე გობრონ-მიქაელი და 133 მხედარნი მისნი",
+    "saints": [
+      "წმ. მოწამე გობრონი (მიქაელი) და 133 მხედარი (914 წ., ყველისციხის დამცველნი)",
+      "წმ. გრიგოლ საკვირველთმოქმედი, ნეოკესარიელი ეპისკოპოსი"
+    ]
+  },
+  "en": {
+    "title": "Holy Martyr Gobron-Michael and 133 soldiers of Georgia",
+    "saints": [
+      "Holy Martyr Gobron-Michael and 133 warriors of Georgia (914)",
+      "St. Gregory the Wonderworker of Neocaesarea"
+    ]
+  },
+  "ru": {
+    "title": "Святого мученика Гоброна (в крещении Михаила) и с ним 133 воинов в Грузии",
+    "saints": [
+      "Святого мученика Гоброна (Михаила) и 133 воинов (914)",
+      "Святителя Григория Чудотворца, епископа Неокесарийского"
+    ]
+  }
+}

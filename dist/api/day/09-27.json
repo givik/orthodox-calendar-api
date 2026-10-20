@@ -1,0 +1,28 @@
+{
+  "gregorian_day": "09-27",
+  "julian_day": "09-14",
+  "feasts": [
+    {
+      "code": "elevation_cross",
+      "level": "twelve_strict_fast"
+    }
+  ],
+  "ka": {
+    "title": "მსოფლიო ამაღლება პატიოსნისა და ცხოველსმყოფელისა ჯვარისა უფლისა (ჯვართამაღლება — მკაცრი მარხვა)",
+    "saints": [
+      "ჯვართამაღლება (მე-12 საუფლო დღესასწაული — მოციქულთასწორ ელენეს მიერ ცხოველსმყოფელი ჯვრის პოვნა და ამაღლება პატრიარქ მაკარის მიერ, 326 წ.)"
+    ]
+  },
+  "en": {
+    "title": "The Universal Elevation of the Precious and Life-Giving Cross (Strict Fast)",
+    "saints": [
+      "The Universal Elevation of the Precious Cross of the Lord (Twelve Great Feast, Strict Fast)"
+    ]
+  },
+  "ru": {
+    "title": "Воздвижение Честного и Животворящего Креста Господня (Строгий пост)",
+    "saints": [
+      "Воздвижение Честного и Животворящего Креста Господня (Двунадесятый праздник, строгий пост)"
+    ]
+  }
+}

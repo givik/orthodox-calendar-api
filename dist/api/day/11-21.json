@@ -1,0 +1,28 @@
+{
+  "gregorian_day": "11-21",
+  "julian_day": "11-08",
+  "feasts": [
+    {
+      "code": "archangel_michael",
+      "level": "great"
+    }
+  ],
+  "ka": {
+    "title": "კრება წმიდისა მთავარანგელოზისა მიქაელისა და სხვათა უხორცოთა ზეცისა ძალთა (მთავარანგელოზობა)",
+    "saints": [
+      "მთავარანგელოზობა: მიქაელი, გაბრიელი, რაფაელი, ურიელი, სელაფიელი, იეჰუდიელი, ვარახიელი და იერემიელი"
+    ]
+  },
+  "en": {
+    "title": "Synaxis of the Archangel Michael and the Other Bodiless Powers of Heaven",
+    "saints": [
+      "Synaxis of Archangel Michael, Gabriel, Raphael, Uriel, Selaphiel, Jehudiel, Barachiel, and Jeremiel"
+    ]
+  },
+  "ru": {
+    "title": "Собор Архистратига Михаила и прочих небесных сил бесплотных (Михайлов день)",
+    "saints": [
+      "Собор Архистратига Михаила: Михаила, Гавриила, Рафаила, Уриила, Селафиила, Иегудиила, Варахиила и Иеремиила"
+    ]
+  }
+}

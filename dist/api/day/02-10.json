@@ -1,0 +1,29 @@
+{
+  "gregorian_day": "02-10",
+  "julian_day": "01-28",
+  "feasts": [],
+  "ka": {
+    "title": "ღირსი ეფრემ ასური. ღირსი ისააკ ასური",
+    "saints": [
+      "ღირსი ეფრემ ასური (სინანულის ლოცვის ავტორი)",
+      "ღირსი ისააკ ასური, ნინევიელი ეპისკოპოსი",
+      "ღირსი თეოდოსი ტოტმელი"
+    ]
+  },
+  "en": {
+    "title": "Venerable Ephraim the Syrian. Venerable Isaac the Syrian",
+    "saints": [
+      "Venerable Ephraim the Syrian (author of the Lenten Prayer)",
+      "Venerable Isaac the Syrian, Bishop of Nineveh",
+      "Venerable Theodosius of Totma"
+    ]
+  },
+  "ru": {
+    "title": "Преподобного Ефрема Сирина. Преподобного Исаака Сирина",
+    "saints": [
+      "Преподобного Ефрема Сирина",
+      "Преподобного Исаака Сирина, епископа Ниневийского",
+      "Преподобного Феодосия Тотемского"
+    ]
+  }
+}

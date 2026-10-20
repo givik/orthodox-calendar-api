@@ -1,0 +1,26 @@
+{
+  "gregorian_day": "01-17",
+  "julian_day": "01-04",
+  "feasts": [],
+  "ka": {
+    "title": "სამოცდაათ მოციქულთა კრება",
+    "saints": [
+      "სამოცდაათ მოციქულთა კრება (იაკობი, მარკოზი, ლუკა, კლეოპა და სხვ.)",
+      "ღირსი თეოქტისტე"
+    ]
+  },
+  "en": {
+    "title": "Synaxis of the Seventy Apostles",
+    "saints": [
+      "Synaxis of the Seventy Apostles (James, Mark, Luke, Cleopas, etc.)",
+      "Venerable Theoctistus"
+    ]
+  },
+  "ru": {
+    "title": "Собор 70-ти апостолов",
+    "saints": [
+      "Собор 70-ти апостолов",
+      "Преподобного Феоктиста"
+    ]
+  }
+}

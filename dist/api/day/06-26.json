@@ -1,0 +1,31 @@
+{
+  "gregorian_day": "06-26",
+  "julian_day": "06-13",
+  "feasts": [
+    {
+      "code": "st_anthim_iberian",
+      "level": "georgian_great"
+    }
+  ],
+  "ka": {
+    "title": "წმინდა მღვდელმოწამე ანთიმოზ ივერიელი — ვლახეთის მიტროპოლიტი",
+    "saints": [
+      "წმ. მღვდელმოწამე ანთიმოზ ივერიელი (1716 წ., რუმინეთის მესტამბე და მნათობი)",
+      "მოწამენი აკვილინა და ანტონინა"
+    ]
+  },
+  "en": {
+    "title": "Holy Hieromartyr Anthimus the Iberian, Metropolitan of Wallachia",
+    "saints": [
+      "Holy Hieromartyr Anthimus the Iberian (1716), Metropolitan of Wallachia",
+      "Martyrs Aquilina and Antonina"
+    ]
+  },
+  "ru": {
+    "title": "Священномученика Анфима Иверского, митрополита Валашского",
+    "saints": [
+      "Священномученика Анфима Иверского (1716)",
+      "Мучениц Акилины и Антонины"
+    ]
+  }
+}

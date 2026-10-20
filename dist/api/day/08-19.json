@@ -1,0 +1,28 @@
+{
+  "gregorian_day": "08-19",
+  "julian_day": "08-06",
+  "feasts": [
+    {
+      "code": "transfiguration",
+      "level": "twelve"
+    }
+  ],
+  "ka": {
+    "title": "წმინდა ფერისცვალება უფლისა ღმრთისა და მაცხოვრისა ჩვენისა იესო ქრისტესი (ფერისცვალობა)",
+    "saints": [
+      "ფერისცვალება უფლისა ჩვენისა იესო ქრისტესი თაბორის მთაზე (მე-12 საუფლო დღესასწაული — ხილის კურთხევა, თევზით ხსნილი)"
+    ]
+  },
+  "en": {
+    "title": "The Holy Transfiguration of our Lord, God, and Savior Jesus Christ",
+    "saints": [
+      "The Holy Transfiguration of our Lord on Mount Tabor (Twelve Great Feast — Blessing of Grapes/Fruit, Fish allowed)"
+    ]
+  },
+  "ru": {
+    "title": "Преображение Господа Бога и Спаса нашего Иисуса Христа (Яблочный Спас)",
+    "saints": [
+      "Преображение Господне (Двунадесятый праздник — Освящение плодов, разрешается рыба)"
+    ]
+  }
+}

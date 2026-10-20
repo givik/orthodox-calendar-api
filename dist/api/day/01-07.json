@@ -1,0 +1,28 @@
+{
+  "gregorian_day": "01-07",
+  "julian_day": "12-25",
+  "feasts": [
+    {
+      "code": "nativity_christ",
+      "level": "twelve"
+    }
+  ],
+  "ka": {
+    "title": "შობა უფლისა ღმრთისა და მაცხოვრისა ჩვენისა იესო ქრისტესი (ქრისტეშობა)",
+    "saints": [
+      "ხორციელი შობა უფლისა ჩვენისა იესო ქრისტესი (მე-12 საუფლო დღესასწაული — ხსნილი, იწყება წმინდა დღეები / შვიდეულები)"
+    ]
+  },
+  "en": {
+    "title": "The Nativity of our Lord, God, and Savior Jesus Christ (Christmas)",
+    "saints": [
+      "The Nativity of our Lord and Savior Jesus Christ (Christmas — Twelve Great Feast, Fast-free)"
+    ]
+  },
+  "ru": {
+    "title": "Рождество Господа Бога и Спаса нашего Иисуса Христа",
+    "saints": [
+      "Рождество Христово (Двунадесятый праздник, сплошные дни до Богоявления)"
+    ]
+  }
+}

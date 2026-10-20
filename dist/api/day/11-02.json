@@ -1,0 +1,31 @@
+{
+  "gregorian_day": "11-02",
+  "julian_day": "10-20",
+  "feasts": [
+    {
+      "code": "st_gabriel_urgebadze",
+      "level": "georgian_great"
+    }
+  ],
+  "ka": {
+    "title": "წმინდა მამა გაბრიელი (ურგებაძე) — აღმსარებელი და სალოსი. დიდმოწამე არტემი",
+    "saints": [
+      "წმ. მამა გაბრიელი აღმსარებელი და სალოსი (1995 წ., სამთავროს საკვირველთმოქმედი მამა)",
+      "წმ. დიდმოწამე არტემი (362 წ.)"
+    ]
+  },
+  "en": {
+    "title": "St. Gabriel (Urgebadze) of Samtavro, Confessor and Fool-for-Christ. Holy Great Martyr Artemius",
+    "saints": [
+      "St. Gabriel (Urgebadze) of Georgia, Confessor and Fool-for-Christ (1995)",
+      "Holy Great Martyr Artemius (362)"
+    ]
+  },
+  "ru": {
+    "title": "Преподобного Гавриила (Ургебадзе), Самтаврийского, исповедника и юродивого. Великомученика Артемия",
+    "saints": [
+      "Преподобноисповедника Гавриила (Ургебадзе) Самтаврийского (1995)",
+      "Великомученика Артемия (362)"
+    ]
+  }
+}

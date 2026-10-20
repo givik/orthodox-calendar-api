@@ -1,0 +1,31 @@
+{
+  "gregorian_day": "05-14",
+  "julian_day": "05-01",
+  "feasts": [
+    {
+      "code": "st_tamar",
+      "level": "georgian_great"
+    }
+  ],
+  "ka": {
+    "title": "წმინდა კეთილმსახური მეფე თამარი (თამარობა). წმ. წინასწარმეტყველი იერემია",
+    "saints": [
+      "წმ. კეთილმსახური მეფე თამარი (1213 წ.) — ოქროს ხანის გვირგვინი",
+      "წმ. წინასწარმეტყველი იერემია (600 წ. ქრ.შ-მდე)"
+    ]
+  },
+  "en": {
+    "title": "Holy Right-believing Queen Tamar of Georgia (Tamaroba). Holy Prophet Jeremiah",
+    "saints": [
+      "Holy Right-believing Queen Tamar of Georgia (1213)",
+      "Holy Prophet Jeremiah (600 BC)"
+    ]
+  },
+  "ru": {
+    "title": "Благоверной великой царицы Грузии Тамары. Пророка Иеремии",
+    "saints": [
+      "Благоверной царицы Грузии Тамары (1213)",
+      "Святого пророка Иеремии (600 г. до Р.Х.)"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "gregorian_day": "01-09",
+  "julian_day": "12-27",
+  "feasts": [
+    {
+      "code": "protomartyr_stephen",
+      "level": "great"
+    }
+  ],
+  "ka": {
+    "title": "წმინდა პირველმოწამე და არქიდიაკონი სტეფანე",
+    "saints": [
+      "წმ. პირველმოწამე და არქიდიაკონი სტეფანე (34 წ.)",
+      "ღირსი თეოდორე გამომსახველი"
+    ]
+  },
+  "en": {
+    "title": "Holy Protomartyr and Archdeacon Stephen",
+    "saints": [
+      "Holy Protomartyr and Archdeacon Stephen (34)",
+      "Venerable Theodore the Branded"
+    ]
+  },
+  "ru": {
+    "title": "Святого первомученика и архидиакона Стефана",
+    "saints": [
+      "Святого апостола, первомученика и архидиакона Стефана (34)",
+      "Преподобного Феодора Начертанного"
+    ]
+  }
+}

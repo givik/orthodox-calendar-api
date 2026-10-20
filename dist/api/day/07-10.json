@@ -1,0 +1,31 @@
+{
+  "gregorian_day": "07-10",
+  "julian_day": "06-27",
+  "feasts": [
+    {
+      "code": "st_george_athos",
+      "level": "georgian_great"
+    }
+  ],
+  "ka": {
+    "title": "ღირსი გიორგი მთაწმინდელი (ათონელი)",
+    "saints": [
+      "ღირსი გიორგი მთაწმინდელი (1065 წ.) — ივერთა ლავრის იღუმენი და საეკლესიო მოღვაწე",
+      "წმ. სამსონ უცხოთშემწყნარებელი"
+    ]
+  },
+  "en": {
+    "title": "Venerable George of the Holy Mountain (the Hagiorite)",
+    "saints": [
+      "Venerable George of the Holy Mountain (1065), Abbot of Iveron",
+      "St. Sampson the Hospitable"
+    ]
+  },
+  "ru": {
+    "title": "Преподобного Георгия Святогорца (Иверского)",
+    "saints": [
+      "Преподобного Георгия Святогорца, Иверского (1065)",
+      "Преподобного Сампсона Странноприимца"
+    ]
+  }
+}

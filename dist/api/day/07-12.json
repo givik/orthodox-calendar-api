@@ -1,0 +1,28 @@
+{
+  "gregorian_day": "07-12",
+  "julian_day": "06-29",
+  "feasts": [
+    {
+      "code": "peter_and_paul",
+      "level": "great"
+    }
+  ],
+  "ka": {
+    "title": "წმინდა დიდებულნი და ყოვლადქებულნი თავნი მოციქულთა პეტრე და პავლე (პეტრე-პავლობა)",
+    "saints": [
+      "წმინდა თავნი მოციქულთა პეტრე და პავლე (პეტრე-პავლობა — მარხვის დასასრული)"
+    ]
+  },
+  "en": {
+    "title": "Holy Glorious and All-Praised Leaders of the Apostles Peter and Paul",
+    "saints": [
+      "Holy Leaders of the Apostles Peter and Paul (End of Apostles' Fast)"
+    ]
+  },
+  "ru": {
+    "title": "Святых славных и всехвальных первоверховных апостолов Петра и Павла",
+    "saints": [
+      "Святых первоверховных апостолов Петра и Павла (Окончание Петрова поста)"
+    ]
+  }
+}

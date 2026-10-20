@@ -1,0 +1,31 @@
+{
+  "gregorian_day": "08-02",
+  "julian_day": "07-20",
+  "feasts": [
+    {
+      "code": "prophet_elijah",
+      "level": "great"
+    }
+  ],
+  "ka": {
+    "title": "წმინდა დიდებული წინასწარმეტყველი ელია თეზბიტელი (ელიაობა). წმ. ილია მართალი (ჭავჭავაძე)",
+    "saints": [
+      "წმ. წინასწარმეტყველი ელია თეზბიტელი (IX ს. ქრ.შ-მდე, ელიაობა)",
+      "წმ. ილია მართალი (ჭავჭავაძე, 1907 წ.) — ერის მამა"
+    ]
+  },
+  "en": {
+    "title": "Holy Glorious Prophet Elijah the Tishbite (Ilioba). St. Ilia the Righteous (Chavchavadze)",
+    "saints": [
+      "Holy Prophet Elijah the Tishbite (IX c. BC)",
+      "St. Ilia the Righteous (Chavchavadze, 1907), Father of Georgia"
+    ]
+  },
+  "ru": {
+    "title": "Святого славного пророка Илии Фесвитянина (Ильин день). Святого праведного Илии Чавчавадзе",
+    "saints": [
+      "Святого пророка Илии (IX в. до Р.Х.)",
+      "Святого праведного Илии Чавчавадзе (1907)"
+    ]
+  }
+}

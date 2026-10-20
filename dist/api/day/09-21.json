@@ -1,0 +1,28 @@
+{
+  "gregorian_day": "09-21",
+  "julian_day": "09-08",
+  "feasts": [
+    {
+      "code": "nativity_theotokos",
+      "level": "twelve"
+    }
+  ],
+  "ka": {
+    "title": "შობა ყოვლადწმიდისა დედოფლისა ჩვენისა ღვთისმშობლისა და მარადის ქალწულისა მარიამისა (ღვთისმშობლობა)",
+    "saints": [
+      "შობა ყოვლადწმიდისა ღვთისმშობლისა მართალი იოაკიმესა და ანასაგან (მე-12 საუფლო/საღვთისმშობლო დღესასწაული)"
+    ]
+  },
+  "en": {
+    "title": "The Nativity of our Most Holy Lady Theotokos and Ever-Virgin Mary",
+    "saints": [
+      "The Nativity of the Most Holy Theotokos (Twelve Great Feast)"
+    ]
+  },
+  "ru": {
+    "title": "Рождество Пресвятой Владычицы нашей Богородицы и Приснодевы Марии",
+    "saints": [
+      "Рождество Пресвятой Богородицы (Двунадесятый праздник)"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "gregorian_day": "09-14",
+  "julian_day": "09-01",
+  "feasts": [
+    {
+      "code": "church_new_year",
+      "level": "great"
+    }
+  ],
+  "ka": {
+    "title": "საეკლესიო ახალი წელი (ინდიქტიონის დასაწყისი). ღირსი სვიმეონ მესვეტე",
+    "saints": [
+      "საეკლესიო ახალი წლის დასაწყისი",
+      "ღირსი სვიმეონ მესვეტე და დედა მისი მართა (459 წ.)",
+      "40 ქალწულმოწამე"
+    ]
+  },
+  "en": {
+    "title": "Beginning of the Indiction (Church New Year). Venerable Simeon the Stylite",
+    "saints": [
+      "Beginning of the Ecclesiastical Year (Church New Year)",
+      "Venerable Simeon the Stylite and his mother Martha",
+      "40 Virgin-martyrs"
+    ]
+  },
+  "ru": {
+    "title": "Начало индикта — церковное новолетие. Преподобного Симеона Столпника",
+    "saints": [
+      "Церковное новолетие",
+      "Преподобного Симеона Столпника и матери его Марфы",
+      "40 дев мучениц"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "gregorian_day": "04-06",
+  "julian_day": "03-24",
+  "feasts": [],
+  "ka": {
+    "title": "ხარების წინა დღესასწაული. ღირსი ზაქარია განდეგილი",
+    "saints": [
+      "ხარების წინა დღესასწაული",
+      "ღირსი ზაქარია განდეგილი",
+      "წმ. არტემონ სელევკიელი"
+    ]
+  },
+  "en": {
+    "title": "Forefeast of the Annunciation. Venerable Zechariah the Recluse",
+    "saints": [
+      "Forefeast of the Annunciation",
+      "Venerable Zechariah the Recluse",
+      "St. Artemon, Bishop of Seleucia"
+    ]
+  },
+  "ru": {
+    "title": "Предпразднство Благовещения. Преподобного Захарии постника",
+    "saints": [
+      "Предпразднство Благовещения Пресвятой Богородицы",
+      "Преподобного Захарии постника",
+      "Святителя Артемона Селевкийского"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "gregorian_day": "03-26",
+  "julian_day": "03-13",
+  "feasts": [],
+  "ka": {
+    "title": "გადავენება ნაწილთა წმ. ნიკიფორე კონსტანტინოპოლელისა",
+    "saints": [
+      "გადასვენება ნაწილთა წმ. ნიკიფორე კონსტანტინოპოლელი პატრიარქისა (846 წ.)",
+      "მოწამე ქრისტინა სპარსი"
+    ]
+  },
+  "en": {
+    "title": "Translation of the Relics of St. Nicephorus of Constantinople",
+    "saints": [
+      "Translation of the Relics of St. Nicephorus, Patriarch of Constantinople (846)",
+      "Martyr Christina of Persia"
+    ]
+  },
+  "ru": {
+    "title": "Перенесение мощей святителя Никифора, патриарха Константинопольского",
+    "saints": [
+      "Перенесение мощей святителя Никифора, патриарха Константинопольского (846)",
+      "Мученицы Христины Персидской"
+    ]
+  }
+}

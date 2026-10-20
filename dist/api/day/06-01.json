@@ -1,0 +1,31 @@
+{
+  "gregorian_day": "06-01",
+  "julian_day": "05-19",
+  "feasts": [
+    {
+      "code": "st_nino_entrance",
+      "level": "georgian_great"
+    }
+  ],
+  "ka": {
+    "title": "წმინდა ნინოს შემოსვლა საქართველოში (ნინოობა)",
+    "saints": [
+      "წმინდა მოციქულთასწორი ნინოს შემოსვლა საქართველოში ვაზის ჯვრით (319 წ.)",
+      "მღვდელმოწამე პატრიკი, პრუსელი ეპისკოპოსი"
+    ]
+  },
+  "en": {
+    "title": "The Entry of St. Nino into Georgia",
+    "saints": [
+      "The Entry of St. Nino into Georgia with the Grapevine Cross (319)",
+      "Hieromartyr Patrick, Bishop of Prussa"
+    ]
+  },
+  "ru": {
+    "title": "Вход святой равноапостольной Нины в Грузию",
+    "saints": [
+      "Вход святой равноапостольной Нины в Грузию с крестом из виноградной лозы (319)",
+      "Священномученика Патрикия, епископа Прусского"
+    ]
+  }
+}

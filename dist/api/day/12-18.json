@@ -1,0 +1,28 @@
+{
+  "gregorian_day": "12-18",
+  "julian_day": "12-05",
+  "feasts": [
+    {
+      "code": "sabbas_sanctified",
+      "level": "great"
+    }
+  ],
+  "ka": {
+    "title": "ღირსი და ღმერთშემოსილი მამა საბა განწმენდილი",
+    "saints": [
+      "ღირსი საბა განწმენდილი (532 წ. — იერუსალიმის ლავრის და ტიპიკონის დამაარსებელი)"
+    ]
+  },
+  "en": {
+    "title": "Venerable and God-bearing Father Sabbas the Sanctified",
+    "saints": [
+      "Venerable Father Sabbas the Sanctified (532, Founder of the Lavra of St. Sabbas)"
+    ]
+  },
+  "ru": {
+    "title": "Преподобного и богоносного отца нашего Саввы Освященного",
+    "saints": [
+      "Преподобного Саввы Освященного (532)"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "gregorian_day": "12-17",
+  "julian_day": "12-04",
+  "feasts": [
+    {
+      "code": "st_barbara",
+      "level": "great"
+    }
+  ],
+  "ka": {
+    "title": "წმინდა დიდმოწამე ბარბარე (ბარბარობა). ღირსი იოანე დამასკელი",
+    "saints": [
+      "წმ. დიდმოწამე ბარბარე (306 წ. — ბავშვთა მფარველი და შემწე უეცარი სიკვდილისაგან, ბარბარობა)",
+      "ღირსი იოანე დამასკელი (ღვთისმეტყველი და საეკლესიო მგალობელი)"
+    ]
+  },
+  "en": {
+    "title": "Holy Great Martyr Barbara (Barbaroba). Venerable John of Damascus",
+    "saints": [
+      "Holy Great Martyr Barbara (306, Patroness against sudden death)",
+      "Venerable John of Damascus (Theologian and Hymnographer)"
+    ]
+  },
+  "ru": {
+    "title": "Святой великомученицы Варвары (Варварин день). Преподобного Иоанна Дамаскина",
+    "saints": [
+      "Святой великомученицы Варвары (306)",
+      "Преподобного Иоанна Дамаскина"
+    ]
+  }
+}

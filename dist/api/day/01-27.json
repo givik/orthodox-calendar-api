@@ -1,0 +1,34 @@
+{
+  "gregorian_day": "01-27",
+  "julian_day": "01-14",
+  "feasts": [
+    {
+      "code": "st_nino_repose",
+      "level": "georgian_great"
+    }
+  ],
+  "ka": {
+    "title": "წმინდა მოციქულთასწორი ნინო — ქართველთა განმანათლებელი (ნინოობა). სინასა და რაითში მოწყვეტილნი მამანი",
+    "saints": [
+      "წმ. მოციქულთასწორი ქალწული ნინო — ქართველთა განმანათლებელი (ნინოობა)",
+      "ღირსნი მამანი, სინასა და რაითში მოწყვეტილნი (IV-V ს.)",
+      "წმ. იოსებ ანალიტინელი"
+    ]
+  },
+  "en": {
+    "title": "Holy Equals-to-the-Apostles Nina (Nino), Enlightener of Georgia. Holy Fathers slain at Sinai and Raithu",
+    "saints": [
+      "Holy Equals-to-the-Apostles Nina (Nino), Enlightener of Georgia (Ninooba)",
+      "Holy Fathers slain at Sinai and Raithu",
+      "Venerable Joseph of Analytinus"
+    ]
+  },
+  "ru": {
+    "title": "Равноапостольной Нины, просветительницы Грузии. Преподобных отцев в Синае и Раифе избиенных",
+    "saints": [
+      "Равноапостольной Нины, просветительницы Грузии",
+      "Преподобных отцев, в Синае и Раифе избиенных",
+      "Преподобного Иосифа Аналитина"
+    ]
+  }
+}

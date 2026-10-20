@@ -1,0 +1,26 @@
+{
+  "gregorian_day": "01-25",
+  "julian_day": "01-12",
+  "feasts": [],
+  "ka": {
+    "title": "წმ. მოწამე ტატიანა. წმ. საბა სერბი",
+    "saints": [
+      "წმ. მოწამე ტატიანა რომაელი",
+      "წმ. საბა I, სერბეთის მთავარეპისკოპოსი"
+    ]
+  },
+  "en": {
+    "title": "Holy Martyr Tatiana of Rome. St. Sava of Serbia",
+    "saints": [
+      "Holy Martyr Tatiana of Rome",
+      "St. Sava I, Archbishop of Serbia"
+    ]
+  },
+  "ru": {
+    "title": "Мученицы Татианы Римской. Святителя Саввы Сербского",
+    "saints": [
+      "Мученицы Татианы Римской",
+      "Святителя Саввы I, архиепископа Сербского"
+    ]
+  }
+}

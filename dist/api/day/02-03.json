@@ -1,0 +1,29 @@
+{
+  "gregorian_day": "02-03",
+  "julian_day": "01-21",
+  "feasts": [],
+  "ka": {
+    "title": "ღირსი მაქსიმე აღმსარებელი. მოწამე ნეოფიტე",
+    "saints": [
+      "ღირსი მაქსიმე აღმსარებელი (მისი საფლავი საქართველოში, ცაგერშია)",
+      "წმ. მოწამე ნეოფიტე ნიკიელი",
+      "მოწამენი ევგენი, კანდიდა, ვალერიანე და აკვილა"
+    ]
+  },
+  "en": {
+    "title": "Venerable Maximus the Confessor. Martyr Neophytus",
+    "saints": [
+      "Venerable Maximus the Confessor (his tomb is in Tsageri, Georgia)",
+      "Holy Martyr Neophytus of Nicaea",
+      "Martyrs Eugene, Candidus, Valerian, and Aquila"
+    ]
+  },
+  "ru": {
+    "title": "Преподобного Максима Исповедника. Мученика Неофита",
+    "saints": [
+      "Преподобного Максима Исповедника",
+      "Мученика Неофита Никейского",
+      "Мучеников Евгения, Кандида, Валериана и Акилы"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "gregorian_day": "12-19",
+  "julian_day": "12-06",
+  "feasts": [
+    {
+      "code": "st_nicholas_winter",
+      "level": "great"
+    }
+  ],
+  "ka": {
+    "title": "წმინდა ნიკოლოზ საკვირველთმოქმედი, მირონ-ლუკიის მთავარეპისკოპოსი (ნიკოლოზობა)",
+    "saints": [
+      "წმ. ნიკოლოზ საკვირველთმოქმედი (345 წ. — საქართველოსა და მთელი მსოფლიოს საყვარელი წმინდანი, ნიკოლოზობა, თევზით ხსნილი)"
+    ]
+  },
+  "en": {
+    "title": "St. Nicholas the Wonderworker, Archbishop of Myra in Lycia",
+    "saints": [
+      "St. Nicholas the Wonderworker of Myra (345, Beloved Patron Saint, Fish allowed)"
+    ]
+  },
+  "ru": {
+    "title": "Святителя Николая, архиепископа Мир Ликийских, чудотворца (Никола зимний)",
+    "saints": [
+      "Святителя Николая, архиепископа Мир Ликийских, чудотворца (Разрешается рыба)"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "gregorian_day": "12-25",
+  "julian_day": "12-12",
+  "feasts": [
+    {
+      "code": "st_spyridon",
+      "level": "great"
+    }
+  ],
+  "ka": {
+    "title": "წმინდა სპირიდონ ტრიმიფუნტელი საკვირველთმოქმედი",
+    "saints": [
+      "წმ. სპირიდონ ტრიმიფუნტელი (348 წ. — I მსოფლიო კრების სასწაულმოქმედი მამა, კერპთა და ერესთა მამხილებელი)"
+    ]
+  },
+  "en": {
+    "title": "St. Spyridon the Wonderworker, Bishop of Tremithus",
+    "saints": [
+      "St. Spyridon the Wonderworker, Bishop of Tremithus (348)"
+    ]
+  },
+  "ru": {
+    "title": "Святителя Спиридона, епископа Тримифунтского, чудотворца",
+    "saints": [
+      "Святителя Спиридона Тримифунтского, чудотворца (348)"
+    ]
+  }
+}

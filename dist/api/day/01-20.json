@@ -1,0 +1,31 @@
+{
+  "gregorian_day": "01-20",
+  "julian_day": "01-07",
+  "feasts": [
+    {
+      "code": "synaxis_baptist",
+      "level": "great"
+    }
+  ],
+  "ka": {
+    "title": "კრება წმინდისა და დიდებულისა წინასწარმეტყველისა, წინამორბედისა და ნათლისმცემელისა იოანესი",
+    "saints": [
+      "კრება წმ. იოანე ნათლისმცემლისა",
+      "წმ. მოწამე იულიანე"
+    ]
+  },
+  "en": {
+    "title": "Synaxis of the Holy Prophet, Forerunner and Baptist John",
+    "saints": [
+      "Synaxis of the Holy Forerunner and Baptist John",
+      "Holy Martyr Julian"
+    ]
+  },
+  "ru": {
+    "title": "Собор Предтечи и Крестителя Господня Иоанна",
+    "saints": [
+      "Собор Предтечи и Крестителя Господня Иоанна",
+      "Мученика Иулиана"
+    ]
+  }
+}

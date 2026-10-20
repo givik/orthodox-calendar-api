@@ -1,0 +1,26 @@
+{
+  "gregorian_day": "03-31",
+  "julian_day": "03-18",
+  "feasts": [],
+  "ka": {
+    "title": "წმ. კირილე, იერუსალიმელი მთავარეპისკოპოსი",
+    "saints": [
+      "წმ. კირილე იერუსალიმელი (386 წ., კატეხიზმური სწავლებების ავტორი)",
+      "მოწამენი ტროფიმე და ევკარპიონი"
+    ]
+  },
+  "en": {
+    "title": "St. Cyril, Archbishop of Jerusalem",
+    "saints": [
+      "St. Cyril, Archbishop of Jerusalem (386, author of Catechetical Lectures)",
+      "Martyrs Trophimus and Eucarpion"
+    ]
+  },
+  "ru": {
+    "title": "Святителя Кирилла, архиепископа Иерусалимского",
+    "saints": [
+      "Святителя Кирилла, архиепископа Иерусалимского (386)",
+      "Мучеников Трофима и Евкарпия"
+    ]
+  }
+}

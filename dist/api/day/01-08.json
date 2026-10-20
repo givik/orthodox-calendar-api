@@ -1,0 +1,31 @@
+{
+  "gregorian_day": "01-08",
+  "julian_day": "12-26",
+  "feasts": [
+    {
+      "code": "synaxis_theotokos",
+      "level": "great"
+    }
+  ],
+  "ka": {
+    "title": "კრება ყოვლადწმიდისა ღვთისმშობლისა. მღვდელმოწამე ექვთიმე სარდიელი",
+    "saints": [
+      "კრება ყოვლადწმიდისა ღვთისმშობლისა",
+      "წმ. მართალი იოსებ დამწინდველი, დავით წინასწარმეტყველი და იაკობი ძმა უფლისა"
+    ]
+  },
+  "en": {
+    "title": "Synaxis of the Most Holy Theotokos. Hieromartyr Euthymius of Sardis",
+    "saints": [
+      "Synaxis of the Most Holy Theotokos",
+      "Righteous Joseph the Betrothed, King David, and St. James the Brother of the Lord"
+    ]
+  },
+  "ru": {
+    "title": "Собор Пресвятой Богородицы. Священномученика Евфимия, епископа Сардийского",
+    "saints": [
+      "Собор Пресвятой Богородицы",
+      "Святых праведных Иосифа Обручника, Давида царя и Иакова, брата Господня"
+    ]
+  }
+}

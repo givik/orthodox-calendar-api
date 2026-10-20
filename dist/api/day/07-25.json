@@ -1,0 +1,31 @@
+{
+  "gregorian_day": "07-25",
+  "julian_day": "07-12",
+  "feasts": [
+    {
+      "code": "st_gabriel_athos",
+      "level": "georgian_great"
+    }
+  ],
+  "ka": {
+    "title": "ღირსი გაბრიელ ათონელი — ივერიის ღვთისმშობლის ხატის წყლიდან გამომყვანებელი",
+    "saints": [
+      "ღირსი გაბრიელ ათონელი (X ს.) — რომელმაც ზღვიდან ფეხით გამოაბრძანა ივერიის ყოვლადწმიდა ღვთისმშობლის ხატი",
+      "მოწამენი პროკლე და ილარიონი"
+    ]
+  },
+  "en": {
+    "title": "Venerable Gabriel of Mount Athos, who brought the Iveron Icon from the sea",
+    "saints": [
+      "Venerable Gabriel of Mount Athos (X c.), who retrieved the Portaitissa Icon from the waves",
+      "Martyrs Proclus and Hilarion"
+    ]
+  },
+  "ru": {
+    "title": "Преподобного Гавриила Святогорца (Иверского), обретателя Иверской иконы Божией Матери",
+    "saints": [
+      "Преподобного Гавриила Святогорца (X в.)",
+      "Мучеников Прокла и Илария"
+    ]
+  }
+}

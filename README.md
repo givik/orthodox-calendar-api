@@ -31,6 +31,25 @@
 
 ## 🚀 სწრაფი გაშვება (Quickstart)
 
+### ვარიანტი 0: Serverless Static API (სერვერის გარეშე — GitHub Pages)
+თუ არ გსურთ სერვერის გაშვება და გჭირდებათ მხოლოდ უძრავი კალენდარი (წმინდანები და უძრავი დღესასწაულები), შეგიძლიათ პირდაპირ გამოიყენოთ GitHub Pages / CDN უფასოდ:
+
+- **14 ოქტომბერი (სვეტიცხოვლობა)**:
+  ```bash
+  curl -s "https://<YOUR-USERNAME>.github.io/orthodox-calendar-api/api/ka/10-14.json"
+  ```
+- **მთლიანი წლის JSON (სულ ~150 KB)**:
+  ```bash
+  curl -s "https://<YOUR-USERNAME>.github.io/orthodox-calendar-api/api/ka/all.json"
+  ```
+- **სტატიკური ფაილების ხელახალი გენერაცია**:
+  ```bash
+  python3 -m app.scripts.generate_static_api
+  ```
+  დაგენერირებული ფაილები განთავსდება `dist/` საქაღალდეში.
+
+---
+
 ### ვარიანტი 1: სუფთა Python (Zero dependencies — არ საჭიროებს ინსტალაციას)
 
 ```bash

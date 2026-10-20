@@ -1,0 +1,28 @@
+{
+  "gregorian_day": "07-07",
+  "julian_day": "06-24",
+  "feasts": [
+    {
+      "code": "nativity_baptist",
+      "level": "great"
+    }
+  ],
+  "ka": {
+    "title": "შობა წმინდისა დიდებულისა წინასწარმეტყველისა, წინამორბედისა და ნათლისმცემელისა იოანესი",
+    "saints": [
+      "შობა წმინდა იოანე ნათლისმცემლისა (უდიდესი საეკლესიო დღესასწაული)"
+    ]
+  },
+  "en": {
+    "title": "The Nativity of the Holy Prophet, Forerunner, and Baptist John",
+    "saints": [
+      "The Nativity of St. John the Baptist and Forerunner of the Lord"
+    ]
+  },
+  "ru": {
+    "title": "Рождество честного славного Пророка, Предтечи и Крестителя Господня Иоанна",
+    "saints": [
+      "Рождество святого Иоанна Предтечи"
+    ]
+  }
+}

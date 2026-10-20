@@ -1,0 +1,28 @@
+{
+  "gregorian_day": "02-15",
+  "julian_day": "02-02",
+  "feasts": [
+    {
+      "code": "meeting_of_the_lord",
+      "level": "twelve"
+    }
+  ],
+  "ka": {
+    "title": "მირქმა უფლისა ღმრთისა და მაცხოვრისა ჩვენისა იესო ქრისტესი",
+    "saints": [
+      "მირქმა უფლისა ჩვენისა იესო ქრისტესი (მე-12 საუფლო დღესასწაული — მართალი სვიმეონისა და ანა წინასწარმეტყველის მიერ უფლის მიგებება ტაძარში)"
+    ]
+  },
+  "en": {
+    "title": "The Meeting of our Lord, God, and Savior Jesus Christ in the Temple",
+    "saints": [
+      "The Meeting of our Lord in the Temple (Presentation in the Temple - Twelve Great Feast)"
+    ]
+  },
+  "ru": {
+    "title": "Сретение Господа Бога и Спаса нашего Иисуса Христа",
+    "saints": [
+      "Сретение Господне (Двунадесятый праздник)"
+    ]
+  }
+}

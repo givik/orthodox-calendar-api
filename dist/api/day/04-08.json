@@ -1,0 +1,31 @@
+{
+  "gregorian_day": "04-08",
+  "julian_day": "03-26",
+  "feasts": [
+    {
+      "code": "synaxis_gabriel",
+      "level": "great"
+    }
+  ],
+  "ka": {
+    "title": "კრება მთავარანგელოზისა გაბრიელისა",
+    "saints": [
+      "კრება წმიდისა მთავარანგელოზისა გაბრიელისა (ხარების მახარებელი)",
+      "მღვდელმოწამე ირინეოსი, სირმიელი ეპისკოპოსი"
+    ]
+  },
+  "en": {
+    "title": "Synaxis of the Archangel Gabriel",
+    "saints": [
+      "Synaxis of the Holy Archangel Gabriel (Herald of the Annunciation)",
+      "Hieromartyr Irenaeus, Bishop of Sirmium"
+    ]
+  },
+  "ru": {
+    "title": "Собор Архангела Гавриила",
+    "saints": [
+      "Собор Архангела Гавриила",
+      "Священномученика Иринея, епископа Сирмийского"
+    ]
+  }
+}

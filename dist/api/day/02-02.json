@@ -1,0 +1,31 @@
+{
+  "gregorian_day": "02-02",
+  "julian_day": "01-20",
+  "feasts": [
+    {
+      "code": "euthymius_great",
+      "level": "great"
+    }
+  ],
+  "ka": {
+    "title": "ღირსი ევთიმი დიდი. მოწამე ინა, პინა და რიმა",
+    "saints": [
+      "ღირსი ევთიმი დიდი (473 წ.)",
+      "წმ. მოწამენი ინა, პინა და რიმა"
+    ]
+  },
+  "en": {
+    "title": "Venerable Euthymius the Great. Martyrs Inna, Pinna, and Rimma",
+    "saints": [
+      "Venerable Euthymius the Great (473)",
+      "Martyrs Inna, Pinna, and Rimma"
+    ]
+  },
+  "ru": {
+    "title": "Преподобного Евфимия Великого. Мучеников Инны, Пинны и Риммы",
+    "saints": [
+      "Преподобного Евфимия Великого (473)",
+      "Мучеников Инны, Пинны и Риммы"
+    ]
+  }
+}

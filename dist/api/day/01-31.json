@@ -1,0 +1,26 @@
+{
+  "gregorian_day": "01-31",
+  "julian_day": "01-18",
+  "feasts": [],
+  "ka": {
+    "title": "წმ. ათანასე და კირილე, ალექსანდრიელი მთავარეპისკოპოსნი",
+    "saints": [
+      "წმ. ათანასე დიდი და კირილე ალექსანდრიელნი",
+      "ღირსი მარკიანე კვირელი"
+    ]
+  },
+  "en": {
+    "title": "Sts. Athanasius and Cyril, Archbishops of Alexandria",
+    "saints": [
+      "Sts. Athanasius the Great and Cyril, Archbishops of Alexandria",
+      "Venerable Marcian of Cyrrhus"
+    ]
+  },
+  "ru": {
+    "title": "Святителей Афанасия и Кирилла, архиепископов Александрийских",
+    "saints": [
+      "Святителей Афанасия и Кирилла, архиепископов Александрийских",
+      "Преподобного Маркиана Кирского"
+    ]
+  }
+}
