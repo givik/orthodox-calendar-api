@@ -1,0 +1,4 @@
+# Optional dependencies for FastAPI mode
+# Note: The core server runs with zero external dependencies!
+fastapi>=0.110.0
+uvicorn>=0.29.0

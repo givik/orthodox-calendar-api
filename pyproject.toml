@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "orthodox-calendar-api"
+version = "1.0.0"
+description = "Multilingual Orthodox Liturgical Calendar API (Georgian, English, Russian)"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [
+    {name = "Orthodox Calendar Contributors"}
+]
+keywords = ["orthodox", "calendar", "liturgical", "pascha", "easter", "georgian", "fasting", "saints", "api"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Religion",
+]
+
+[project.optional-dependencies]
+fastapi = [
+    "fastapi>=0.110.0",
+    "uvicorn>=0.29.0",
+]
+
+[project.scripts]
+orthodox-calendar = "app.cli:main"
+orthodox-server = "app.main:main"

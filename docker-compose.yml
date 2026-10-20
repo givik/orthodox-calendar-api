@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  orthodox-calendar-api:
+    build: .
+    container_name: orthodox-calendar-api
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
