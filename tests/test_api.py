@@ -103,6 +103,15 @@ class TestCalendarAPI(unittest.TestCase):
         self.assertEqual(status, 200)
         self.assertTrue(data["feasts_count"] > 10)
 
+    def test_feasts_lords_endpoint(self):
+        status, data, _ = self._request("/api/v1/feasts/lords/2026?lang=ka")
+        self.assertEqual(status, 200)
+        self.assertEqual(data["category"], "lords")
+        self.assertEqual(data["feasts_count"], 10)
+        titles = [f["title"] for f in data["feasts"]]
+        self.assertTrue(any("აღდგომა" in t for t in titles))
+        self.assertTrue(any("შობა" in t for t in titles))
+
     def test_invalid_date_error(self):
         status, data, _ = self._request("/api/v1/day?date=invalid-date")
         self.assertEqual(status, 400)

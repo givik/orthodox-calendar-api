@@ -194,46 +194,51 @@ class CalendarService:
             "movable_cycle_events": events_list,
         }
 
-    def get_year_feasts(self, year: int, lang: str = "ka", calendar_style: str = "old") -> Dict[str, Any]:
-        """Lists the Great Feasts and major holidays for a given year."""
+    def get_year_feasts(self, year: int, lang: str = "ka", calendar_style: str = "old", category: Optional[str] = None) -> Dict[str, Any]:
+        """
+        Lists the Great Feasts for a given year.
+        category can be 'lords' (საუფლო), 'theotokos' (საღვთისმშობლო), 'saints' (წმინდანთა), or None (ყველა).
+        """
         if lang not in ("ka", "en", "ru"):
             lang = "ka"
 
-        # Fixed feasts in Julian dates
+        # Fixed feasts in Julian dates: (j_key, code, category, title_ka, title_en, title_ru)
         FIXED_GREAT_FEASTS_JULIAN = [
-            ("01-01", "circumcision", "ხორციელი წინადაცვეთა უფლისა ჩვენისა. წმ. ბასილი დიდი", "Circumcision of Christ. St. Basil the Great", "Обрезание Господне"),
-            ("01-06", "theophany", "ნათლისღება უფლისა (ღმრთისგამოცხადება)", "The Holy Theophany of Christ", "Крещение Господне (Богоявление)"),
-            ("01-14", "st_nino", "წმ. ნინოს ხსენება (ნინოობა)", "St. Nino, Enlightener of Georgia", "Равноапостольной Нины Грузии"),
-            ("01-26", "david_builder", "წმ. დავით აღმაშენებელი (დავითობა)", "St. David the Builder of Georgia", "Благоверного царя Давида Строителя"),
-            ("02-02", "meeting_lord", "მირქმა უფლისა ჩვენისა იესო ქრისტესი", "Meeting of the Lord in the Temple", "Сретение Господне"),
-            ("03-25", "annunciation", "ხარება ყოვლადწმიდისა ღვთისმშობლისა", "Annunciation of the Theotokos", "Благовещение Пресвятой Богородицы"),
-            ("04-23", "st_george", "წმ. დიდმოწამე გიორგი (გიორგობა)", "Holy Great Martyr George", "Святого великомученика Георгия"),
-            ("05-01", "st_tamar", "წმ. თამარ მეფე (თამარობა)", "Holy Queen Tamar of Georgia", "Благоверной царицы Тамары"),
-            ("06-24", "nativity_baptist", "შობა წმ. იოანე ნათლისმცემლისა", "Nativity of St. John the Baptist", "Рождество Иоанна Предтечи"),
-            ("06-29", "peter_and_paul", "წმ. მოციქულები პეტრე და პავლე (პეტრე-პავლობა)", "Holy Apostles Peter and Paul", "Святых апостолов Петра и Павла"),
-            ("07-20", "prophet_elijah", "წმ. ელია წინასწარმეტყველი (ელიაობა) და წმ. ილია მართალი", "Holy Prophet Elijah & St. Ilia the Righteous", "Святого пророка Илии"),
-            ("08-06", "transfiguration", "ფერისცვალება უფლისა ჩვენისა იესო ქრისტესი", "Transfiguration of our Lord", "Преображение Господне"),
-            ("08-15", "dormition", "მიძინება ყოვლადწმიდისა ღვთისმშობლისა (მარიამობა)", "Dormition of the Theotokos (Mariamoba)", "Успение Пресвятой Богородицы"),
-            ("08-29", "beheading_baptist", "იოანე ნათლისმცემლის თავისკვეთა", "Beheading of St. John the Baptist", "Усекновение главы Иоанна Предтечи"),
-            ("09-08", "nativity_theotokos", "შობა ყოვლადწმიდისა ღვთისმშობლისა (ღვთისმშობლობა)", "Nativity of the Theotokos", "Рождество Пресвятой Богородицы"),
-            ("09-14", "elevation_cross", "ჯვართამაღლება", "Elevation of the Holy Cross", "Воздвижение Креста Господня"),
-            ("10-01", "svetitskhovloba", "სვეტიცხოვლობა (მცხეთობა) და საფარველი ღვთისმშობლისა", "Svetitskhovloba (Mtskhetoba) & Pokrov", "Светицховлоба и Покров Богородицы"),
-            ("10-31", "hundred_thousand", "ას წამებულთა ხსენება (ასი ათასი ქართველი მოწამე)", "100,000 Holy Martyrs of Tbilisi", "100 000 святых мучеников Тбилисских"),
-            ("11-10", "st_george_wheeling", "წმ. გიორგის ბორბალზე წამება (გიორგობა)", "Wheeling of St. George", "Колесование святого великомученика Георгия"),
-            ("11-21", "entry_theotokos", "ტაძრად მიყვანება ყოვლადწმიდისა ღვთისმშობლისა", "Entry of the Theotokos into the Temple", "Введение во храм Пресвятой Богородицы"),
-            ("11-30", "st_andrew_vakhtang", "წმ. ანდრია პირველწოდებული და წმ. ვახტანგ გორგასალი", "St. Andrew the First-Called & St. Vakhtang Gorgasali", "Апостола Андрея и царя Вахтанга Горгасали"),
-            ("12-04", "st_barbara", "წმ. დიდმოწამე ბარბარე (ბარბარობა)", "Holy Great Martyr Barbara", "Святой великомученицы Варвары"),
-            ("12-06", "st_nicholas", "წმ. ნიკოლოზ საკვირველთმოქმედი (ნიკოლოზობა)", "St. Nicholas the Wonderworker", "Святителя Николая Чудотворца"),
-            ("12-25", "nativity_christ", "შობა უფლისა ჩვენისა იესო ქრისტესი (ქრისტეშობა)", "The Nativity of our Lord Jesus Christ (Christmas)", "Рождество Христово"),
+            ("01-01", "circumcision", "lords", "ხორციელი წინადაცვეთა უფლისა ჩვენისა", "Circumcision of Christ", "Обрезание Господне"),
+            ("01-06", "theophany", "lords", "ნათლისღება უფლისა (ღმრთისგამოცხადება)", "The Holy Theophany of Christ", "Крещение Господне (Богоявление)"),
+            ("01-14", "st_nino", "saints", "წმ. ნინოს ხსენება (ნინოობა)", "St. Nino, Enlightener of Georgia", "Равноапостольной Нины Грузии"),
+            ("01-26", "david_builder", "saints", "წმ. დავით აღმაშენებელი (დავითობა)", "St. David the Builder of Georgia", "Благоверного царя Давида Строителя"),
+            ("02-02", "meeting_lord", "lords", "მირქმა უფლისა ჩვენისა იესო ქრისტესი", "Meeting of the Lord in the Temple", "Сретение Господне"),
+            ("03-25", "annunciation", "theotokos", "ხარება ყოვლადწმიდისა ღვთისმშობლისა", "Annunciation of the Theotokos", "Благовещение Пресвятой Богородицы"),
+            ("04-23", "st_george", "saints", "წმ. დიდმოწამე გიორგი (გიორგობა)", "Holy Great Martyr George", "Святого великомученика Георгия"),
+            ("05-01", "st_tamar", "saints", "წმ. თამარ მეფე (თამარობა)", "Holy Queen Tamar of Georgia", "Благоверной царицы Тамары"),
+            ("06-24", "nativity_baptist", "saints", "შობა წმ. იოანე ნათლისმცემლისა", "Nativity of St. John the Baptist", "Рождество Иоанна Предтечи"),
+            ("06-29", "peter_and_paul", "saints", "წმ. მოციქულები პეტრე და პავლე (პეტრე-პავლობა)", "Holy Apostles Peter and Paul", "Святых апостолов Петра и Павла"),
+            ("07-20", "prophet_elijah", "saints", "წმ. ელია წინასწარმეტყველი (ელიაობა) და წმ. ილია მართალი", "Holy Prophet Elijah & St. Ilia the Righteous", "Святого пророка Илии"),
+            ("08-06", "transfiguration", "lords", "ფერისცვალება უფლისა ჩვენისა იესო ქრისტესი", "Transfiguration of our Lord", "Преображение Господне"),
+            ("08-15", "dormition", "theotokos", "მიძინება ყოვლადწმიდისა ღვთისმშობლისა (მარიამობა)", "Dormition of the Theotokos (Mariamoba)", "Успение Пресвятой Богородицы"),
+            ("08-29", "beheading_baptist", "saints", "იოანე ნათლისმცემლის თავისკვეთა", "Beheading of St. John the Baptist", "Усекновение главы Иоанна Предтечи"),
+            ("09-08", "nativity_theotokos", "theotokos", "შობა ყოვლადწმიდისა ღვთისმშობლისა (ღვთისმშობლობა)", "Nativity of the Theotokos", "Рождество Пресвятой Богородицы"),
+            ("09-14", "elevation_cross", "lords", "ჯვართამაღლება", "Elevation of the Holy Cross", "Воздвижение Креста Господня"),
+            ("10-01", "svetitskhovloba", "theotokos", "სვეტიცხოვლობა (მცხეთობა) და საფარველი ღვთისმშობლისა", "Svetitskhovloba (Mtskhetoba) & Pokrov", "Светицховлоба и Покров Богородицы"),
+            ("10-31", "hundred_thousand", "saints", "ას წამებულთა ხსენება (ასი ათასი ქართველი მოწამე)", "100,000 Holy Martyrs of Tbilisi", "100 000 святых мучеников Тбилисских"),
+            ("11-10", "st_george_wheeling", "saints", "წმ. გიორგის ბორბალზე წამება (გიორგობა)", "Wheeling of St. George", "Колесование святого великомученика Георгия"),
+            ("11-21", "entry_theotokos", "theotokos", "ტაძრად მიყვანება ყოვლადწმიდისა ღვთისმშობლისა", "Entry of the Theotokos into the Temple", "Введение во храм Пресвятой Богородицы"),
+            ("11-30", "st_andrew_vakhtang", "saints", "წმ. ანდრია პირველწოდებული და წმ. ვახტანგ გორგასალი", "St. Andrew the First-Called & St. Vakhtang Gorgasali", "Апостола Андрея и царя Вахтанга Горгасали"),
+            ("12-04", "st_barbara", "saints", "წმ. დიდმოწამე ბარბარე (ბარბარობა)", "Holy Great Martyr Barbara", "Святой великомученицы Варвары"),
+            ("12-06", "st_nicholas", "saints", "წმ. ნიკოლოზ საკვირველთმოქმედი (ნიკოლოზობა)", "St. Nicholas the Wonderworker", "Святителя Николая Чудотворца"),
+            ("12-25", "nativity_christ", "lords", "შობა უფლისა ჩვენისა იესო ქრისტესი (ქრისტეშობა)", "The Nativity of our Lord Jesus Christ (Christmas)", "Рождество Христово"),
         ]
 
         feasts_result = []
 
-        # 1. Add Movable Great Feasts
+        # 1. Add Movable Feasts of the Lord (საუფლო დღესასწაულები)
         pascha_info = self.get_pascha_info(year, lang=lang)
         for ev in pascha_info["movable_cycle_events"]:
             if ev["code"] in ("palm_sunday", "pascha", "ascension", "pentecost"):
                 feasts_result.append({
+                    "category": "lords",
+                    "category_name": "საუფლო დღესასწაული" if lang == "ka" else ("Feast of the Lord" if lang == "en" else "Господский праздник"),
                     "type": "movable",
                     "code": ev["code"],
                     "title": ev["title"],
@@ -241,29 +246,60 @@ class CalendarService:
                 })
 
         # 2. Add Fixed Great Feasts
-        for j_key, code, title_ka, title_en, title_ru in FIXED_GREAT_FEASTS_JULIAN:
+        for j_key, code, cat, title_ka, title_en, title_ru in FIXED_GREAT_FEASTS_JULIAN:
             jm, jd = map(int, j_key.split("-"))
             if calendar_style == "old":
                 # Convert Julian date to Gregorian date
                 g_d = julian_to_gregorian(year, jm, jd)
+                if g_d.year > year:
+                    g_d = julian_to_gregorian(year - 1, jm, jd)
+                elif g_d.year < year:
+                    g_d = julian_to_gregorian(year + 1, jm, jd)
             else:
                 g_d = date(year, jm, jd)
 
             title_map = {"ka": title_ka, "en": title_en, "ru": title_ru}
+            cat_names = {
+                "lords": {"ka": "საუფლო დღესასწაული", "en": "Feast of the Lord", "ru": "Господский праздник"},
+                "theotokos": {"ka": "საღვთისმშობლო დღესასწაული", "en": "Marian Feast", "ru": "Богородичный праздник"},
+                "saints": {"ka": "დიდი წმინდანის ხსენება", "en": "Great Saint Commemoration", "ru": "Память великого святого"},
+            }
             feasts_result.append({
+                "category": cat,
+                "category_name": cat_names.get(cat, {}).get(lang, cat),
                 "type": "fixed",
                 "code": code,
                 "title": title_map[lang],
                 "gregorian_date": g_d.isoformat(),
             })
 
-        # Sort by date
+        # Sort chronologically by date
         feasts_result.sort(key=lambda x: x["gregorian_date"])
+
+        # Filter by category if requested
+        if category and category in ("lords", "theotokos", "saints"):
+            feasts_result = [f for f in feasts_result if f["category"] == category]
+
+        cat_title = {
+            "lords": {"ka": "საუფლო დღესასწაულები", "en": "Feasts of the Lord (Dominical)", "ru": "Господские праздники"},
+            "theotokos": {"ka": "საღვთისმშობლო დღესასწაულები", "en": "Theotokos (Marian) Feasts", "ru": "Богородичные праздники"},
+            "saints": {"ka": "დიდ წმინდანთა დღესასწაულები", "en": "Great Saints Feasts", "ru": "Праздники великих святых"},
+        }
 
         return {
             "year": year,
             "calendar_style": calendar_style,
             "language": lang,
+            "category": category or "all",
+            "category_title": cat_title.get(category, {}).get(lang, "ყველა დიდი დღესასწაული" if lang == "ka" else "All Great Feasts"),
             "feasts_count": len(feasts_result),
             "feasts": feasts_result,
         }
+
+    def get_dominical_feasts(self, year: int, lang: str = "ka", calendar_style: str = "old") -> Dict[str, Any]:
+        """Convenience method to retrieve specifically the Feasts of the Lord (საუფლო დღესასწაულები)."""
+        return self.get_year_feasts(year, lang=lang, calendar_style=calendar_style, category="lords")
+
+    def get_theotokos_feasts(self, year: int, lang: str = "ka", calendar_style: str = "old") -> Dict[str, Any]:
+        """Convenience method to retrieve specifically the Marian Feasts (საღვთისმშობლო დღესასწაულები)."""
+        return self.get_year_feasts(year, lang=lang, calendar_style=calendar_style, category="theotokos")

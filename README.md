@@ -236,15 +236,35 @@ curl -s "http://localhost:8000/api/v1/pascha/2026?lang=ka"
 
 ---
 
-### 5. წლის უდიდესი დღესასწაულები
-`GET /api/v1/feasts/{year}`
+### 5. საუფლო დღესასწაულები (ცალკე ენდფოინთი)
+`GET /api/v1/feasts/lords/{year}`
 
-**მაგალითი:**
+მოიცავს უფლისა ჩვენისა იესო ქრისტეს სახელზე დაწესებულ 10 უდიდეს საუფლო დღესასწაულს (შობა, წინადაცვეთა, ნათლისღება, მირქმა, ბზობა, აღდგომა, ამაღლება, სულთმოფენობა, ფერისცვალება, ჯვართამაღლება):
+
 ```bash
-curl -s "http://localhost:8000/api/v1/feasts/2026?lang=ka"
+# REST API (ცოცხალი სერვერი):
+curl -s "http://localhost:8000/api/v1/feasts/lords/2026?lang=ka"
+
+# Serverless Static API (GitHub Pages):
+curl -s "https://<YOUR-USERNAME>.github.io/orthodox-calendar-api/api/ka/feasts_lords.json"
+
+# CLI:
+python3 -m app.cli lords 2026
 ```
 
 ---
+
+### 6. საღვთისმშობლო დღესასწაულები
+`GET /api/v1/feasts/theotokos/{year}`
+
+```bash
+curl -s "http://localhost:8000/api/v1/feasts/theotokos/2026?lang=ka"
+```
+
+---
+
+### 7. წლის ყველა დიდი დღესასწაული
+`GET /api/v1/feasts/{year}` (მხარდაჭერილია ფილტრი: `?category=lords|theotokos|saints`)
 
 ## 🛠️ ინტეგრაციის მაგალითები სხვა აპლიკაციებში
 

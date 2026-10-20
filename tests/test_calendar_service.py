@@ -69,6 +69,28 @@ class TestCalendarService(unittest.TestCase):
         self.assertIn("svetitskhovloba", codes)
         self.assertIn("st_george", codes)
 
+    def test_dominical_feasts_lords(self):
+        lords = self.service.get_dominical_feasts(2026, lang="ka")
+        self.assertEqual(lords["category"], "lords")
+        self.assertEqual(lords["feasts_count"], 10)
+        codes = [f["code"] for f in lords["feasts"]]
+        self.assertIn("pascha", codes)
+        self.assertIn("nativity_christ", codes)
+        self.assertIn("theophany", codes)
+        self.assertIn("transfiguration", codes)
+        self.assertIn("elevation_cross", codes)
+        self.assertIn("ascension", codes)
+        self.assertIn("pentecost", codes)
+        self.assertIn("palm_sunday", codes)
+
+    def test_theotokos_feasts(self):
+        marian = self.service.get_theotokos_feasts(2026, lang="ka")
+        self.assertEqual(marian["category"], "theotokos")
+        codes = [f["code"] for f in marian["feasts"]]
+        self.assertIn("dormition", codes)
+        self.assertIn("nativity_theotokos", codes)
+        self.assertIn("annunciation", codes)
+
 
 if __name__ == "__main__":
     unittest.main()

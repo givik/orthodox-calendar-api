@@ -1,0 +1,704 @@
+{
+  "ka": {
+    "year": 2026,
+    "calendar_style": "old",
+    "language": "ka",
+    "category": "all",
+    "category_title": "ყველა დიდი დღესასწაული",
+    "feasts_count": 28,
+    "feasts": [
+      {
+        "category": "lords",
+        "category_name": "საუფლო დღესასწაული",
+        "type": "fixed",
+        "code": "nativity_christ",
+        "title": "შობა უფლისა ჩვენისა იესო ქრისტესი (ქრისტეშობა)",
+        "gregorian_date": "2026-01-07"
+      },
+      {
+        "category": "lords",
+        "category_name": "საუფლო დღესასწაული",
+        "type": "fixed",
+        "code": "circumcision",
+        "title": "ხორციელი წინადაცვეთა უფლისა ჩვენისა",
+        "gregorian_date": "2026-01-14"
+      },
+      {
+        "category": "lords",
+        "category_name": "საუფლო დღესასწაული",
+        "type": "fixed",
+        "code": "theophany",
+        "title": "ნათლისღება უფლისა (ღმრთისგამოცხადება)",
+        "gregorian_date": "2026-01-19"
+      },
+      {
+        "category": "saints",
+        "category_name": "დიდი წმინდანის ხსენება",
+        "type": "fixed",
+        "code": "st_nino",
+        "title": "წმ. ნინოს ხსენება (ნინოობა)",
+        "gregorian_date": "2026-01-27"
+      },
+      {
+        "category": "saints",
+        "category_name": "დიდი წმინდანის ხსენება",
+        "type": "fixed",
+        "code": "david_builder",
+        "title": "წმ. დავით აღმაშენებელი (დავითობა)",
+        "gregorian_date": "2026-02-08"
+      },
+      {
+        "category": "lords",
+        "category_name": "საუფლო დღესასწაული",
+        "type": "fixed",
+        "code": "meeting_lord",
+        "title": "მირქმა უფლისა ჩვენისა იესო ქრისტესი",
+        "gregorian_date": "2026-02-15"
+      },
+      {
+        "category": "lords",
+        "category_name": "საუფლო დღესასწაული",
+        "type": "movable",
+        "code": "palm_sunday",
+        "title": "ბზობა — უფლის დიდებით შესვლა იერუსალიმში",
+        "gregorian_date": "2026-04-05"
+      },
+      {
+        "category": "theotokos",
+        "category_name": "საღვთისმშობლო დღესასწაული",
+        "type": "fixed",
+        "code": "annunciation",
+        "title": "ხარება ყოვლადწმიდისა ღვთისმშობლისა",
+        "gregorian_date": "2026-04-07"
+      },
+      {
+        "category": "lords",
+        "category_name": "საუფლო დღესასწაული",
+        "type": "movable",
+        "code": "pascha",
+        "title": "ქრისტეს ბრწყინვალე აღდგომა (პასექი)",
+        "gregorian_date": "2026-04-12"
+      },
+      {
+        "category": "saints",
+        "category_name": "დიდი წმინდანის ხსენება",
+        "type": "fixed",
+        "code": "st_george",
+        "title": "წმ. დიდმოწამე გიორგი (გიორგობა)",
+        "gregorian_date": "2026-05-06"
+      },
+      {
+        "category": "saints",
+        "category_name": "დიდი წმინდანის ხსენება",
+        "type": "fixed",
+        "code": "st_tamar",
+        "title": "წმ. თამარ მეფე (თამარობა)",
+        "gregorian_date": "2026-05-14"
+      },
+      {
+        "category": "lords",
+        "category_name": "საუფლო დღესასწაული",
+        "type": "movable",
+        "code": "ascension",
+        "title": "ამაღლება უფლისა ჩვენისა იესო ქრისტესი",
+        "gregorian_date": "2026-05-21"
+      },
+      {
+        "category": "lords",
+        "category_name": "საუფლო დღესასწაული",
+        "type": "movable",
+        "code": "pentecost",
+        "title": "სულთმოფენობა (წმინდა სამების დღე)",
+        "gregorian_date": "2026-05-31"
+      },
+      {
+        "category": "saints",
+        "category_name": "დიდი წმინდანის ხსენება",
+        "type": "fixed",
+        "code": "nativity_baptist",
+        "title": "შობა წმ. იოანე ნათლისმცემლისა",
+        "gregorian_date": "2026-07-07"
+      },
+      {
+        "category": "saints",
+        "category_name": "დიდი წმინდანის ხსენება",
+        "type": "fixed",
+        "code": "peter_and_paul",
+        "title": "წმ. მოციქულები პეტრე და პავლე (პეტრე-პავლობა)",
+        "gregorian_date": "2026-07-12"
+      },
+      {
+        "category": "saints",
+        "category_name": "დიდი წმინდანის ხსენება",
+        "type": "fixed",
+        "code": "prophet_elijah",
+        "title": "წმ. ელია წინასწარმეტყველი (ელიაობა) და წმ. ილია მართალი",
+        "gregorian_date": "2026-08-02"
+      },
+      {
+        "category": "lords",
+        "category_name": "საუფლო დღესასწაული",
+        "type": "fixed",
+        "code": "transfiguration",
+        "title": "ფერისცვალება უფლისა ჩვენისა იესო ქრისტესი",
+        "gregorian_date": "2026-08-19"
+      },
+      {
+        "category": "theotokos",
+        "category_name": "საღვთისმშობლო დღესასწაული",
+        "type": "fixed",
+        "code": "dormition",
+        "title": "მიძინება ყოვლადწმიდისა ღვთისმშობლისა (მარიამობა)",
+        "gregorian_date": "2026-08-28"
+      },
+      {
+        "category": "saints",
+        "category_name": "დიდი წმინდანის ხსენება",
+        "type": "fixed",
+        "code": "beheading_baptist",
+        "title": "იოანე ნათლისმცემლის თავისკვეთა",
+        "gregorian_date": "2026-09-11"
+      },
+      {
+        "category": "theotokos",
+        "category_name": "საღვთისმშობლო დღესასწაული",
+        "type": "fixed",
+        "code": "nativity_theotokos",
+        "title": "შობა ყოვლადწმიდისა ღვთისმშობლისა (ღვთისმშობლობა)",
+        "gregorian_date": "2026-09-21"
+      },
+      {
+        "category": "lords",
+        "category_name": "საუფლო დღესასწაული",
+        "type": "fixed",
+        "code": "elevation_cross",
+        "title": "ჯვართამაღლება",
+        "gregorian_date": "2026-09-27"
+      },
+      {
+        "category": "theotokos",
+        "category_name": "საღვთისმშობლო დღესასწაული",
+        "type": "fixed",
+        "code": "svetitskhovloba",
+        "title": "სვეტიცხოვლობა (მცხეთობა) და საფარველი ღვთისმშობლისა",
+        "gregorian_date": "2026-10-14"
+      },
+      {
+        "category": "saints",
+        "category_name": "დიდი წმინდანის ხსენება",
+        "type": "fixed",
+        "code": "hundred_thousand",
+        "title": "ას წამებულთა ხსენება (ასი ათასი ქართველი მოწამე)",
+        "gregorian_date": "2026-11-13"
+      },
+      {
+        "category": "saints",
+        "category_name": "დიდი წმინდანის ხსენება",
+        "type": "fixed",
+        "code": "st_george_wheeling",
+        "title": "წმ. გიორგის ბორბალზე წამება (გიორგობა)",
+        "gregorian_date": "2026-11-23"
+      },
+      {
+        "category": "theotokos",
+        "category_name": "საღვთისმშობლო დღესასწაული",
+        "type": "fixed",
+        "code": "entry_theotokos",
+        "title": "ტაძრად მიყვანება ყოვლადწმიდისა ღვთისმშობლისა",
+        "gregorian_date": "2026-12-04"
+      },
+      {
+        "category": "saints",
+        "category_name": "დიდი წმინდანის ხსენება",
+        "type": "fixed",
+        "code": "st_andrew_vakhtang",
+        "title": "წმ. ანდრია პირველწოდებული და წმ. ვახტანგ გორგასალი",
+        "gregorian_date": "2026-12-13"
+      },
+      {
+        "category": "saints",
+        "category_name": "დიდი წმინდანის ხსენება",
+        "type": "fixed",
+        "code": "st_barbara",
+        "title": "წმ. დიდმოწამე ბარბარე (ბარბარობა)",
+        "gregorian_date": "2026-12-17"
+      },
+      {
+        "category": "saints",
+        "category_name": "დიდი წმინდანის ხსენება",
+        "type": "fixed",
+        "code": "st_nicholas",
+        "title": "წმ. ნიკოლოზ საკვირველთმოქმედი (ნიკოლოზობა)",
+        "gregorian_date": "2026-12-19"
+      }
+    ]
+  },
+  "en": {
+    "year": 2026,
+    "calendar_style": "old",
+    "language": "en",
+    "category": "all",
+    "category_title": "All Great Feasts",
+    "feasts_count": 28,
+    "feasts": [
+      {
+        "category": "lords",
+        "category_name": "Feast of the Lord",
+        "type": "fixed",
+        "code": "nativity_christ",
+        "title": "The Nativity of our Lord Jesus Christ (Christmas)",
+        "gregorian_date": "2026-01-07"
+      },
+      {
+        "category": "lords",
+        "category_name": "Feast of the Lord",
+        "type": "fixed",
+        "code": "circumcision",
+        "title": "Circumcision of Christ",
+        "gregorian_date": "2026-01-14"
+      },
+      {
+        "category": "lords",
+        "category_name": "Feast of the Lord",
+        "type": "fixed",
+        "code": "theophany",
+        "title": "The Holy Theophany of Christ",
+        "gregorian_date": "2026-01-19"
+      },
+      {
+        "category": "saints",
+        "category_name": "Great Saint Commemoration",
+        "type": "fixed",
+        "code": "st_nino",
+        "title": "St. Nino, Enlightener of Georgia",
+        "gregorian_date": "2026-01-27"
+      },
+      {
+        "category": "saints",
+        "category_name": "Great Saint Commemoration",
+        "type": "fixed",
+        "code": "david_builder",
+        "title": "St. David the Builder of Georgia",
+        "gregorian_date": "2026-02-08"
+      },
+      {
+        "category": "lords",
+        "category_name": "Feast of the Lord",
+        "type": "fixed",
+        "code": "meeting_lord",
+        "title": "Meeting of the Lord in the Temple",
+        "gregorian_date": "2026-02-15"
+      },
+      {
+        "category": "lords",
+        "category_name": "Feast of the Lord",
+        "type": "movable",
+        "code": "palm_sunday",
+        "title": "Palm Sunday — The Entry of the Lord into Jerusalem",
+        "gregorian_date": "2026-04-05"
+      },
+      {
+        "category": "theotokos",
+        "category_name": "Marian Feast",
+        "type": "fixed",
+        "code": "annunciation",
+        "title": "Annunciation of the Theotokos",
+        "gregorian_date": "2026-04-07"
+      },
+      {
+        "category": "lords",
+        "category_name": "Feast of the Lord",
+        "type": "movable",
+        "code": "pascha",
+        "title": "The Bright and Glorious Resurrection of Christ (Pascha)",
+        "gregorian_date": "2026-04-12"
+      },
+      {
+        "category": "saints",
+        "category_name": "Great Saint Commemoration",
+        "type": "fixed",
+        "code": "st_george",
+        "title": "Holy Great Martyr George",
+        "gregorian_date": "2026-05-06"
+      },
+      {
+        "category": "saints",
+        "category_name": "Great Saint Commemoration",
+        "type": "fixed",
+        "code": "st_tamar",
+        "title": "Holy Queen Tamar of Georgia",
+        "gregorian_date": "2026-05-14"
+      },
+      {
+        "category": "lords",
+        "category_name": "Feast of the Lord",
+        "type": "movable",
+        "code": "ascension",
+        "title": "The Ascension of our Lord Jesus Christ",
+        "gregorian_date": "2026-05-21"
+      },
+      {
+        "category": "lords",
+        "category_name": "Feast of the Lord",
+        "type": "movable",
+        "code": "pentecost",
+        "title": "Pentecost (Descent of the Holy Spirit / Holy Trinity)",
+        "gregorian_date": "2026-05-31"
+      },
+      {
+        "category": "saints",
+        "category_name": "Great Saint Commemoration",
+        "type": "fixed",
+        "code": "nativity_baptist",
+        "title": "Nativity of St. John the Baptist",
+        "gregorian_date": "2026-07-07"
+      },
+      {
+        "category": "saints",
+        "category_name": "Great Saint Commemoration",
+        "type": "fixed",
+        "code": "peter_and_paul",
+        "title": "Holy Apostles Peter and Paul",
+        "gregorian_date": "2026-07-12"
+      },
+      {
+        "category": "saints",
+        "category_name": "Great Saint Commemoration",
+        "type": "fixed",
+        "code": "prophet_elijah",
+        "title": "Holy Prophet Elijah & St. Ilia the Righteous",
+        "gregorian_date": "2026-08-02"
+      },
+      {
+        "category": "lords",
+        "category_name": "Feast of the Lord",
+        "type": "fixed",
+        "code": "transfiguration",
+        "title": "Transfiguration of our Lord",
+        "gregorian_date": "2026-08-19"
+      },
+      {
+        "category": "theotokos",
+        "category_name": "Marian Feast",
+        "type": "fixed",
+        "code": "dormition",
+        "title": "Dormition of the Theotokos (Mariamoba)",
+        "gregorian_date": "2026-08-28"
+      },
+      {
+        "category": "saints",
+        "category_name": "Great Saint Commemoration",
+        "type": "fixed",
+        "code": "beheading_baptist",
+        "title": "Beheading of St. John the Baptist",
+        "gregorian_date": "2026-09-11"
+      },
+      {
+        "category": "theotokos",
+        "category_name": "Marian Feast",
+        "type": "fixed",
+        "code": "nativity_theotokos",
+        "title": "Nativity of the Theotokos",
+        "gregorian_date": "2026-09-21"
+      },
+      {
+        "category": "lords",
+        "category_name": "Feast of the Lord",
+        "type": "fixed",
+        "code": "elevation_cross",
+        "title": "Elevation of the Holy Cross",
+        "gregorian_date": "2026-09-27"
+      },
+      {
+        "category": "theotokos",
+        "category_name": "Marian Feast",
+        "type": "fixed",
+        "code": "svetitskhovloba",
+        "title": "Svetitskhovloba (Mtskhetoba) & Pokrov",
+        "gregorian_date": "2026-10-14"
+      },
+      {
+        "category": "saints",
+        "category_name": "Great Saint Commemoration",
+        "type": "fixed",
+        "code": "hundred_thousand",
+        "title": "100,000 Holy Martyrs of Tbilisi",
+        "gregorian_date": "2026-11-13"
+      },
+      {
+        "category": "saints",
+        "category_name": "Great Saint Commemoration",
+        "type": "fixed",
+        "code": "st_george_wheeling",
+        "title": "Wheeling of St. George",
+        "gregorian_date": "2026-11-23"
+      },
+      {
+        "category": "theotokos",
+        "category_name": "Marian Feast",
+        "type": "fixed",
+        "code": "entry_theotokos",
+        "title": "Entry of the Theotokos into the Temple",
+        "gregorian_date": "2026-12-04"
+      },
+      {
+        "category": "saints",
+        "category_name": "Great Saint Commemoration",
+        "type": "fixed",
+        "code": "st_andrew_vakhtang",
+        "title": "St. Andrew the First-Called & St. Vakhtang Gorgasali",
+        "gregorian_date": "2026-12-13"
+      },
+      {
+        "category": "saints",
+        "category_name": "Great Saint Commemoration",
+        "type": "fixed",
+        "code": "st_barbara",
+        "title": "Holy Great Martyr Barbara",
+        "gregorian_date": "2026-12-17"
+      },
+      {
+        "category": "saints",
+        "category_name": "Great Saint Commemoration",
+        "type": "fixed",
+        "code": "st_nicholas",
+        "title": "St. Nicholas the Wonderworker",
+        "gregorian_date": "2026-12-19"
+      }
+    ]
+  },
+  "ru": {
+    "year": 2026,
+    "calendar_style": "old",
+    "language": "ru",
+    "category": "all",
+    "category_title": "All Great Feasts",
+    "feasts_count": 28,
+    "feasts": [
+      {
+        "category": "lords",
+        "category_name": "Господский праздник",
+        "type": "fixed",
+        "code": "nativity_christ",
+        "title": "Рождество Христово",
+        "gregorian_date": "2026-01-07"
+      },
+      {
+        "category": "lords",
+        "category_name": "Господский праздник",
+        "type": "fixed",
+        "code": "circumcision",
+        "title": "Обрезание Господне",
+        "gregorian_date": "2026-01-14"
+      },
+      {
+        "category": "lords",
+        "category_name": "Господский праздник",
+        "type": "fixed",
+        "code": "theophany",
+        "title": "Крещение Господне (Богоявление)",
+        "gregorian_date": "2026-01-19"
+      },
+      {
+        "category": "saints",
+        "category_name": "Память великого святого",
+        "type": "fixed",
+        "code": "st_nino",
+        "title": "Равноапостольной Нины Грузии",
+        "gregorian_date": "2026-01-27"
+      },
+      {
+        "category": "saints",
+        "category_name": "Память великого святого",
+        "type": "fixed",
+        "code": "david_builder",
+        "title": "Благоверного царя Давида Строителя",
+        "gregorian_date": "2026-02-08"
+      },
+      {
+        "category": "lords",
+        "category_name": "Господский праздник",
+        "type": "fixed",
+        "code": "meeting_lord",
+        "title": "Сретение Господне",
+        "gregorian_date": "2026-02-15"
+      },
+      {
+        "category": "lords",
+        "category_name": "Господский праздник",
+        "type": "movable",
+        "code": "palm_sunday",
+        "title": "Вербное воскресенье — Вход Господень в Иерусалим",
+        "gregorian_date": "2026-04-05"
+      },
+      {
+        "category": "theotokos",
+        "category_name": "Богородичный праздник",
+        "type": "fixed",
+        "code": "annunciation",
+        "title": "Благовещение Пресвятой Богородицы",
+        "gregorian_date": "2026-04-07"
+      },
+      {
+        "category": "lords",
+        "category_name": "Господский праздник",
+        "type": "movable",
+        "code": "pascha",
+        "title": "Светлое Христово Воскресение (Пасха)",
+        "gregorian_date": "2026-04-12"
+      },
+      {
+        "category": "saints",
+        "category_name": "Память великого святого",
+        "type": "fixed",
+        "code": "st_george",
+        "title": "Святого великомученика Георгия",
+        "gregorian_date": "2026-05-06"
+      },
+      {
+        "category": "saints",
+        "category_name": "Память великого святого",
+        "type": "fixed",
+        "code": "st_tamar",
+        "title": "Благоверной царицы Тамары",
+        "gregorian_date": "2026-05-14"
+      },
+      {
+        "category": "lords",
+        "category_name": "Господский праздник",
+        "type": "movable",
+        "code": "ascension",
+        "title": "Вознесение Господне",
+        "gregorian_date": "2026-05-21"
+      },
+      {
+        "category": "lords",
+        "category_name": "Господский праздник",
+        "type": "movable",
+        "code": "pentecost",
+        "title": "День Святой Троицы (Пятидесятница)",
+        "gregorian_date": "2026-05-31"
+      },
+      {
+        "category": "saints",
+        "category_name": "Память великого святого",
+        "type": "fixed",
+        "code": "nativity_baptist",
+        "title": "Рождество Иоанна Предтечи",
+        "gregorian_date": "2026-07-07"
+      },
+      {
+        "category": "saints",
+        "category_name": "Память великого святого",
+        "type": "fixed",
+        "code": "peter_and_paul",
+        "title": "Святых апостолов Петра и Павла",
+        "gregorian_date": "2026-07-12"
+      },
+      {
+        "category": "saints",
+        "category_name": "Память великого святого",
+        "type": "fixed",
+        "code": "prophet_elijah",
+        "title": "Святого пророка Илии",
+        "gregorian_date": "2026-08-02"
+      },
+      {
+        "category": "lords",
+        "category_name": "Господский праздник",
+        "type": "fixed",
+        "code": "transfiguration",
+        "title": "Преображение Господне",
+        "gregorian_date": "2026-08-19"
+      },
+      {
+        "category": "theotokos",
+        "category_name": "Богородичный праздник",
+        "type": "fixed",
+        "code": "dormition",
+        "title": "Успение Пресвятой Богородицы",
+        "gregorian_date": "2026-08-28"
+      },
+      {
+        "category": "saints",
+        "category_name": "Память великого святого",
+        "type": "fixed",
+        "code": "beheading_baptist",
+        "title": "Усекновение главы Иоанна Предтечи",
+        "gregorian_date": "2026-09-11"
+      },
+      {
+        "category": "theotokos",
+        "category_name": "Богородичный праздник",
+        "type": "fixed",
+        "code": "nativity_theotokos",
+        "title": "Рождество Пресвятой Богородицы",
+        "gregorian_date": "2026-09-21"
+      },
+      {
+        "category": "lords",
+        "category_name": "Господский праздник",
+        "type": "fixed",
+        "code": "elevation_cross",
+        "title": "Воздвижение Креста Господня",
+        "gregorian_date": "2026-09-27"
+      },
+      {
+        "category": "theotokos",
+        "category_name": "Богородичный праздник",
+        "type": "fixed",
+        "code": "svetitskhovloba",
+        "title": "Светицховлоба и Покров Богородицы",
+        "gregorian_date": "2026-10-14"
+      },
+      {
+        "category": "saints",
+        "category_name": "Память великого святого",
+        "type": "fixed",
+        "code": "hundred_thousand",
+        "title": "100 000 святых мучеников Тбилисских",
+        "gregorian_date": "2026-11-13"
+      },
+      {
+        "category": "saints",
+        "category_name": "Память великого святого",
+        "type": "fixed",
+        "code": "st_george_wheeling",
+        "title": "Колесование святого великомученика Георгия",
+        "gregorian_date": "2026-11-23"
+      },
+      {
+        "category": "theotokos",
+        "category_name": "Богородичный праздник",
+        "type": "fixed",
+        "code": "entry_theotokos",
+        "title": "Введение во храм Пресвятой Богородицы",
+        "gregorian_date": "2026-12-04"
+      },
+      {
+        "category": "saints",
+        "category_name": "Память великого святого",
+        "type": "fixed",
+        "code": "st_andrew_vakhtang",
+        "title": "Апостола Андрея и царя Вахтанга Горгасали",
+        "gregorian_date": "2026-12-13"
+      },
+      {
+        "category": "saints",
+        "category_name": "Память великого святого",
+        "type": "fixed",
+        "code": "st_barbara",
+        "title": "Святой великомученицы Варвары",
+        "gregorian_date": "2026-12-17"
+      },
+      {
+        "category": "saints",
+        "category_name": "Память великого святого",
+        "type": "fixed",
+        "code": "st_nicholas",
+        "title": "Святителя Николая Чудотворца",
+        "gregorian_date": "2026-12-19"
+      }
+    ]
+  }
+}

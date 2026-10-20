@@ -64,16 +64,18 @@ def main():
                 print(f"   • {ev['date']} ({ev['offset']:+3d} დღე): {ev['title']}")
         return
 
-    # Sub-command: feasts
-    if args.query == "feasts":
+    # Sub-command: feasts, lords, theotokos
+    if args.query in ("feasts", "lords", "theotokos"):
         year = args.year or date.today().year
-        data = service.get_year_feasts(year, lang=args.lang, calendar_style=args.calendar)
+        cat = "lords" if args.query == "lords" else ("theotokos" if args.query == "theotokos" else None)
+        data = service.get_year_feasts(year, lang=args.lang, calendar_style=args.calendar, category=cat)
         if args.json:
             print(json.dumps(data, ensure_ascii=False, indent=2))
         else:
-            print(f"☦️ {year} წლის უდიდესი დღესასწაულები ({args.calendar.upper()} კალენდარი):")
+            print(f"☦️ {year} წლის {data['category_title']} ({args.calendar.upper()} კალენდარი):")
             for f in data["feasts"]:
-                print(f"   • {f['gregorian_date']} — {f['title']}")
+                cat_tag = f"[{f.get('category_name', '')}] " if not cat else ""
+                print(f"   • {f['gregorian_date']} — {cat_tag}{f['title']}")
         return
 
     # Date query: today or YYYY-MM-DD

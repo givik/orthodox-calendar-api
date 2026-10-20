@@ -158,6 +158,21 @@
       <ul class="saints-list" id="saints-list"></ul>
     </div>
 
+    <div class="card" id="lords-feasts-card">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; border-bottom: 1px solid var(--border); padding-bottom: 8px;">
+        <h2 style="margin: 0;">👑 საუფლო დღესასწაულები (Feasts of the Lord)</h2>
+        <span class="badge" style="margin: 0; background: #b45309;">10 უდიდესი დღესასწაული</span>
+      </div>
+      <p style="color: var(--text-muted); font-size: 0.95rem; margin-bottom: 16px;">
+        უფლისა ჩვენისა იესო ქრისტეს სახელზე დაწესებული უდიდესი საუფლო დღესასწაულები მიმდინარე წლისთვის:
+      </p>
+      <ul class="saints-list" id="lords-feasts-list"></ul>
+      <div class="url-box" style="margin-top: 16px;">
+        <span id="lords-api-url">api/ka/feasts_lords.json</span>
+        <button class="copy-btn" onclick="copyLordsUrl()">Copy JSON URL</button>
+      </div>
+    </div>
+
     <div class="card">
       <h2>📡 პირდაპირი Static API მისამართი ამ დღისთვის</h2>
       <p style="color: var(--text-muted); font-size: 0.95rem;">ნებისმიერ აპლიკაციას შეუძლია ამ JSON ფაილის პირდაპირ წამოღება:</p>
@@ -237,12 +252,45 @@ async function getSaint(monthDay = '10-14', lang = 'ka') {
       alert('URL დაკოპირებულია!');
     }
 
+    const lordsListEl = document.getElementById('lords-feasts-list');
+    const lordsApiUrlEl = document.getElementById('lords-api-url');
+
+    async function loadLordsFeasts() {
+      const lang = langSelect.value;
+      const lordsPath = `api/${lang}/feasts_lords.json`;
+      const fullLordsUrl = new URL(lordsPath, window.location.href).href;
+      if (lordsApiUrlEl) lordsApiUrlEl.textContent = fullLordsUrl;
+
+      try {
+        const resp = await fetch(lordsPath);
+        if (!resp.ok) return;
+        const data = await resp.json();
+        lordsListEl.innerHTML = '';
+        data.feasts.forEach(f => {
+          const li = document.createElement('li');
+          li.style.borderLeftColor = '#f59e0b';
+          li.innerHTML = `<strong>${f.gregorian_date}</strong>: ${f.title}`;
+          lordsListEl.appendChild(li);
+        });
+      } catch (e) {
+        // Fallback gracefully if offline
+      }
+    }
+
+    function copyLordsUrl() {
+      if (lordsApiUrlEl) {
+        navigator.clipboard.writeText(lordsApiUrlEl.textContent);
+        alert('საუფლო დღესასწაულების URL დაკოპირებულია!');
+      }
+    }
+
     dateInput.addEventListener('change', loadData);
-    langSelect.addEventListener('change', loadData);
+    langSelect.addEventListener('change', () => { loadData(); loadLordsFeasts(); });
     todayBtn.addEventListener('click', setToday);
 
     // Initial load
     setToday();
+    loadLordsFeasts();
   </script>
 </body>
 </html>

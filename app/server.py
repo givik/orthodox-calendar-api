@@ -367,11 +367,28 @@ class CalendarAPIHandler(BaseHTTPRequestHandler):
             self._send_json(data)
             return
 
-        # 10. /api/v1/feasts/{year}
+        # 10. /api/v1/feasts/lords/{year} (საუფლო დღესასწაულები)
+        match_lords = re.match(r"^/api/v1/feasts/lords/(\d{4})$", path)
+        if match_lords:
+            y = int(match_lords.group(1))
+            data = service.get_dominical_feasts(y, lang=lang, calendar_style=calendar_style)
+            self._send_json(data)
+            return
+
+        # 11. /api/v1/feasts/theotokos/{year} (საღვთისმშობლო დღესასწაულები)
+        match_theotokos = re.match(r"^/api/v1/feasts/theotokos/(\d{4})$", path)
+        if match_theotokos:
+            y = int(match_theotokos.group(1))
+            data = service.get_theotokos_feasts(y, lang=lang, calendar_style=calendar_style)
+            self._send_json(data)
+            return
+
+        # 12. /api/v1/feasts/{year}
         match_feasts = re.match(r"^/api/v1/feasts/(\d{4})$", path)
         if match_feasts:
             y = int(match_feasts.group(1))
-            data = service.get_year_feasts(y, lang=lang, calendar_style=calendar_style)
+            category_param = query.get("category", [None])[0]
+            data = service.get_year_feasts(y, lang=lang, calendar_style=calendar_style, category=category_param)
             self._send_json(data)
             return
 

@@ -1,0 +1,272 @@
+{
+  "ka": {
+    "year": 2026,
+    "calendar_style": "old",
+    "language": "ka",
+    "category": "lords",
+    "category_title": "საუფლო დღესასწაულები",
+    "feasts_count": 10,
+    "feasts": [
+      {
+        "category": "lords",
+        "category_name": "საუფლო დღესასწაული",
+        "type": "fixed",
+        "code": "nativity_christ",
+        "title": "შობა უფლისა ჩვენისა იესო ქრისტესი (ქრისტეშობა)",
+        "gregorian_date": "2026-01-07"
+      },
+      {
+        "category": "lords",
+        "category_name": "საუფლო დღესასწაული",
+        "type": "fixed",
+        "code": "circumcision",
+        "title": "ხორციელი წინადაცვეთა უფლისა ჩვენისა",
+        "gregorian_date": "2026-01-14"
+      },
+      {
+        "category": "lords",
+        "category_name": "საუფლო დღესასწაული",
+        "type": "fixed",
+        "code": "theophany",
+        "title": "ნათლისღება უფლისა (ღმრთისგამოცხადება)",
+        "gregorian_date": "2026-01-19"
+      },
+      {
+        "category": "lords",
+        "category_name": "საუფლო დღესასწაული",
+        "type": "fixed",
+        "code": "meeting_lord",
+        "title": "მირქმა უფლისა ჩვენისა იესო ქრისტესი",
+        "gregorian_date": "2026-02-15"
+      },
+      {
+        "category": "lords",
+        "category_name": "საუფლო დღესასწაული",
+        "type": "movable",
+        "code": "palm_sunday",
+        "title": "ბზობა — უფლის დიდებით შესვლა იერუსალიმში",
+        "gregorian_date": "2026-04-05"
+      },
+      {
+        "category": "lords",
+        "category_name": "საუფლო დღესასწაული",
+        "type": "movable",
+        "code": "pascha",
+        "title": "ქრისტეს ბრწყინვალე აღდგომა (პასექი)",
+        "gregorian_date": "2026-04-12"
+      },
+      {
+        "category": "lords",
+        "category_name": "საუფლო დღესასწაული",
+        "type": "movable",
+        "code": "ascension",
+        "title": "ამაღლება უფლისა ჩვენისა იესო ქრისტესი",
+        "gregorian_date": "2026-05-21"
+      },
+      {
+        "category": "lords",
+        "category_name": "საუფლო დღესასწაული",
+        "type": "movable",
+        "code": "pentecost",
+        "title": "სულთმოფენობა (წმინდა სამების დღე)",
+        "gregorian_date": "2026-05-31"
+      },
+      {
+        "category": "lords",
+        "category_name": "საუფლო დღესასწაული",
+        "type": "fixed",
+        "code": "transfiguration",
+        "title": "ფერისცვალება უფლისა ჩვენისა იესო ქრისტესი",
+        "gregorian_date": "2026-08-19"
+      },
+      {
+        "category": "lords",
+        "category_name": "საუფლო დღესასწაული",
+        "type": "fixed",
+        "code": "elevation_cross",
+        "title": "ჯვართამაღლება",
+        "gregorian_date": "2026-09-27"
+      }
+    ]
+  },
+  "en": {
+    "year": 2026,
+    "calendar_style": "old",
+    "language": "en",
+    "category": "lords",
+    "category_title": "Feasts of the Lord (Dominical)",
+    "feasts_count": 10,
+    "feasts": [
+      {
+        "category": "lords",
+        "category_name": "Feast of the Lord",
+        "type": "fixed",
+        "code": "nativity_christ",
+        "title": "The Nativity of our Lord Jesus Christ (Christmas)",
+        "gregorian_date": "2026-01-07"
+      },
+      {
+        "category": "lords",
+        "category_name": "Feast of the Lord",
+        "type": "fixed",
+        "code": "circumcision",
+        "title": "Circumcision of Christ",
+        "gregorian_date": "2026-01-14"
+      },
+      {
+        "category": "lords",
+        "category_name": "Feast of the Lord",
+        "type": "fixed",
+        "code": "theophany",
+        "title": "The Holy Theophany of Christ",
+        "gregorian_date": "2026-01-19"
+      },
+      {
+        "category": "lords",
+        "category_name": "Feast of the Lord",
+        "type": "fixed",
+        "code": "meeting_lord",
+        "title": "Meeting of the Lord in the Temple",
+        "gregorian_date": "2026-02-15"
+      },
+      {
+        "category": "lords",
+        "category_name": "Feast of the Lord",
+        "type": "movable",
+        "code": "palm_sunday",
+        "title": "Palm Sunday — The Entry of the Lord into Jerusalem",
+        "gregorian_date": "2026-04-05"
+      },
+      {
+        "category": "lords",
+        "category_name": "Feast of the Lord",
+        "type": "movable",
+        "code": "pascha",
+        "title": "The Bright and Glorious Resurrection of Christ (Pascha)",
+        "gregorian_date": "2026-04-12"
+      },
+      {
+        "category": "lords",
+        "category_name": "Feast of the Lord",
+        "type": "movable",
+        "code": "ascension",
+        "title": "The Ascension of our Lord Jesus Christ",
+        "gregorian_date": "2026-05-21"
+      },
+      {
+        "category": "lords",
+        "category_name": "Feast of the Lord",
+        "type": "movable",
+        "code": "pentecost",
+        "title": "Pentecost (Descent of the Holy Spirit / Holy Trinity)",
+        "gregorian_date": "2026-05-31"
+      },
+      {
+        "category": "lords",
+        "category_name": "Feast of the Lord",
+        "type": "fixed",
+        "code": "transfiguration",
+        "title": "Transfiguration of our Lord",
+        "gregorian_date": "2026-08-19"
+      },
+      {
+        "category": "lords",
+        "category_name": "Feast of the Lord",
+        "type": "fixed",
+        "code": "elevation_cross",
+        "title": "Elevation of the Holy Cross",
+        "gregorian_date": "2026-09-27"
+      }
+    ]
+  },
+  "ru": {
+    "year": 2026,
+    "calendar_style": "old",
+    "language": "ru",
+    "category": "lords",
+    "category_title": "Господские праздники",
+    "feasts_count": 10,
+    "feasts": [
+      {
+        "category": "lords",
+        "category_name": "Господский праздник",
+        "type": "fixed",
+        "code": "nativity_christ",
+        "title": "Рождество Христово",
+        "gregorian_date": "2026-01-07"
+      },
+      {
+        "category": "lords",
+        "category_name": "Господский праздник",
+        "type": "fixed",
+        "code": "circumcision",
+        "title": "Обрезание Господне",
+        "gregorian_date": "2026-01-14"
+      },
+      {
+        "category": "lords",
+        "category_name": "Господский праздник",
+        "type": "fixed",
+        "code": "theophany",
+        "title": "Крещение Господне (Богоявление)",
+        "gregorian_date": "2026-01-19"
+      },
+      {
+        "category": "lords",
+        "category_name": "Господский праздник",
+        "type": "fixed",
+        "code": "meeting_lord",
+        "title": "Сретение Господне",
+        "gregorian_date": "2026-02-15"
+      },
+      {
+        "category": "lords",
+        "category_name": "Господский праздник",
+        "type": "movable",
+        "code": "palm_sunday",
+        "title": "Вербное воскресенье — Вход Господень в Иерусалим",
+        "gregorian_date": "2026-04-05"
+      },
+      {
+        "category": "lords",
+        "category_name": "Господский праздник",
+        "type": "movable",
+        "code": "pascha",
+        "title": "Светлое Христово Воскресение (Пасха)",
+        "gregorian_date": "2026-04-12"
+      },
+      {
+        "category": "lords",
+        "category_name": "Господский праздник",
+        "type": "movable",
+        "code": "ascension",
+        "title": "Вознесение Господне",
+        "gregorian_date": "2026-05-21"
+      },
+      {
+        "category": "lords",
+        "category_name": "Господский праздник",
+        "type": "movable",
+        "code": "pentecost",
+        "title": "День Святой Троицы (Пятидесятница)",
+        "gregorian_date": "2026-05-31"
+      },
+      {
+        "category": "lords",
+        "category_name": "Господский праздник",
+        "type": "fixed",
+        "code": "transfiguration",
+        "title": "Преображение Господне",
+        "gregorian_date": "2026-08-19"
+      },
+      {
+        "category": "lords",
+        "category_name": "Господский праздник",
+        "type": "fixed",
+        "code": "elevation_cross",
+        "title": "Воздвижение Креста Господня",
+        "gregorian_date": "2026-09-27"
+      }
+    ]
+  }
+}
